@@ -1,0 +1,174 @@
+[
+    {
+        "idName": "sbn",
+        "displayName": "Smarte Byer Norge",
+        "slogan": "Smartbynettverk for alle",
+        "summary": "Vi driver frem bærekraftig smartbyutvikling og innovasjon ved å koble  smartby-entusiaster på tvers av fag, bransjer, organisasjoner og næringsliv. Dette gjør vi ved å tilby arenaer for samskaping. ",
+        "description": "Smarte Byer Norge nettverket er nordens største smartbynettverk der alle aktører som er interessert i smartbyutvikling møtes for å  diskutere, dele erfaringer og bistå hverandre. Smarte byer er ikke en sektor eller bransje der de fleste vet om hverandre og hvem som gjør hva. Vi ser på det som et tverrfaglig område der stat og kommune, store og små bedrifter, samt FoU-aktører og organisasjoner i sivilsamfunnet må samhandle om vi skal gjøre samfunnet smartere.",
+        "url": "http://www.smartebyernorge.no",
+        "phone": "90056958",
+        "location": {
+            "visitingAddress": {
+                "street": "vestengkleiva 3",
+                "city": "Asker",
+                "postcode": "1385",
+                "country": "Norway"
+            }            
+        },
+        "image": {
+            "cover": "http://bucket.urbalurba.com/net/sbn/arendalsuka-alle.jpg",
+            "profile": "http://bucket.urbalurba.com/net/sbn/sbn-profile.jpg",
+            "icon": "http://bucket.urbalurba.com/net/sbn/sbn-icon.png"
+        },
+        "domains": ["smartebyernorge.no", "smartcitiesnorway.com"],
+        "networkMemberTypes": [
+            {
+                "entityType": "org",
+                "displayName": "Medlemskatagorier",
+                "categoryIdNames": ["orgtype","sdg", "segment", "challenge","tag" ]
+            },
+            {
+                "entityType": "sol",
+                "displayName": "Løsningskategorier",
+                "categoryIdNames": ["sdg","segment", "challenge","tag", "sustainability", "value"]
+            }
+        ]
+    },
+    {
+        "idName": "cor",
+        "displayName": "Core dev network",
+        "slogan": "demo development network",
+        "summary": "for developing new networks",
+        "description": "just for development",
+        "url": "http://www.norkor.no",
+        "phone": "",
+        "location": {
+            "visitingAddress": {
+                "street": "vestengkleiva 3",
+                "city": "Asker",
+                "postcode": "1385",
+                "country": "Norway"
+            }            
+        },
+        "image": {
+            "cover": "http://bucket.urbalurba.com/net/cor/cor-cover.png",
+            "profile": "http://bucket.urbalurba.com/net/cor/cor-profile.png",
+            "icon": "http://bucket.urbalurba.com/net/cor/cor-icon.png"
+        },
+        "domains": ["norkor.no"],
+        "networkMemberTypes": [
+            {
+                "entityType": "org",
+                "displayName": "Medlemskatagorier",
+                "categoryIdNames": ["orgtype","sdg", "segment", "challenge","tag" ]
+            },
+            {
+                "entityType": "sol",
+                "displayName": "Løsningskategorier",
+                "categoryIdNames": ["sdg","segment", "challenge","tag", "sustainability", "value"]
+            },
+            {
+                "entityType": "blog",
+                "displayName": "Blogginnlegg",
+                "categoryIdNames": ["sdg","segment", "challenge","tag"]
+            },
+            {
+                "entityType": "event",
+                "displayName": "Blogginnlegg",
+                "categoryIdNames": ["sdg", "segment", "challenge","tag" ]
+            }
+        ]
+    },
+    {
+        "idName": "gba",
+        "displayName": "Grønn Byggallianse",
+        "slogan": "Vi jobber for bærekraft som det selvfølgelige valget", 
+        "summary": "Grønn Byggallianse er en non-profit medlemsforening der virksomheter fra hele verdikjeden innen bygg- og eiendom kan være medlem.",
+        "description": "Grønn Byggallianse har som formål å være den viktigste norske katalysatoren for en bærekraftig bygg- og eiendomssektor – for og med næringen.",
+        "url": "https://byggalliansen.no/",
+        "phone": "93234955",
+        "location": {
+            "visitingAddress": {
+                "street": "Schweigaardsgate 34C",
+                "city": " Oslo",
+                "postcode": "0191",
+                "country": "Norway"
+            }            
+        },
+        "image": {
+            "cover": "http://bucket.urbalurba.com/net/gba/gba-cover.jpg",
+            "profile": "http://bucket.urbalurba.com/net/gba/gba-profile.png",
+            "icon": "http://bucket.urbalurba.com/net/gba/gba-icon.png"
+        },
+        "domains": ["byggalliansen.no"],
+        "networkMemberTypes": [
+            {
+                "entityType": "org",
+                "displayName": "Medlemskatagorier",
+                "categoryIdNames": ["sdg","bream"]
+            }
+        ]         
+    },
+    {
+        "idName": "kystrv",
+        "displayName": "Kystriksveien",
+        "slogan": "Verdens vakreste reiserute", 
+        "summary": "Kystriksveien strekker seg over 650 km og byr på noe av de flotteste norskekysten har å vise frem. Høydepunkter som Saltstraumen, Svartisen, De Syv Søstre og Torghatten er opplevelser du kan få med deg om du tar turen.",
+        "description": "",
+        "url": "https://www.kystriksveien.no/",
+        "phone": "",
+        "location": {
+            "visitingAddress": {
+                "street": "Sjøfartsgata 2A",
+                "city": " Steinkjer",
+                "postcode": "7714",
+                "country": "Norway"
+            }            
+        },
+        "image": {
+            "cover": "http://bucket.urbalurba.com/net/gba/gba-cover.jpg",
+            "profile": "https://www.kystriksveien.no/wp-content/uploads/2020/01/cropped-KystRV_logo-e1578389463867.png",
+            "icon": "http://bucket.urbalurba.com/net/gba/gba-icon.png"
+        },
+        "domains": ["kystriksveien.no"],
+        "networkMemberTypes": [
+            {
+                "entityType": "org",
+                "displayName": "Medlemskatagorier",
+                "categoryIdNames": ["sdg"]
+            }
+        ]         
+    },
+    {
+        "idName": "inthub",
+        "displayName": "Oslo International Hub",
+        "slogan": "Oslo International Hub", 
+        "summary": "Welcome Home where entrepreneurship and international business meet. We are an environment for innovation and development where social and professional networking go hand in hand",
+        "description": "",
+        "url": "https://oslointernationalhub.com/",
+        "phone": "",
+        "location": {
+            "visitingAddress": {
+                "street": "Oscars gate 27",
+                "city": " Oslo",
+                "postcode": "0352",
+                "country": "Norway"
+            }            
+        },
+        "image": {
+            "cover": "http://bucket.urbalurba.com/net/gba/gba-cover.jpg",
+            "profile": "https://www.kystriksveien.no/wp-content/uploads/2020/01/cropped-KystRV_logo-e1578389463867.png",
+            "icon": "http://bucket.urbalurba.com/net/gba/gba-icon.png"
+        },
+        "domains": ["oslointernationalhub.com"],
+        "networkMemberTypes": [
+            {
+                "entityType": "org",
+                "displayName": "Medlemskatagorier",
+                "categoryIdNames": [ "challenge" ]
+            }
+        ]         
+    }
+
+
+]    
