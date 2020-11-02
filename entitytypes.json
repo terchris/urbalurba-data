@@ -2,7 +2,7 @@
     {
         "idName": "org",
         "displayName": "Organization",
-        "summary": "Organizations are businesses, municipalities, research etc",
+        "summary": "Organizations are businesses, municipalities, research etc.",
         "image": {
             "cover": "http://bucket.urbalurba.com/cat/entitytype/org-cover.jpg",
             "profile": "http://bucket.urbalurba.com/cat/entitytype/org-profile.jpg",
