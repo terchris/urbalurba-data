@@ -37,7 +37,7 @@
     {
         "idName": "cor",
         "displayName": "Core dev network for test",
-        "slogan": "demo development network",
+        "slogan": "demo development network for testing",
         "summary": "for developing new networks",
         "description": "just for development",
         "url": "http://www.norkor.no",
