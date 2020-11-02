@@ -36,7 +36,7 @@
     },
     {
         "idName": "cor",
-        "displayName": "Core dev network",
+        "displayName": "Core dev network for test",
         "slogan": "demo development network",
         "summary": "for developing new networks",
         "description": "just for development",
