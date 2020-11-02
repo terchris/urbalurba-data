@@ -122,7 +122,7 @@
         ],
         "displayName": "Organisasjonstype",
         "idName": "orgtype",
-        "summary": "Types of organizations",
+        "summary": "Types of organizations som finnes",
         "image": {
             "icon": "http://bucket.urbalurba.com/cat/orgtype/orgtype-logo-small.jpg",
             "profile": "http://bucket.urbalurba.com/cat/orgtype/orgtype-logo-medium.png",
