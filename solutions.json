@@ -1,0 +1,924 @@
+[
+    {
+        "idName": "elektrisk-passasjerferge",
+        "displayName": "Elektrisk passasjerferge",
+        "slogan": "Verdens første elektriske passasjerskip",
+        "summary": "Høsten 2019 ble fergen Go'Vakker Elen satt i drift i Fredrikstad. Fergen er en av de første i sitt slag i verden. Den er 100% elektrisk og lades med induksjon mens den ligger til kai.",
+        "description": "Go´vakker Elen er etter det vi vet verdens første passasjerskip som regnes som elektrisk drevet. Med fulladede batterier vil ferga kunne driftes ca. 40 minutter på full fart (noe over 9 knop), og over 4 timer i 5 knop (som er maks i elva Glomma).Det er ikke bare batteridriften som er imponerende og innovativt når det gjelder Go´Vakker Elen. Det er også måten fergen lades på. Her slipper man skjøteledning. Elen lades induktivt når den legger til ved fergeleiet og trenge å lade mellom 1 og 2 minutter for å kompensere for energitapet ved en tur/retur-reise over Glomma. Det er omtrent den tiden det tar å gå av og på ferga. Som de andre passasjerfergene som drives av Fredrikstad kommune, er også denne gratis for passasjerene å bruke.\r\n\r\nHvorfor regner vi Go'Vakker Elen som et smartbyprosjekt? Det er fordi hun bidrar flere mål i Smart Fredrikstad-Strategien: Denne elektriske fergen bidrar til at innbyggerne har et miljøvennlig alternativ til transport, den bidrar til mindre støy, og den sparer kommunen for penger.Vi regner med at driftskostnadene blir inntil 80% mindre enn for de gamle dieseldrevne fergene.Denne ene fergen alene er beregnet til å spare 250.000 kroner i diesel, og 50.000 kroner i driftsutgifter årlig. Passasjerene kan ta med seg sykkel ombord.",
+        "url": "https://www.fredrikstad.kommune.no/aktuelt/elferga-govakker-elen-dopt/",
+        "phone": "",
+        "status": {
+            "displayName": "Ongoing",
+            "summary": "I drift siden høsten 2019. Flere avganger daglig."
+        },
+        "entitytypeIdName": "sol",
+        "image": {
+            "cover": "https://www.smartfredrikstad.no/wp-content/uploads/2018/03/smart-fredrikstad-strategi.jpg",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/entry/fredrikstad-kommune/elen.png",
+            "icon": ""
+        },
+        "location": {
+            "visitingAddress": {
+                "street": "Rådhuset, Nygaardsgaten 14-16",
+                "city": "Fredrikstad",
+                "postcode": "1606",
+                "country": "Norway"
+            }
+        },
+        "network_memberships": [
+            "sbn"
+        ],
+        "categoryAnswers": [
+            {
+                "categoryIdName": "sdg",
+                "answers": [
+                    {
+                        "answerIdName": "11",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "13",
+                        "text": null
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "segment",
+                "answers": [
+                    {
+                        "answerIdName": "mobility",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "energy",
+                        "text": null
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "challenge",
+                "answers": [
+                    {
+                        "answerIdName": "reducing-use-of-fossils-in-public-transport",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "promoting-sustainable-behavior",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "reducing-local-air-pollution",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "reducing-use-of-fossils",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "promoting-active-living",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "improving-life-quality",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "reducing-operation-costs",
+                        "text": null
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "value",
+                "answers": [
+                    {
+                        "answerIdName": "expected",
+                        "text": "Den elektriske fergen bidrar til at innbyggerne har et miljøvennlig alternativ til transport, den bidrar til mindre støy, og den sparer kommunen for penger. Vi regner med at driftskostnadene blir inntil 80% mindre enn for de gamle dieseldrevne fergene. Denne ene fergen alene er beregnet til å spare 250.000 kroner i diesel, og omlag 50.000 kroner i driftsutgifter årlig."
+                    },
+                    {
+                        "answerIdName": "measured",
+                        "text": "Ikke utført ennå."
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "sustainability",
+                "answers": [
+                    {
+                        "answerIdName": "economic",
+                        "text": "Sparer kommunen for penger. Driftskostnadene blir inntil 80% mindre enn for de gamle dieseldrevne fergene."
+                    },
+                    {
+                        "answerIdName": "social",
+                        "text": "Innbyggerne har et miljøvennlig alternativ til transport"
+                    },
+                    {
+                        "answerIdName": "environment",
+                        "text": "Mindre forurensning og mindre støy"
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "tag",
+                "answers": [
+                    {
+                        "answerIdName": "",
+                        "text": "transport"
+                    },
+                    {
+                        "answerIdName": "",
+                        "text": "offentlig transport"
+                    },
+                    {
+                        "answerIdName": "",
+                        "text": "ferge"
+                    },
+                    {
+                        "answerIdName": "",
+                        "text": "fergetransport"
+                    },
+                    {
+                        "answerIdName": "",
+                        "text": "elektrisk ferge"
+                    },
+                    {
+                        "answerIdName": "",
+                        "text": "induktiv lading"
+                    }
+                ]
+            }
+        ],
+        "parents": [
+            {
+                "text": "Ny elektrisk fergeløsning i fredrikstad",
+                "displayName": "Ny elektrisk fergeløsning i fredrikstad",
+                "entitytypeIdName": "sol",
+                "entityParentIdName": "fredrikstad-kommune"
+            }
+        ],
+        "children": [
+            {
+                "text": null,
+                "displayName": null,
+                "entitytypeIdName": null,
+                "entityParentIdName": null
+            }
+        ],
+        "contacts": [
+            {
+                "networkContact": false,
+                "roleName": "Gjør PR",
+                "text": "Forteller folk om løsningen",
+                "existingPersonIdName": "terje-christensen",
+                "person": null
+            },
+            {
+                "networkContact": true,
+                "roleName": "Kontakt",
+                "text": "Kontakt inn mot kommunen ",
+                "existingPersonIdName": "gard-jenssen",
+                "person": {
+                    "preferedIdName": "",
+                    "firstName": "Gard",
+                    "lastName": "Jenssen",
+                    "title": "Head of smart city - City of Fredrikstad",
+                    "image": {
+                        "icon": "",
+                        "profile": "https://media-exp1.licdn.com/dms/image/C4E03AQFKtEVXkqdhZQ/profile-displayphoto-shrink_200_200/0?e=1603324800&v=beta&t=uniLAQrVkqv52-2cNmsbbfGCkl1ryasAmjTFM6-3GUM",
+                        "cover": ""
+                    },
+                    "socialLinks": {
+                        "twitter": "https://twitter.com/gard_jenssen",
+                        "linkedin": "https://www.linkedin.com/in/gardjenssen",
+                        "facebook": "https://www.facebook.com/gard.jenssen",
+                        "otherURL": null
+                    }
+                }
+
+            }
+        ],
+        "foreignKeys": {
+            "key": {
+                "import": "you can freely add your keys"
+            }
+        }
+    },
+    {
+        "idName": "ar-in-city-planning",
+        "displayName": "AR in city planning",
+        "slogan": "byplanlegging med Augmented reality",
+        "summary": "Utfordringen her har vært å få til korrekt posisjonering av byggene, og dette har vi sammen med Eon forsøkt å finne en løsning på.",
+        "description": "",
+        "url": "",
+        "phone": "",
+        "status": {
+            "displayName": "Idea",
+            "summary": "Prosjektet ligger pt. «på is» på grunn av manglende finansiering"
+        },
+        "entitytypeIdName": "sol",
+        "image": {
+            "cover": "",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/entry/hamarregionen/ar-in-city-planning.jpg",
+            "icon": ""
+        },
+        "location": {
+            "visitingAddress": {
+                "street": "Grønnegata 83",
+                "city": "Hamar",
+                "postcode": "2317",
+                "country": "Norway"
+            }
+        },
+        "network_memberships": [
+            "sbn"
+        ],
+        "categoryAnswers": [
+            {
+                "categoryIdName": "sdg",
+                "answers": [
+                    {
+                        "answerIdName": "11",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "13",
+                        "text": null
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "segment",
+                "answers": [
+                    {
+                        "answerIdName": "building-and-construction",
+                        "text": null
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "challenge",
+                "answers": [
+                    {
+                        "answerIdName": "reducing-operation-costs",
+                        "text": null
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "tag",
+                "answers": [
+                    {
+                        "answerIdName": "",
+                        "text": "ar"
+                    },
+                    {
+                        "answerIdName": "",
+                        "text": "offentlig transport"
+                    },
+                    {
+                        "answerIdName": "",
+                        "text": "augmented reality"
+                    },
+                    {
+                        "answerIdName": "",
+                        "text": "byplanlegging"
+                    }
+                ]
+            }
+        ],
+        "parents": [
+            {
+                "text": "AR i Hamar",
+                "displayName": "Augmented reality i Hamar",
+                "entitytypeIdName": "sol",
+                "entityParentIdName": "hamarregionen"
+            }
+        ],
+        "children": [
+            {
+                "text": null,
+                "displayName": null,
+                "entitytypeIdName": null,
+                "entityParentIdName": null
+            }
+        ],
+        "contacts": [
+            {
+                "networkContact": true,
+                "roleName": "Kontakt",
+                "text": "Kontakt inn mot kommunen",
+                "existingPersonIdName": null,
+                "person": {
+                    "preferedIdName": "ellen-marie-snartum",
+                    "firstName": "Ellen Marie",
+                    "lastName": "Snartum",
+                    "title": "Smartbysjef",
+                    "image": {
+                        "icon": "",
+                        "profile": "https://media-exp1.licdn.com/dms/image/C5603AQFxNkwKREf02g/profile-displayphoto-shrink_200_200/0?e=1603324800&v=beta&t=d532MGUwBFFJNcTMNtP01t4FVlbr71w7a2Y3GmfHkIg",
+                        "cover": ""
+                    },
+                    "socialLinks": {
+                        "twitter": null,
+                        "linkedin": "https://www.linkedin.com/in/ellen-snartum-593a1336/",
+                        "facebook": null,
+                        "otherURL": null
+                    }
+                }
+            }
+        ],
+        "foreignKeys": {
+            "key": {
+                "import": "you can freely add your keys"
+            }
+        }
+    },
+    {
+        "idName": "smart-vintervei",
+        "displayName": "Smart Vintervei",
+        "slogan": "Bedre snøbrøyting",
+        "summary": "Spennende regionalt prosjekt som sprang ut av nettverket Smarte Mjøsbyer. Vi har fått støtte av Innovasjon Norge til offentlig-privat samarbeid for å løse en samfunnsutfordring, noe man kan si snøen er her i Innlandet.",
+        "description": "Dette SmartCity-prosjektet handler om å finne nye og rimeligere måter å brøyte snø på. Store snøfall fører til store utfordringer når det gjelder brøytevirksomhet, og kommunene i innlandet ønsker å utvikle nye løsninger for håndtering av snø.",
+        "url": "https://www.oa.no/mjosbyene-tildeles-14-millioner-kroner-for-a-finne-losninger-pa-snobroyting/s/5-35-887703",
+        "phone": "",
+        "status": {
+            "displayName": "Unknown",
+            "summary": ""
+        },
+        "entitytypeIdName": "sol",
+        "image": {
+            "cover": "",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/entry/hamarregionen/smart-vintervei.jpg",
+            "icon": ""
+        },
+        "location": {
+            "visitingAddress": {
+                "street": "Grønnegata 83",
+                "city": "Hamar",
+                "postcode": "2317",
+                "country": "Norway"
+            }
+        },
+        "network_memberships": [
+            "sbn"
+        ],
+        "categoryAnswers": [
+            {
+                "categoryIdName": "sdg",
+                "answers": [
+                    {
+                        "answerIdName": "11",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "13",
+                        "text": null
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "segment",
+                "answers": [
+                    {
+                        "answerIdName": "building-and-construction",
+                        "text": null
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "challenge",
+                "answers": [
+                    {
+                        "answerIdName": "reducing-operation-costs",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "improving-travel-safety",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "improving-traffic-management",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "improving-parking",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "improving-public-transport-accessibility",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "improving-life-quality",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "increasing-safety",
+                        "text": null
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "tag",
+                "answers": [
+                    {
+                        "answerIdName": "",
+                        "text": "snøbrøyting"
+                    },
+                    {
+                        "answerIdName": "",
+                        "text": "vinter"
+                    }
+                ]
+            }
+        ],
+        "parents": [
+            {
+                "text": "Smart snøbrøyting i Hamarregionen",
+                "displayName": "Smart snøbrøyting i Hamarregionen",
+                "entitytypeIdName": "sol",
+                "entityParentIdName": "hamarregionen"
+            }
+        ],
+        "children": [
+            {
+                "text": null,
+                "displayName": null,
+                "entitytypeIdName": null,
+                "entityParentIdName": null
+            }
+        ],
+        "contacts": [
+            {
+                "networkContact": true,
+                "roleName": "Kontakt",
+                "text": "Kontakt inn mot kommunen",
+                "existingPersonIdName": "ellen-marie-snartum",
+                "person": null
+            }
+        ],
+        "foreignKeys": {
+            "key": {
+                "import": "you can freely add your keys"
+            }
+        }
+    },
+    {
+        "idName": "",
+        "displayName": "Bossnettet i Bergen",
+        "slogan": "Bossnettet i Bergen er et avfallssug i Bergen sentrum.",
+        "summary": "2008 ga byrådet i Bergen en historisk bestilling til BIR: Revolusjoner avfallsløsningen og legg om fra spann til rør",
+        "description": "",
+        "url": "https://no.wikipedia.org/wiki/Bossnettet_i_Bergen",
+        "phone": "",
+        "status": {
+            "displayName": "Ongoing",
+            "summary": "Når systemet står ferdig i 2022 vil 15.000 husstander være dekket av nettet"
+        },
+        "entitytypeIdName": "sol",
+        "image": {
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/entry/bir/bir_prosjekt-diagram-bossnettet-cover.jpg",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/entry/bir/bir_prosjekt-diagram-bossnettet.jpg",
+            "icon": ""
+        },
+        "location": {
+            "visitingAddress": {
+                "street": "Conrad Mohrsveg 15",
+                "city": "Bergen",
+                "postcode": "5892",
+                "country": "Norway"
+            }
+        },
+        "network_memberships": [
+            "sbn"
+        ],
+        "categoryAnswers": [
+            {
+                "categoryIdName": "sdg",
+                "answers": [
+                    {
+                        "answerIdName": "6",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "11",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "13",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "14",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "15",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "17",
+                        "text": null
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "segment",
+                "answers": [
+                    {
+                        "answerIdName": "energy",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "waste",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "bio-and-natural-resources",
+                        "text": null
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "challenge",
+                "answers": [
+                    {
+                        "answerIdName": "reducing-operation-costs",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "promoting-sustainable-disposal-of-waste",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "recycling-waste",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "reducing-local-air-pollution",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "promoting-sustainable-behavior",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "reducing-waste-generation",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "reducing-use-of-fossils",
+                        "text": null
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "tag",
+                "answers": [
+                    {
+                        "answerIdName": "",
+                        "text": "renovasjon"
+                    },
+                    {
+                        "answerIdName": "",
+                        "text": "avfall"
+                    }
+                ]
+            }
+        ],
+        "parents": [
+            {
+                "text": "Smart boss i Bergen",
+                "displayName": "Smart boss i Bergen",
+                "entitytypeIdName": "sol",
+                "entityParentIdName": "bir"
+            }
+        ],
+        "children": [
+            {
+                "text": null,
+                "displayName": null,
+                "entitytypeIdName": null,
+                "entityParentIdName": null
+            }
+        ],
+        "contacts": [
+            {
+                "networkContact": true,
+                "roleName": "Kontakt",
+                "text": "Ansvarlig",
+                "existingPersonIdName": "tommy-hansen-hufthammer",
+                "person": null
+            }
+        ],
+        "foreignKeys": {
+            "key": {
+                "import": "you can freely add your keys"
+            }
+        }
+    },
+    {
+        "idName": "abax",
+        "displayName": "ABAX",
+        "slogan": "The difference is ABAX",
+        "summary": "Teknologi forandrer måten verden fungerer på, og dette påvirker alle deler av arbeidslivet. For ABAX betyr det at vi må tilby smarte løsninger som gir deg adgang til hele arbeidsplassen din, uavhengig av om du befinner deg i bilen, på kontoret eller ute i felt. Derfor er vår Mission Statement \"Solutions Provider for The Connected Workspace\".",
+        "description": "Våre tjenester hjelper kundene å holde seg oppdaterte, bli mer effektive og spare penger ved å tilby Internet of Things-løsninger (IoT) i verdensklasse. ABAX er det raskest voksende telematikkselskapet i Europa og fokuserer på å levere IoT-løsninger som maksimerer verdien for våre kunder. \n\nVed å tilby mobilitet, fleksibilitet og brukervennlighet tror ABAX på et sømløst integrert IoT-domene som løser hverdagsproblemer for vår målgruppe. Alle aspekter av våre tjenester kommuniserer med hverandre for å kunne tilby maksimal fleksibilitet og en ledende løsning innen kommunikasjonsnettverk og nettverkstjenester.\n\nBusinessmodellen vår er basert på en SaaS-løsning (Software as a Service). Vi har bygd en fullt integrert softwareplatform som kan tilpasses fremtidens innovative tjenester. Vår hardware, software og våre produkter er lette å installere og bruke. \n\nHos ABAX jobber over 400 ansatte, fordelt på salg, kundeservice, markedsføring, administrasjon, kvalitet og utvikling. Vi har kontorer i Norge, Sverige, Danmark, Finland, Nederland, Polen, England, Tyskland og Kina. Hovedkontoret ligger i Larvik, Norge..",
+        "url": "https://www.abax.no/",
+        "phone": "22222299",
+        "entitytypeIdName": "org",
+        "image": {
+            "cover": "https://www.abax.com/sites/default/files/styles/max_1300x1300/public/2019-04/%20All-service-hero.jpg",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/logo/abax.jpg",
+            "icon": ""
+        },
+        "location": {
+            "visitingAddress": {
+                "street": "Hammergata 24",
+                "postcode": "3264",
+                "city": "Larvik",
+                "country": "Norway"
+            }
+        },
+        "network_memberships": [
+            "sbn"
+        ],
+        "categoryAnswers": [
+            {
+                "categoryIdName": "orgtype",
+                "answers": [
+                    {
+                        "answerIdName": "private",
+                        "text": null
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "sdg",
+                "answers": [
+                    {
+                        "answerIdName": "8",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "9",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "11",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "12",
+                        "text": null
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "segment",
+                "answers": [
+                    {
+                        "answerIdName": "mobility",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "telecom-and-software",
+                        "text": null
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "challenge",
+                "answers": [
+                    {
+                        "answerIdName": "enhanced-data-collection",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "improving-travel-safety",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "improving-traffic-management",
+                        "text": null
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "tag",
+                "answers": [
+                    {
+                        "answerIdName": "",
+                        "text": "iot"
+                    },
+                    {
+                        "answerIdName": "",
+                        "text": "mobilitet"
+                    },
+                    {
+                        "answerIdName": "",
+                        "text": "telematikk"
+                    },
+                    {
+                        "answerIdName": "",
+                        "text": "kjørebok"
+                    },
+                    {
+                        "answerIdName": "",
+                        "text": "flåtestyring"
+                    },
+                    {
+                        "answerIdName": "",
+                        "text": "worker"
+                    },
+                    {
+                        "answerIdName": "",
+                        "text": "smartere arbeidsdag"
+                    }
+                ]
+            }
+        ]
+    },
+
+
+    {
+        "idName": "smartbydugnaden2019",
+        "displayName": "Smartbydugnaden 2019",
+        "slogan": "Fra ord til handling. Koble - dele - nå",
+        "summary": "Nettverket inviterer kommuner, næringsliv, startups, forskning, politikere, stat og sivilsamfunn til Smartbydugnad 2019.",
+        "description": "Slik jobber Bergen Kommune med smart regionutbygging sammen med nærliggende kommuner.  Kjetil Århus, innovasjon og- digitaliseringsdirektør i Bergen kommune.",
+        "url": "http://www.smartebyernorge.no/smartbydugnaden2019",
+        "phone": "",
+        "status": {
+            "displayName": "Finished",
+            "summary": "9. - 10. april. Quality Hotel Edvard Grieg i Bergen"
+        },
+        "entitytypeIdName": "eve",
+        "image": {
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/entry/smartbydugnaden2019/smartbydugnaden2019-cover.png",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/entry/smartbydugnaden2019/smartbydugnaden2019-profile.jpg",
+            "icon": ""
+        },
+        "location": {
+            "visitingAddress": {
+                "street": "Sandsliåsen 50",
+                "city": "Bergen",
+                "postcode": "5024",
+                "country": "Norway"
+            }
+        },
+        "network_memberships": [
+            "sbn"
+        ],
+        "categoryAnswers": [
+            {
+                "categoryIdName": "sdg",
+                "answers": [
+                    {
+                        "answerIdName": "11",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "9",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "17",
+                        "text": null
+                    }
+
+                ]
+            },
+            {
+                "categoryIdName": "segment",
+                "answers": [
+                    {
+                        "answerIdName": "mobility",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "energy",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "building-and-construction",
+                        "text": null
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "challenge",
+                "answers": [
+                    {
+                        "answerIdName": "reducing-use-of-fossils-in-public-transport",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "promoting-sustainable-behavior",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "reducing-local-air-pollution",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "reducing-use-of-fossils",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "promoting-active-living",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "improving-life-quality",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "reducing-operation-costs",
+                        "text": null
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "value",
+                "answers": [
+                    {
+                        "answerIdName": "expected",
+                        "text": "Ny kunnskap. Nye kontakter"
+                    },
+                    {
+                        "answerIdName": "measured",
+                        "text": "2 dager med..."
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "tag",
+                "answers": [
+                    {
+                        "answerIdName": "",
+                        "text": "transport"
+                    },
+                    {
+                        "answerIdName": "",
+                        "text": "offentlig transport"
+                    }
+                ]
+            }
+        ],
+        "parents": [
+            {
+                "text": null,
+                "displayName": null,
+                "entitytypeIdName": null,
+                "entityParentIdName": null
+            }        
+        ],
+        "children": [
+            {
+                "text": null,
+                "displayName": null,
+                "entitytypeIdName": null,
+                "entityParentIdName": null
+            }
+        ],
+        "contacts": [
+            {
+                "networkContact": false,
+                "roleName": "Programkomite",
+                "text": "Konfransier",
+                "existingPersonIdName": "marius-parmann",
+                "person": null
+            },
+            {
+                "networkContact": true,
+                "roleName": "Programkomite",
+                "text": "Arrangør",
+                "existingPersonIdName": "terje-christensen",
+                "person": null
+            },
+            {
+                "networkContact": true,
+                "roleName": "Programkomite",
+                "text": "Arrangør",
+                "existingPersonIdName": "roger-dramstad",
+                "person": null
+            },
+            {
+                "networkContact": true,
+                "roleName": "Programkomite",
+                "text": "Kommite, arrangør og leder av workshop",
+                "existingPersonIdName": "kjersti-haukeland-eiken",
+                "person": null
+            }
+        ],
+        "foreignKeys": {
+            "key": {
+                "import": "you can freely add your keys"
+            }
+        }
+    }
+
+
+
+
+]

@@ -16,9 +16,9 @@
             }            
         },
         "image": {
-            "cover": "http://bucket.urbalurba.com/net/sbn/arendalsuka-alle.jpg",
-            "profile": "http://bucket.urbalurba.com/net/sbn/sbn-profile.jpg",
-            "icon": "http://bucket.urbalurba.com/net/sbn/sbn-icon.png"
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/net/sbn/arendalsuka-alle.jpg",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/net/sbn/sbn-profile.jpg",
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/net/sbn/sbn-icon.png"
         },
         "domains": ["smartebyernorge.no", "smartcitiesnorway.com"],
         "networkMemberTypes": [
@@ -51,9 +51,9 @@
             }            
         },
         "image": {
-            "cover": "http://bucket.urbalurba.com/net/cor/cor-cover.png",
-            "profile": "http://bucket.urbalurba.com/net/cor/cor-profile.png",
-            "icon": "http://bucket.urbalurba.com/net/cor/cor-icon.png"
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/net/cor/cor-cover.png",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/net/cor/cor-profile.png",
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/net/cor/cor-icon.png"
         },
         "domains": ["norkor.no"],
         "networkMemberTypes": [
@@ -96,9 +96,9 @@
             }            
         },
         "image": {
-            "cover": "http://bucket.urbalurba.com/net/gba/gba-cover.jpg",
-            "profile": "http://bucket.urbalurba.com/net/gba/gba-profile.png",
-            "icon": "http://bucket.urbalurba.com/net/gba/gba-icon.png"
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/net/gba/gba-cover.jpg",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/net/gba/gba-profile.png",
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/net/gba/gba-icon.png"
         },
         "domains": ["byggalliansen.no"],
         "networkMemberTypes": [
@@ -126,9 +126,9 @@
             }            
         },
         "image": {
-            "cover": "http://bucket.urbalurba.com/net/gba/gba-cover.jpg",
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/net/gba/gba-cover.jpg",
             "profile": "https://www.kystriksveien.no/wp-content/uploads/2020/01/cropped-KystRV_logo-e1578389463867.png",
-            "icon": "http://bucket.urbalurba.com/net/gba/gba-icon.png"
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/net/gba/gba-icon.png"
         },
         "domains": ["kystriksveien.no"],
         "networkMemberTypes": [
@@ -156,9 +156,9 @@
             }            
         },
         "image": {
-            "cover": "http://bucket.urbalurba.com/net/gba/gba-cover.jpg",
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/net/gba/gba-cover.jpg",
             "profile": "https://www.kystriksveien.no/wp-content/uploads/2020/01/cropped-KystRV_logo-e1578389463867.png",
-            "icon": "http://bucket.urbalurba.com/net/gba/gba-icon.png"
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/net/gba/gba-icon.png"
         },
         "domains": ["oslointernationalhub.com"],
         "networkMemberTypes": [
