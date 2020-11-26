@@ -4,8 +4,8 @@
         "displayName": "Organization",
         "summary": "Organizations are businesses, municipalities, research etc.",
         "image": {
-            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/org-cover.jpg",
-            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/org-profile.jpg",
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/org-cover.png",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/org-profile.png",
             "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/org-icon.png"
         }
     },
