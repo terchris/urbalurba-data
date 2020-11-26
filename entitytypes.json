@@ -14,8 +14,8 @@
         "displayName": "Solution",
         "summary": "Solutions er løsninger",
         "image": {
-            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/sol-cover.jpg",
-            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/sol-profile.jpg",
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/sol-cover.png",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/sol-profile.png",
             "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/sol-icon.png"
         }
     },
@@ -24,8 +24,8 @@
         "displayName": "Project",
         "summary": "Projects ",
         "image": {
-            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/pro-cover.jpg",
-            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/pro-profile.jpg",
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/pro-cover.png",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/pro-profile.png",
             "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/pro-icon.png"
         }
     },
@@ -34,8 +34,8 @@
         "displayName": "Event",
         "summary": "Events ",
         "image": {
-            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/eve-cover.jpg",
-            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/eve-profile.jpg",
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/eve-cover.png",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/eve-profile.png",
             "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/eve-icon.png"
         }
     },
@@ -44,8 +44,8 @@
         "displayName": "Dataset",
         "summary": "Datasets ",
         "image": {
-            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/dat-cover.jpg",
-            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/dat-profile.jpg",
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/dat-cover.png",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/dat-profile.png",
             "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/dat-icon.png"
         }
     },
@@ -54,8 +54,8 @@
         "displayName": "Article",
         "summary": "Articles ",
         "image": {
-            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/art-cover.jpg",
-            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/art-profile.jpg",
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/art-cover.png",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/art-profile.png",
             "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/art-icon.png"
         }
     },
@@ -64,9 +64,9 @@
         "displayName": "Call for proposal",
         "summary": "Call for proposals and funding program ",
         "image": {
-            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/cal-cover.jpg",
-            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/cal-profile.jpg",
-            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/cal-icon.png"
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/prop-cover.png",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/prop-profile.png",
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/prop-icon.png"
         }
     }
 
