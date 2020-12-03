@@ -1,7 +1,7 @@
 [
     {
         "idName": "org",
-        "displayName": "Organization",
+        "displayName": "Organisasjoner",
         "summary": "Organizations are businesses, municipalities, research etc.",
         "image": {
             "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/org-cover.png",
@@ -11,7 +11,7 @@
     },
     {
         "idName": "sol",
-        "displayName": "Solution",
+        "displayName": "Løsninger",
         "summary": "Solutions er løsninger",
         "image": {
             "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/sol-cover.png",
@@ -21,7 +21,7 @@
     },
     {
         "idName": "pro",
-        "displayName": "Project",
+        "displayName": "Prosjekter",
         "summary": "Projects ",
         "image": {
             "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/pro-cover.png",
@@ -31,7 +31,7 @@
     },
     {
         "idName": "eve",
-        "displayName": "Event",
+        "displayName": "Events",
         "summary": "Events ",
         "image": {
             "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/eve-cover.png",
@@ -41,7 +41,7 @@
     },
     {
         "idName": "dat",
-        "displayName": "Dataset",
+        "displayName": "Datasett",
         "summary": "Datasets ",
         "image": {
             "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/dat-cover.png",
@@ -51,7 +51,7 @@
     },
     {
         "idName": "art",
-        "displayName": "Article",
+        "displayName": "Artikler",
         "summary": "Articles ",
         "image": {
             "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/art-cover.png",

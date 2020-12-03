@@ -449,7 +449,7 @@
         ],
         "displayName": "Segmenter",
         "idName": "segment",
-        "summary": "The different segments that are adressed"
+        "summary": "De forskjellige segmentene det er kategorisert innen"
     },
     {
         "color": {
