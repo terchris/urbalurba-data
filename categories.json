@@ -124,9 +124,9 @@
         "idName": "orgtype",
         "summary": "Types of organizations som finnes",
         "image": {
-            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/orgtype/orgtype-logo-small.jpg",
-            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/orgtype/orgtype-logo-medium.png",
-            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/orgtype/orgtype-logo-large.png"
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/org-cover.jpg",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/org-profile.png",
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/org-icon.png"
         }
     },
     {
