@@ -1273,56 +1273,6 @@
         }
     },
     {
-        "categoryItems": [
-            {
-                "color": {
-                    "background": "#183668",
-                    "text": "#ffffff"
-                },
-                "sortOrder": 1,
-                "description": "Løsning",
-                "displayName": "Løsning",
-                "idName": "solution",
-                "summary": "Løsning",
-                "image": {
-                    "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sustainability/economic-medium.png",
-                    "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sustainability/economic-medium.png",
-                    "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sustainability/economic-medium.png"
-                }
-            },
-            {
-                "displayName": "Virksomhet",
-                "idName": "org",
-                "summary": "Virksomhet",
-                "image": {
-                    "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sustainability/social-medium.png",
-                    "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sustainability/social-medium.png",
-                    "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sustainability/social-medium.png"
-                },
-                "color": {
-                    "text": "#ffffff",
-                    "background": "#183668"
-                },
-                "sortOrder": 1,
-                "description": "Virksomhet"
-            }
-        ],
-        "displayName": "EntryType",
-        "idName": "entrytype",
-        "summary": "EntryType",
-        "image": {
-            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sustainability/sustainability-logo-large.jpg",
-            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sustainability/sustainability-logo-large.jpg",
-            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sustainability/sustainability-logo-large.jpg"
-        },
-        "color": {
-            "text": "#ffffff",
-            "background": "#EB1C2E"
-        },
-        "categoryType": "input",
-        "description": "EntryType"
-    },
-    {
         "categoryType": "input",
         "description": "Gevinst",
         "categoryItems": [
