@@ -23,12 +23,12 @@
         "domains": ["smartebyernorge.no", "smartcitiesnorway.com"],
         "networkMemberTypes": [
             {
-                "entityType": "org",
+                "entityType": "organization",
                 "displayName": "Medlemskatagorier",
                 "categoryIdNames": ["orgtype","sdg", "segment", "challenge","tag" ]
             },
             {
-                "entityType": "sol",
+                "entityType": "solution",
                 "displayName": "Løsningskategorier",
                 "categoryIdNames": ["sdg","segment", "challenge","tag", "sustainability", "value"]
             }
@@ -58,12 +58,12 @@
         "domains": ["norkor.no"],
         "networkMemberTypes": [
             {
-                "entityType": "org",
+                "entityType": "organization",
                 "displayName": "Medlemskatagorier",
                 "categoryIdNames": ["orgtype","sdg", "segment", "challenge","tag" ]
             },
             {
-                "entityType": "sol",
+                "entityType": "solution",
                 "displayName": "Løsningskategorier",
                 "categoryIdNames": ["sdg","segment", "challenge","tag", "sustainability", "value"]
             },
@@ -103,7 +103,7 @@
         "domains": ["byggalliansen.no"],
         "networkMemberTypes": [
             {
-                "entityType": "org",
+                "entityType": "organization",
                 "displayName": "Medlemskatagorier",
                 "categoryIdNames": ["sdg","bream"]
             }
@@ -133,7 +133,7 @@
         "domains": ["kystriksveien.no"],
         "networkMemberTypes": [
             {
-                "entityType": "org",
+                "entityType": "organization",
                 "displayName": "Medlemskatagorier",
                 "categoryIdNames": ["sdg"]
             }
@@ -163,7 +163,7 @@
         "domains": ["oslointernationalhub.com"],
         "networkMemberTypes": [
             {
-                "entityType": "org",
+                "entityType": "organization",
                 "displayName": "Medlemskatagorier",
                 "categoryIdNames": [ "challenge" ]
             }

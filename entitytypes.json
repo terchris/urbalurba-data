@@ -1,6 +1,6 @@
 [
     {
-        "idName": "org",
+        "idName": "organization",
         "displayName": "Organisasjoner",
         "summary": "Organizations are businesses, municipalities, research etc.",
         "image": {
@@ -10,7 +10,7 @@
         }
     },
     {
-        "idName": "sol",
+        "idName": "solution",
         "displayName": "Løsninger",
         "summary": "Solutions er løsninger",
         "image": {
@@ -20,7 +20,17 @@
         }
     },
     {
-        "idName": "pro",
+        "idName": "product",
+        "displayName": "Produkter",
+        "summary": "Products",
+        "image": {
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/product-cover.png",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/product-profile.png",
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/product-icon.png"
+        }
+    },    
+    {
+        "idName": "project",
         "displayName": "Prosjekter",
         "summary": "Projects ",
         "image": {
@@ -30,7 +40,7 @@
         }
     },
     {
-        "idName": "eve",
+        "idName": "event",
         "displayName": "Events",
         "summary": "Events ",
         "image": {
@@ -40,7 +50,7 @@
         }
     },
     {
-        "idName": "dat",
+        "idName": "dataset",
         "displayName": "Datasett",
         "summary": "Datasets ",
         "image": {
@@ -50,7 +60,7 @@
         }
     },
     {
-        "idName": "art",
+        "idName": "article",
         "displayName": "Artikler",
         "summary": "Articles ",
         "image": {
@@ -60,7 +70,7 @@
         }
     },
     {
-        "idName": "prop",
+        "idName": "call",
         "displayName": "Call for proposal",
         "summary": "Call for proposals and funding program ",
         "image": {

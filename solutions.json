@@ -11,7 +11,7 @@
             "displayName": "Ongoing",
             "summary": "I drift siden høsten 2019. Flere avganger daglig."
         },
-        "entitytypeIdName": "sol",
+        "entitytypeIdName": "solution",
         "image": {
             "cover": "https://www.smartfredrikstad.no/wp-content/uploads/2018/03/smart-fredrikstad-strategi.jpg",
             "profile": "https://storage.googleapis.com/bucket.urbalurba.com/entry/fredrikstad-kommune/elen.png",
@@ -152,7 +152,7 @@
             {
                 "text": "Ny elektrisk fergeløsning i fredrikstad",
                 "displayName": "Ny elektrisk fergeløsning i fredrikstad",
-                "entitytypeIdName": "sol",
+                "entitytypeIdName": "solution",
                 "entityParentIdName": "fredrikstad-kommune"
             }
         ],
@@ -215,7 +215,7 @@
             "displayName": "Idea",
             "summary": "Prosjektet ligger pt. «på is» på grunn av manglende finansiering"
         },
-        "entitytypeIdName": "sol",
+        "entitytypeIdName": "solution",
         "image": {
             "cover": "",
             "profile": "https://storage.googleapis.com/bucket.urbalurba.com/entry/hamarregionen/ar-in-city-planning.jpg",
@@ -290,7 +290,7 @@
             {
                 "text": "AR i Hamar",
                 "displayName": "Augmented reality i Hamar",
-                "entitytypeIdName": "sol",
+                "entitytypeIdName": "solution",
                 "entityParentIdName": "hamarregionen"
             }
         ],
@@ -345,7 +345,7 @@
             "displayName": "Unknown",
             "summary": ""
         },
-        "entitytypeIdName": "sol",
+        "entitytypeIdName": "solution",
         "image": {
             "cover": "",
             "profile": "https://storage.googleapis.com/bucket.urbalurba.com/entry/hamarregionen/smart-vintervei.jpg",
@@ -436,7 +436,7 @@
             {
                 "text": "Smart snøbrøyting i Hamarregionen",
                 "displayName": "Smart snøbrøyting i Hamarregionen",
-                "entitytypeIdName": "sol",
+                "entitytypeIdName": "solution",
                 "entityParentIdName": "hamarregionen"
             }
         ],
@@ -475,7 +475,7 @@
             "displayName": "Ongoing",
             "summary": "Når systemet står ferdig i 2022 vil 15.000 husstander være dekket av nettet"
         },
-        "entitytypeIdName": "sol",
+        "entitytypeIdName": "solution",
         "image": {
             "cover": "https://storage.googleapis.com/bucket.urbalurba.com/entry/bir/bir_prosjekt-diagram-bossnettet-cover.jpg",
             "profile": "https://storage.googleapis.com/bucket.urbalurba.com/entry/bir/bir_prosjekt-diagram-bossnettet.jpg",
@@ -590,7 +590,7 @@
             {
                 "text": "Smart boss i Bergen",
                 "displayName": "Smart boss i Bergen",
-                "entitytypeIdName": "sol",
+                "entitytypeIdName": "solution",
                 "entityParentIdName": "bir"
             }
         ],
@@ -625,7 +625,7 @@
         "description": "Våre tjenester hjelper kundene å holde seg oppdaterte, bli mer effektive og spare penger ved å tilby Internet of Things-løsninger (IoT) i verdensklasse. ABAX er det raskest voksende telematikkselskapet i Europa og fokuserer på å levere IoT-løsninger som maksimerer verdien for våre kunder. \n\nVed å tilby mobilitet, fleksibilitet og brukervennlighet tror ABAX på et sømløst integrert IoT-domene som løser hverdagsproblemer for vår målgruppe. Alle aspekter av våre tjenester kommuniserer med hverandre for å kunne tilby maksimal fleksibilitet og en ledende løsning innen kommunikasjonsnettverk og nettverkstjenester.\n\nBusinessmodellen vår er basert på en SaaS-løsning (Software as a Service). Vi har bygd en fullt integrert softwareplatform som kan tilpasses fremtidens innovative tjenester. Vår hardware, software og våre produkter er lette å installere og bruke. \n\nHos ABAX jobber over 400 ansatte, fordelt på salg, kundeservice, markedsføring, administrasjon, kvalitet og utvikling. Vi har kontorer i Norge, Sverige, Danmark, Finland, Nederland, Polen, England, Tyskland og Kina. Hovedkontoret ligger i Larvik, Norge..",
         "url": "https://www.abax.no/",
         "phone": "22222299",
-        "entitytypeIdName": "org",
+        "entitytypeIdName": "organization",
         "image": {
             "cover": "https://www.abax.com/sites/default/files/styles/max_1300x1300/public/2019-04/%20All-service-hero.jpg",
             "profile": "https://storage.googleapis.com/bucket.urbalurba.com/logo/abax.jpg",
@@ -752,7 +752,7 @@
             "displayName": "Finished",
             "summary": "9. - 10. april. Quality Hotel Edvard Grieg i Bergen"
         },
-        "entitytypeIdName": "eve",
+        "entitytypeIdName": "event",
         "image": {
             "cover": "https://storage.googleapis.com/bucket.urbalurba.com/entry/smartbydugnaden2019/smartbydugnaden2019-cover.png",
             "profile": "https://storage.googleapis.com/bucket.urbalurba.com/entry/smartbydugnaden2019/smartbydugnaden2019-profile.jpg",
