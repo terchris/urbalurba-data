@@ -1,6 +1,6 @@
 [
     {
-        "idName": "sbn",
+        "idName": "smartebyernorge",
         "displayName": "Smarte Byer Norge",
         "slogan": "Smartbynettverk for alle",
         "summary": "Vi driver frem bærekraftig smartbyutvikling og innovasjon ved å koble  smartby-entusiaster på tvers av fag, bransjer, organisasjoner og næringsliv. Dette gjør vi ved å tilby arenaer for samskaping. Målet er at de som deltar i nettverket skal finne hverandre og sammen skape smarte løsninger på dagens og morgendagens utfordringer.",
@@ -16,9 +16,9 @@
             }            
         },
         "image": {
-            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/net/sbn/arendalsuka-alle.jpg",
-            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/net/sbn/sbn-profile.jpg",
-            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/net/sbn/sbn-icon.png"
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/network/smartebyernorge/arendalsuka-alle.jpg",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/network/smartebyernorge/sbn-profile.jpg",
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/network/smartebyernorge/sbn-icon.png"
         },
         "domains": ["smartebyernorge.no", "smartcitiesnorway.com"],
         "networkMemberTypes": [
@@ -80,7 +80,7 @@
         ]
     },
     {
-        "idName": "gba",
+        "idName": "byggalliansen",
         "displayName": "Grønn Byggallianse",
         "slogan": "Vi jobber for bærekraft som det selvfølgelige valget", 
         "summary": "Grønn Byggallianse er en non-profit medlemsforening der virksomheter fra hele verdikjeden innen bygg- og eiendom kan være medlem.",
@@ -96,9 +96,9 @@
             }            
         },
         "image": {
-            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/net/gba/gba-cover.jpg",
-            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/net/gba/gba-profile.png",
-            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/net/gba/gba-icon.png"
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/network/byggalliansen/gba-cover.jpg",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/network/byggalliansen/gba-profile.png",
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/network/byggalliansen/gba-icon.png"
         },
         "domains": ["byggalliansen.no"],
         "networkMemberTypes": [
@@ -110,27 +110,27 @@
         ]         
     },
     {
-        "idName": "kystrv",
-        "displayName": "Kystriksveien",
-        "slogan": "Verdens vakreste reiserute", 
-        "summary": "Kystriksveien strekker seg over 650 km og byr på noe av de flotteste norskekysten har å vise frem. Høydepunkter som Saltstraumen, Svartisen, De Syv Søstre og Torghatten er opplevelser du kan få med deg om du tar turen.",
-        "description": "",
-        "url": "https://www.kystriksveien.no/",
+        "idName": "avfallnorge",
+        "displayName": "Avfall Norge",
+        "slogan": "Fremtidens råvarer er resirkulerte", 
+        "summary": "Avfall Norge er en bransjeorganisasjon for avfalls– og gjenvinningsbransjen i Norge med rundt 200 medlemmer fra offentlig og privat sektor.",
+        "description": "Vi representerer både offentlige og private avfalls- og gjenvinningsselskap, gründere, leverandører og miljøkonsulenter. Til sammen er våre medlemmer ansvarlig for 95 prosent av alt husholdningsavfall i Norge, såvel som store mengder næringsavfall *Vi er bindeleddet mellom din organisasjon, bransjen og myndighetene *Vi jobber med å forbedre våre medlemmers rammevilkår, gi ekspertråd rundt bransjefaglige spørsmål, samt skape og tilrettelegge for viktige arenaer for samhandling og kunnskapsdeling på tvers i bransjen, eller med andre sentrale aktører *Vi lytter til våre medlemmer, samt skaper verdier og resultater for bransjen og våre medlemmer *Vi jobber for en ambisiøs avfalls- og gjenvinningspolitikk, og samler bransjen rundt en visjon om at avfall er morgendagens råvarer *Vi tilbyr kurs og kompetanseutvikling, og holder i forskning og utvikling for å bedre ressursutnyttelsen i Norge og internasjonalt",
+        "url": "https://avfallnorge.no/",
         "phone": "",
         "location": {
             "visitingAddress": {
-                "street": "Sjøfartsgata 2A",
-                "city": " Steinkjer",
-                "postcode": "7714",
+                "street": "Øvre Vollgate 6",
+                "city": " Oslo",
+                "postcode": "0158",
                 "country": "Norway"
             }            
         },
         "image": {
-            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/net/gba/gba-cover.jpg",
-            "profile": "https://www.kystriksveien.no/wp-content/uploads/2020/01/cropped-KystRV_logo-e1578389463867.png",
-            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/net/gba/gba-icon.png"
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/network/avfallnorge/avfallnorge-cover.jpg",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/network/avfallnorge/avfallnorge-profile.jpg",
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/network/avfallnorge/avfallnorge-icon.jpg"
         },
-        "domains": ["kystriksveien.no"],
+        "domains": ["avfallnorge.no"],
         "networkMemberTypes": [
             {
                 "entityType": "organization",
@@ -138,37 +138,6 @@
                 "categoryIdNames": ["sdg"]
             }
         ]         
-    },
-    {
-        "idName": "inthub",
-        "displayName": "Oslo International Hub",
-        "slogan": "Oslo International Hub", 
-        "summary": "Welcome Home where entrepreneurship and international business meet. We are an environment for innovation and development where social and professional networking go hand in hand",
-        "description": "",
-        "url": "https://oslointernationalhub.com/",
-        "phone": "",
-        "location": {
-            "visitingAddress": {
-                "street": "Oscars gate 27",
-                "city": " Oslo",
-                "postcode": "0352",
-                "country": "Norway"
-            }            
-        },
-        "image": {
-            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/net/gba/gba-cover.jpg",
-            "profile": "https://www.kystriksveien.no/wp-content/uploads/2020/01/cropped-KystRV_logo-e1578389463867.png",
-            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/net/gba/gba-icon.png"
-        },
-        "domains": ["oslointernationalhub.com"],
-        "networkMemberTypes": [
-            {
-                "entityType": "organization",
-                "displayName": "Medlemskatagorier",
-                "categoryIdNames": [ "challenge" ]
-            }
-        ]         
     }
-
 
 ]    
