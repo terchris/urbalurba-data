@@ -1677,5 +1677,119 @@
         ],
         "displayName": "Sustainable Development Goals",
         "idName": "sdg"
+    },
+    {
+        "displayName": "Partnership",
+        "idName": "partnership",
+        "summary": "Våre samarbeidspartnere",
+        "image": {
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+        },
+        "color": {
+            "text": "#ffffff",
+            "background": "#4B5731"
+        },
+        "categoryType": "single",
+        "description": "ZERO samarbeider med aktører innen samtlige av våre fagområder. Her finner du en oversikt over partnerne våre, sortert etter størrelsen på samarbeidet.",
+        "categoryItems": [
+            {
+                "summary": "Hovedpartnere støtter ZEROs arbeid med summer mellom 450.000 og 550.000 i året.",
+                "image": {
+                    "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+                    "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+                    "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+                },
+                "color": {
+                    "background": "#4B5731",
+                    "text": "#ffffff"
+                },
+                "sortOrder": 1,
+                "description": "Hovedpartnere støtter ZEROs arbeid med summer mellom 450.000 og 550.000 i året.",
+                "displayName": "Hovedpartnere",
+                "idName": "main"
+            },
+            {
+                "summary": "Strategiske partnere støtter ZEROs arbeid med summer mellom 250.000 og 350.000 i året.",
+                "image": {
+                    "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+                    "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+                    "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+                },
+                "color": {
+                    "background": "#4B5731",
+                    "text": "#ffffff"
+                },
+                "sortOrder": 2,
+                "description": "Strategiske partnere støtter ZEROs arbeid med summer mellom 250.000 og 350.000 i året.",
+                "displayName": "Strategiske partnere",
+                "idName": "strategy"
+            },
+            {
+                "summary": "Fagpartnere støtter ZEROs arbeid med summer mellom 200.000 og 250.000 i året.",
+                "image": {
+                    "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+                    "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png",
+                    "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png"
+                },
+                "color": {
+                    "text": "#ffffff",
+                    "background": "#4B5731"
+                },
+                "sortOrder": 3,
+                "description": "Fagpartnere støtter ZEROs arbeid med summer mellom 200.000 og 250.000 i året.",
+                "displayName": "Fagpartnere",
+                "idName": "knowledge"
+            },
+            {
+                "summary": "Støttespillere støtter ZEROs arbeid med mellom 100.000 og 200.000 i året.",
+                "image": {
+                    "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+                    "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png",
+                    "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png"
+                },
+                "color": {
+                    "text": "#ffffff",
+                    "background": "#4B5731"
+                },
+                "sortOrder": 4,
+                "description": "Støttespillere støtter ZEROs arbeid med mellom 100.000 og 200.000 i året.",
+                "displayName": "Støttespillere",
+                "idName": "support"
+            },
+            {
+                "summary": "Annonsepartnere støtter ZEROs arbeid med 30.000 eller mindre i året.",
+                "image": {
+                    "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+                    "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png",
+                    "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png"
+                },
+                "color": {
+                    "text": "#ffffff",
+                    "background": "#4B5731"
+                },
+                "sortOrder": 5,
+                "description": "Annonsepartnere støtter ZEROs arbeid med 30.000 eller mindre i året.",
+                "displayName": "Annonsepartnere",
+                "idName": "advertising"
+            },
+            {
+                "summary": "Følger vårt arbeid .. ",
+                "image": {
+                    "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+                    "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png",
+                    "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png"
+                },
+                "color": {
+                    "text": "#ffffff",
+                    "background": "#4B5731"
+                },
+                "sortOrder": 6,
+                "description": "Følger vårt arbeid .. ",
+                "displayName": "Følgere",
+                "idName": "follower"
+            }
+        ]
     }
 ]
