@@ -1,0 +1,127 @@
+{
+    "idName": "abax.no",
+    "displayName": "ABAX",
+    "slogan": "The difference is ABAX",
+    "summary": "Teknologi forandrer måten verden fungerer på, og dette påvirker alle deler av arbeidslivet. For ABAX betyr det at vi må tilby smarte løsninger som gir deg adgang til hele arbeidsplassen din, uavhengig av om du befinner deg i bilen, på kontoret eller ute i felt. Derfor er vår Mission Statement \"Solutions Provider for The Connected Workspace\".",
+    "description": "Våre tjenester hjelper kundene å holde seg oppdaterte, bli mer effektive og spare penger ved å tilby Internet of Things-løsninger (IoT) i verdensklasse. ABAX er det raskest voksende telematikkselskapet i Europa og fokuserer på å levere IoT-løsninger som maksimerer verdien for våre kunder. \n\nVed å tilby mobilitet, fleksibilitet og brukervennlighet tror ABAX på et sømløst integrert IoT-domene som løser hverdagsproblemer for vår målgruppe. Alle aspekter av våre tjenester kommuniserer med hverandre for å kunne tilby maksimal fleksibilitet og en ledende løsning innen kommunikasjonsnettverk og nettverkstjenester.\n\nBusinessmodellen vår er basert på en SaaS-løsning (Software as a Service). Vi har bygd en fullt integrert softwareplatform som kan tilpasses fremtidens innovative tjenester. Vår hardware, software og våre produkter er lette å installere og bruke. \n\nHos ABAX jobber over 400 ansatte, fordelt på salg, kundeservice, markedsføring, administrasjon, kvalitet og utvikling. Vi har kontorer i Norge, Sverige, Danmark, Finland, Nederland, Polen, England, Tyskland og Kina. Hovedkontoret ligger i Larvik, Norge..",
+    "url": "https://www.abax.no/",
+    "phone": "22222299",
+    "email": "",
+    "entitytypeIdName": "organization",
+    "brreg": {
+        "organizationNumber": "993098736"
+    },
+    "domains": ["abax.no", "abax.com"],
+    "image": {
+        "cover": "https://storage.googleapis.com/bucket.urbalurba.com/entity/abax.no/abax.no-cover.jpg",            
+        "profile": "https://storage.googleapis.com/bucket.urbalurba.com/entity/abax.no/abax.no-profile.jpg",
+        "icon": "https://storage.googleapis.com/bucket.urbalurba.com/entity/abax.no/abax.no-icon.png",
+        "square": "https://storage.googleapis.com/bucket.urbalurba.com/entity/abax.no/abax.no-square.jpg"
+    },
+    "location": {
+        "visitingAddress": {
+            "street": "Hammergata 24",
+            "postcode": "3264",
+            "city": "Larvik",
+            "country": "Norway"
+        }
+    },
+    "network_memberships": [
+        "smartebyernorge.no"
+    ],
+    "categoryAnswers": [
+        {
+            "categoryIdName": "orgtype",
+            "answers": [
+                {
+                    "answerIdName": "private",
+                    "text": null
+                }
+            ]
+        },
+        {
+            "categoryIdName": "sdg",
+            "answers": [
+                {
+                    "answerIdName": "8",
+                    "text": null
+                },
+                {
+                    "answerIdName": "9",
+                    "text": null
+                },
+                {
+                    "answerIdName": "11",
+                    "text": null
+                },
+                {
+                    "answerIdName": "12",
+                    "text": null
+                }
+            ]
+        },
+        {
+            "categoryIdName": "segment",
+            "answers": [
+                {
+                    "answerIdName": "mobility",
+                    "text": null
+                },
+                {
+                    "answerIdName": "telecom-and-software",
+                    "text": null
+                }
+            ]
+        },
+        {
+            "categoryIdName": "challenge",
+            "answers": [
+                {
+                    "answerIdName": "enhanced-data-collection",
+                    "text": null
+                },
+                {
+                    "answerIdName": "improving-travel-safety",
+                    "text": null
+                },
+                {
+                    "answerIdName": "improving-traffic-management",
+                    "text": null
+                }
+            ]
+        },
+        {
+            "categoryIdName": "tag",
+            "answers": [
+                {
+                    "answerIdName": "",
+                    "text": "iot"
+                },
+                {
+                    "answerIdName": "",
+                    "text": "mobilitet"
+                },
+                {
+                    "answerIdName": "",
+                    "text": "telematikk"
+                },
+                {
+                    "answerIdName": "",
+                    "text": "kjørebok"
+                },
+                {
+                    "answerIdName": "",
+                    "text": "flåtestyring"
+                },
+                {
+                    "answerIdName": "",
+                    "text": "worker"
+                },
+                {
+                    "answerIdName": "",
+                    "text": "smartere arbeidsdag"
+                }
+            ]
+        }
+    ]
+}
