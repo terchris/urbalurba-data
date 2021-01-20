@@ -29,6 +29,14 @@
     "network_memberships": [
         "smartebyernorge.no"
     ],
+    "socialLinks": {
+        "twitter": "https://twitter.com/AbaxNorway",
+        "linkedin": "https://www.linkedin.com/company/abax/",
+        "facebook": "https://www.facebook.com/ABAXas",
+        "instagram": null,
+        "youtube": null,
+        "otherURL": null
+    },    
     "categoryAnswers": [
         {
             "categoryIdName": "orgtype",
