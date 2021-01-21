@@ -139,7 +139,7 @@
             "background": "#FCF3CF",
             "text": "#000000"
         },
-        "description": "The different segments that are adressed",
+        "description": "Forskjellige næringer",
         "categoryType": "multiple",
         "categoryItems": [
             {
@@ -170,7 +170,7 @@
                 },
                 "sortOrder": 1,
                 "description": "Løsninger for håndtering av vann",
-                "displayName": "Water",
+                "displayName": "Vann",
                 "idName": "water",
                 "summary": "Løsninger for håndtering av vann"
             },
@@ -188,7 +188,7 @@
                 },
                 "sortOrder": 1,
                 "description": "Luft og luftkvalitet",
-                "displayName": "Air"
+                "displayName": "Luft"
             },
             {
                 "sortOrder": 1,
@@ -229,7 +229,7 @@
                 },
                 "sortOrder": 1,
                 "description": "Løsninger og virksomheter innen håndtering av avfall",
-                "displayName": "Waste",
+                "displayName": "Avfall",
                 "idName": "waste",
                 "summary": "Avfallshåndtering",
                 "image": {
@@ -251,7 +251,7 @@
                 },
                 "sortOrder": 1,
                 "description": "Telekommunikasjon og programvare",
-                "displayName": "Telecom and Software",
+                "displayName": "Telekommunikasjon og programvare",
                 "idName": "telecom-and-software"
             },
             {
@@ -261,7 +261,7 @@
                 },
                 "sortOrder": 1,
                 "description": "Mat og landbruk",
-                "displayName": "Food and Agriculture",
+                "displayName": "Mat og landbruk",
                 "idName": "food-and-agriculture",
                 "summary": "Mat og landbruk",
                 "image": {
@@ -277,7 +277,7 @@
                 },
                 "sortOrder": 1,
                 "description": "Turisme",
-                "displayName": "Tourism",
+                "displayName": "Turisme",
                 "idName": "tourism",
                 "summary": "Turisme",
                 "image": {
@@ -288,10 +288,10 @@
             },
             {
                 "sortOrder": 1,
-                "description": "Building and Construction",
-                "displayName": "Building and Construction",
+                "description": "Bygg og anlegg",
+                "displayName": "Bygg og anlegg",
                 "idName": "building-and-construction",
-                "summary": "Building and Construction",
+                "summary": "Bygg og anlegg",
                 "image": {
                     "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/segment/segment-build_constr-medium.jpg",
                     "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/segment/segment-build_constr-large.svg",
@@ -303,7 +303,7 @@
                 }
             },
             {
-                "summary": "Security",
+                "summary": "Sikkerhet",
                 "image": {
                     "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/segment/segment-security-medium.jpg",
                     "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/segment/segment-security-large.svg",
@@ -314,14 +314,14 @@
                     "text": "#ffffff"
                 },
                 "sortOrder": 1,
-                "description": "Security",
-                "displayName": "Security",
+                "description": "Sikkerhet",
+                "displayName": "Sikkerhet",
                 "idName": "security"
             },
             {
-                "displayName": "Education",
+                "displayName": "Utdanning",
                 "idName": "education",
-                "summary": "Education",
+                "summary": "Utdanning",
                 "image": {
                     "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/segment/segment-education-small.svg",
                     "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/segment/segment-education-medium.jpg",
@@ -332,10 +332,10 @@
                     "background": "#4B5731"
                 },
                 "sortOrder": 1,
-                "description": "Education"
+                "description": "Utdanning"
             },
             {
-                "summary": "Bio and Natural Resources",
+                "summary": "Bio og naturressurser",
                 "image": {
                     "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/segment/segment-bio_nat-small.svg",
                     "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/segment/segment-bio_nat-medium.jpg",
@@ -346,8 +346,8 @@
                     "background": "#4B5731"
                 },
                 "sortOrder": 1,
-                "description": "Bio and Natural Resources",
-                "displayName": "Bio and Natural Resources",
+                "description": "Bio og naturressurser",
+                "displayName": "Bio og naturressurser",
                 "idName": "bio-and-natural-resources"
             },
             {
@@ -356,10 +356,10 @@
                     "text": "#ffffff"
                 },
                 "sortOrder": 1,
-                "description": "Finance",
-                "displayName": "Finance",
+                "description": "Finans",
+                "displayName": "Finans",
                 "idName": "finance",
-                "summary": "Finance",
+                "summary": "Finans",
                 "image": {
                     "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/segment/segment-finance-medium.jpg",
                     "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/segment/segment-finance-large.svg",
@@ -377,14 +377,14 @@
                     "text": "#ffffff"
                 },
                 "sortOrder": 1,
-                "description": "Ocean Industries",
-                "displayName": "Ocean Industries",
+                "description": "Maritim industri",
+                "displayName": "Maritim industri",
                 "idName": "ocean-industries",
-                "summary": "Ocean Industries"
+                "summary": "Maritim industri"
             },
             {
                 "idName": "trade",
-                "summary": "Trade",
+                "summary": "Handel",
                 "image": {
                     "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/segment/segment-trade-medium.jpg",
                     "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/segment/segment-trade-large.svg",
@@ -395,8 +395,8 @@
                     "text": "#ffffff"
                 },
                 "sortOrder": 1,
-                "description": "Trade",
-                "displayName": "Trade"
+                "description": "Handel",
+                "displayName": "Handel"
             },
             {
                 "summary": "Hospitality",
@@ -415,9 +415,9 @@
                 "idName": "hospitality"
             },
             {
-                "displayName": "Sport and recreation",
+                "displayName": "sport og rekreasjon",
                 "idName": "sport-and-recreation",
-                "summary": "Sport and recreation",
+                "summary": "sport og rekreasjon",
                 "image": {
                     "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/segment/segment-sport_rec-small.svg",
                     "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/segment/segment-sport_rec-medium.jpg",
@@ -428,7 +428,7 @@
                     "background": "#4B5731"
                 },
                 "sortOrder": 1,
-                "description": "Sport and recreation"
+                "description": "sport og rekreasjon"
             },
             {
                 "image": {
@@ -447,9 +447,9 @@
                 "summary": "Consulting"
             }
         ],
-        "displayName": "Segmenter",
+        "displayName": "Næring",
         "idName": "segment",
-        "summary": "De forskjellige segmentene det er kategorisert innen"
+        "summary": "De forskjellige næringene det er kategorisert innen"
     },
     {
         "color": {
@@ -539,7 +539,7 @@
             "background": "#D6EAF8",
             "text": "#0F0F0F"
         },
-        "description": "Defines set of challenges",
+        "description": "Utfordringer det fokuseres på",
         "categoryType": "multiple",
         "categoryItems": [
             {
@@ -1265,7 +1265,7 @@
         ],
         "displayName": "Utfordringer",
         "idName": "challenge",
-        "summary": "Defines set of challenges ",
+        "summary": "De forskjellige utfordringene det er kategorisert i",
         "image": {
             "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/challenges/challenges-logo-small.jpg",
             "profile": "",
