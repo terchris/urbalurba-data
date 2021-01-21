@@ -27,8 +27,8 @@
                 "country": "Norway"
             }
         },
-        "network_memberships": [
-            "smartebyernorge.no"
+        "networkMemberships": [
+            "smartebyernorge.no", "smartfredrikstad.no"
         ],
         "socialLinks": {
             "twitter": null,
@@ -243,7 +243,7 @@
                 "country": "Norway"
             }
         },
-        "network_memberships": [
+        "networkMemberships": [
             "smartebyernorge.no"
         ],
         "socialLinks": {
@@ -385,7 +385,7 @@
                 "country": "Norway"
             }
         },
-        "network_memberships": [
+        "networkMemberships": [
             "smartebyernorge.no"
         ],
         "socialLinks": {
@@ -526,8 +526,8 @@
                 "country": "Norway"
             }
         },
-        "network_memberships": [
-            "smartebyernorge.no"
+        "networkMemberships": [
+            "smartebyernorge.no", "undefined.net"
         ],
         "socialLinks": {
             "twitter": null,
