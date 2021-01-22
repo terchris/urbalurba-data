@@ -203,7 +203,7 @@
                 "text": "Sommeren 2018 satte OBOS opp en rute med selvkjørende busser på Fornebu.",
                 "displayName": "Norges første selvkjørende buss",
                 "entitytypeIdName": "project",
-                "entityParentIdName": "obs.no",
+                "entityParentIdName": "obos.no",
                 "mainParent": true
             },
             {
@@ -226,7 +226,7 @@
                 "networkContact": false,
                 "roleName": "Prosjektleder",
                 "text": "Hvordan få godkjent er kjøretøy uten ratt og pedaler",
-                "existingPersonIdName": "frode-kjos",
+                "existingPersonIdName": "frode-kjos-188939726",
                 "person": null
             }
         ],
