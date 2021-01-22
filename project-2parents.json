@@ -1,0 +1,239 @@
+[
+    {
+        "idName": "",
+        "displayName": "Selvkjørende buss til stranden",
+        "slogan": "Verdens første elektriske passasjerskip",
+        "summary": "Sommeren 2018 satte OBOS opp en rute med selvkjørende busser på Fornebu",
+        "description": "Bussene fraktet badegjester i skytteltrafikk fra mandag 18. juni og alle dager mellom kl. 10 og 18 i hele sommer. Turen startet ved torget utenfor Fornebu S, i forlengelsen av 31-bussen fra Oslo, og gikk ut mot Storøyodden badeplass og tilbake. Alle fikk bruke bussen helt gratis. Holdeplassene var godt skiltet og lett å få øye på. Kom du med 31-bussen fra Oslo, fant du holdeplassen på motsatt side av Fornebu S. Neste stopp var ved Storøya skole, før endestasjonen ved bommen på Storøya. Deretter gikk bussen i retur tilbake til Fornebu S. Bussen gikk hvert 10. minutt, hver dag hele uken. Bussen er en meget sikker trafikant. Denne typer buss er utstyrt med åtte kameraer og stopper hvis det skulle komme en hindring i veien. Hastigheten var satt til maks 12 km/t, og bussen tar inntil 6 passasjerer. Det var en vert ombord for å ønske passasjerene velkommen.",
+        "url": "https://nye.obos.no/samfunnsansvar/obos-innovasjon/selvkjorende-buss/",
+        "phone": "",
+        "email": "",
+        "status": {
+            "displayName": "Finished",
+            "summary": "Kjørte sommeren 2018"
+        },
+        "entitytypeIdName": "project",
+        "image": {
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/entity/obos.no/files/selvkjorende-buss-cover.jpeg",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/entity/obos.no/files/selvkjorende-buss-profile.jpeg",
+            "icon": "",
+            "square": ""
+        },
+        "location": {
+            "visitingAddress": {
+                "street": "",
+                "city": "",
+                "postcode": "",
+                "country": ""
+            },
+            "latLng": {
+                "lat": "59.888482139612115",
+                "lng": "10.592701860893923"  
+            }
+        },
+        "networkMemberships": [
+            "smartebyernorge.no"
+        ],
+        "socialLinks": {
+            "twitter": null,
+            "linkedin": null,
+            "facebook": null,
+            "instagram": null,
+            "youtube": null,
+            "otherURL": null
+        },
+        "categoryAnswers": [
+            {
+                "categoryIdName": "sdg",
+                "answers": [
+                    {
+                        "answerIdName": "3",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "9",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "11",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "17",
+                        "text": null
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "segment",
+                "answers": [
+                    {
+                        "answerIdName": "mobility",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "health",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "telecom-and-software",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "tourism",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "sport-and-recreation",
+                        "text": null
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "challenge",
+                "answers": [
+                    {
+                        "answerIdName": "improving-travel-safety",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "improving-travel-safety",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "improving-traffic-management",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "improving-parking",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "reducing-use-of-fossils-in-public-transport",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "improving-public-transport-accessibility",
+                        "text": null
+                    },                                                                            
+                    {
+                        "answerIdName": "promoting-active-living",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "reducing-local-air-pollution",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "improving-life-quality",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "promoting-sustainable-behavior",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "facilitating-citizen-engagement",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "reducing-ghg-emissions",
+                        "text": null
+                    },
+                    {
+                        "answerIdName": "reducing-use-of-fossils",
+                        "text": null
+                    }                    
+                ]
+            },
+            {
+                "categoryIdName": "value",
+                "answers": [
+                    {
+                        "answerIdName": "expected",
+                        "text": "OBOS ville lære hvordan selvkjørende busser fungerte i byområder. Vi haddde ingen planer om å drive busselskap på fast basis, men vi ville ligge i forkant av utviklingen. Kanskje kan selvkjørende busser løse et transportbehov eller et trafikkproblem i framtiden? Og kanskje får det konsekvenser for hvordan og hvor vi skal bygge boliger."
+                    },
+                    {
+                        "answerIdName": "measured",
+                        "text": "• Piloten om selvkjørende busser på Fornebu blir svært godt mottatt på Fornebu, og det blir mer positivt etter hvert som folk prøver og ser bussen i virke."
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "sustainability",
+                "answers": [
+                    {
+                        "answerIdName": "economic",
+                        "text": "Ikke fokus på økonomi i prøveprosjektet"
+                    },
+                    {
+                        "answerIdName": "social",
+                        "text": "Innbyggerne har et miljøvennlig alternativ til transport"
+                    },
+                    {
+                        "answerIdName": "environment",
+                        "text": "Mindre forurensning og mindre støy"
+                    }
+                ]
+            },
+            {
+                "categoryIdName": "tag",
+                "answers": [
+                    {
+                        "answerIdName": "",
+                        "text": "transport"
+                    },
+                    {
+                        "answerIdName": "",
+                        "text": "offentlig transport"
+                    },
+                    {
+                        "answerIdName": "",
+                        "text": "buss"
+                    },
+                    {
+                        "answerIdName": "",
+                        "text": "elektrisk buss"
+                    }
+                ]
+            }
+        ],
+        "parents": [
+            {
+                "text": "Sommeren 2018 satte OBOS opp en rute med selvkjørende busser på Fornebu.",
+                "displayName": "Norges første selvkjørende buss",
+                "entitytypeIdName": "project",
+                "entityParentIdName": "obs.no",
+                "mainParent": true
+            },
+            {
+                "text": "Acando har omfattende kunnskap om digitaliseringen av samferdselssektoren, og har gjennom demonstratorer ervervet betydelig erfaring på hvordan selvkjørende teknologi bør implementeres og benyttes",
+                "displayName": "Acando og OBOS testet Norges første selvkjørende buss",
+                "entitytypeIdName": "project",
+                "entityParentIdName": "cgi.com"
+            }            
+        ],
+        "children": [
+            {
+                "text": null,
+                "displayName": null,
+                "entitytypeIdName": null,
+                "entityParentIdName": null
+            }
+        ],
+        "contacts": [
+            {
+                "networkContact": false,
+                "roleName": "Prosjektleder",
+                "text": "Hvordan få godkjent er kjøretøy uten ratt og pedaler",
+                "existingPersonIdName": "frode-kjos",
+                "person": null
+            }
+        ],
+        "foreignKeys": {
+            "key": {
+                "import": "you can freely add your keys"
+            }
+        }
+    }
+]
