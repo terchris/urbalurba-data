@@ -313,7 +313,7 @@
                 "text": "AR i Hamar",
                 "displayName": "Augmented reality i Hamar",
                 "entitytypeIdName": "solution",
-                "entityParentIdName": "hamarregionen.no",
+                "entityParentIdName": "hamarregionen.net",
                 "mainParent": true
             }
         ],
@@ -471,7 +471,7 @@
                 "text": "Smart snøbrøyting i Hamarregionen",
                 "displayName": "Smart snøbrøyting i Hamarregionen",
                 "entitytypeIdName": "solution",
-                "entityParentIdName": "hamarregionen.no",
+                "entityParentIdName": "hamarregionen.net",
                 "mainParent": true                
             }
         ],
