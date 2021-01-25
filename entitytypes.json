@@ -4,9 +4,10 @@
         "displayName": "Organisasjoner",
         "summary": "Organizations are businesses, municipalities, research etc.",
         "image": {
-            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/org-cover.jpg",
-            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/org-profile.png",
-            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/org-icon.png"
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/organization/cover.png",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/organization/profile.png",
+            "square": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/organization/square.png",
+            "icon": ""
         }
     },
     {
@@ -14,9 +15,10 @@
         "displayName": "Løsninger",
         "summary": "Solutions er løsninger",
         "image": {
-            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/sol-cover.png",
-            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/sol-profile.png",
-            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/sol-icon.png"
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/solution/cover.png",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/solution/profile.png",
+            "square": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/solution/square.png",
+            "icon": ""        
         }
     },
     {
@@ -24,9 +26,10 @@
         "displayName": "Produkter",
         "summary": "Products",
         "image": {
-            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/product-cover.png",
-            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/product-profile.png",
-            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/product-icon.png"
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/product/cover.png",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/product/profile.png",
+            "square": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/product/square.png",
+            "icon": "" 
         }
     },    
     {
@@ -34,9 +37,10 @@
         "displayName": "Prosjekter",
         "summary": "Projects ",
         "image": {
-            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/pro-cover.png",
-            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/pro-profile.png",
-            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/pro-icon.png"
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/project/cover.png",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/project/profile.png",
+            "square": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/project/square.png",
+            "icon": "" 
         }
     },
     {
@@ -44,9 +48,10 @@
         "displayName": "Events",
         "summary": "Events ",
         "image": {
-            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/eve-cover.png",
-            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/eve-profile.png",
-            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/eve-icon.png"
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/event/cover.png",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/event/profile.png",
+            "square": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/event/square.png",
+            "icon": "" 
         }
     },
     {
@@ -54,9 +59,10 @@
         "displayName": "Datasett",
         "summary": "Datasets ",
         "image": {
-            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/dat-cover.png",
-            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/dat-profile.png",
-            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/dat-icon.png"
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/dataset/cover.png",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/dataset/profile.png",
+            "square": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/dataset/square.png",
+            "icon": "" 
         }
     },
     {
@@ -64,9 +70,10 @@
         "displayName": "Artikler",
         "summary": "Articles ",
         "image": {
-            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/art-cover.png",
-            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/art-profile.png",
-            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/art-icon.png"
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/article/cover.png",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/article/profile.png",
+            "square": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/article/square.png",
+            "icon": "" 
         }
     },
     {
@@ -74,9 +81,10 @@
         "displayName": "Call for proposal",
         "summary": "Call for proposals and funding program ",
         "image": {
-            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/prop-cover.png",
-            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/prop-profile.png",
-            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/prop-icon.png"
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/call/cover.png",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/call/profile.png",
+            "square": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/call/square.png",
+            "icon": "" 
         }
     }
 
