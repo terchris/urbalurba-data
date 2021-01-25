@@ -5,12 +5,12 @@
             "text": "#ffffff"
         },
         "categoryType": "single",
-        "description": "Virksomhets typer",
+        "description": "Sektor",
         "categoryItems": [
             {
-                "displayName": "Private bedrifter",
+                "displayName": "Næringsliv",
                 "idName": "private",
-                "summary": "Private bedrifter",
+                "summary": "Næringsliv",
                 "image": {
                     "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/orgtype/orgtype-priv-small.jpg",
                     "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/orgtype/orgtype-priv-medium.png",
@@ -21,12 +21,12 @@
                     "text": "#ffffff"
                 },
                 "sortOrder": 1,
-                "description": "Private bedrifter"
+                "description": "Næringsliv"
             },
             {
-                "displayName": "Kommune",
+                "displayName": "Kommunal",
                 "idName": "municipality",
-                "summary": "Kommuner og kommunale foretak",
+                "summary": "Kommunal og fylkeskommunal sektor",
                 "image": {
                     "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/orgtype/orgtype-municip-small.jpg",
                     "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/orgtype/orgtype-municip-medium.png",
@@ -37,14 +37,14 @@
                     "text": "#ffffff"
                 },
                 "sortOrder": 1,
-                "description": "Kommuner og kommunale foretak"
+                "description": "Kommunal og fylkeskommunal sektor"
             },
             {
                 "sortOrder": 1,
-                "description": "Statlige organisasjoner",
-                "displayName": "Statlig",
+                "description": "Statlig sektor",
+                "displayName": "Stat",
                 "idName": "government",
-                "summary": "Statlige organisasjoner",
+                "summary": "Statlig sektor",
                 "image": {
                     "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/orgtype/orgtype-gov-small.jpg",
                     "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/orgtype/orgtype-gov-medium.png",
@@ -56,9 +56,9 @@
                 }
             },
             {
-                "displayName": "Organisasjoner",
+                "displayName": "Medlemsorganisasjoner",
                 "idName": "association",
-                "summary": "Organisasjoner",
+                "summary": "Medlemsorganisasjoner",
                 "image": {
                     "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/orgtype/orgtype-assoc-small.jpg",
                     "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/orgtype/orgtype-assoc-medium.png",
@@ -69,7 +69,7 @@
                     "text": "#ffffff"
                 },
                 "sortOrder": 1,
-                "description": "Organisasjoner"
+                "description": "Medlemsorganisasjoner"
             },
             {
                 "color": {
@@ -120,9 +120,9 @@
                 "description": "Forskning"
             }
         ],
-        "displayName": "Organisasjonstype",
+        "displayName": "Sektor",
         "idName": "orgtype",
-        "summary": "Types of organizations som finnes",
+        "summary": "Innenfor hvilken sektor",
         "image": {
             "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/org-cover.jpg",
             "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/entitytype/org-profile.png",
@@ -456,12 +456,12 @@
             "text": "#000000",
             "background": "#EBDEF0"
         },
-        "description": "Emneknagger",
+        "description": "Stikkord",
         "categoryType": "tag",
         "categoryItems": [],
-        "displayName": "Emneknagger",
+        "displayName": "Stikkord",
         "idName": "tag",
-        "summary": "Emneknagger",
+        "summary": "Stikkord",
         "image": {
             "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sustainability/sustainability-logo-large.jpg",
             "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/tag/tag-medium.png",
