@@ -65,7 +65,7 @@
                 ]
             },
             {
-                "categoryIdName": "segment",
+                "categoryIdName": "industry",
                 "answers": [
                     {
                         "answerIdName": "mobility",
@@ -147,7 +147,7 @@
                 ]
             },
             {
-                "categoryIdName": "value",
+                "categoryIdName": "result",
                 "answers": [
                     {
                         "answerIdName": "expected",
@@ -160,7 +160,7 @@
                 ]
             },
             {
-                "categoryIdName": "sustainability",
+                "categoryIdName": "impact",
                 "answers": [
                     {
                         "answerIdName": "economic",

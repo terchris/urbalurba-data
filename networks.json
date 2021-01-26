@@ -25,12 +25,12 @@
             {
                 "entityType": "organization",
                 "displayName": "Medlemskatagorier",
-                "categoryIdNames": ["orgtype","sdg", "segment", "challenge","tag" ]
+                "categoryIdNames": ["sector","sdg", "industry", "challenge","tag" ]
             },
             {
                 "entityType": "solution",
                 "displayName": "Løsningskategorier",
-                "categoryIdNames": ["sdg","segment", "challenge","tag", "sustainability", "value"]
+                "categoryIdNames": ["sdg","industry", "challenge","tag", "impact", "result"]
             }
         ]
     },
@@ -60,22 +60,22 @@
             {
                 "entityType": "organization",
                 "displayName": "Medlemskatagorier",
-                "categoryIdNames": ["orgtype","sdg", "segment", "challenge","tag" ]
+                "categoryIdNames": ["sector","sdg", "industry", "challenge","tag" ]
             },
             {
                 "entityType": "solution",
                 "displayName": "Løsningskategorier",
-                "categoryIdNames": ["sdg","segment", "challenge","tag", "sustainability", "value"]
+                "categoryIdNames": ["sdg","industry", "challenge","tag", "impact", "result"]
             },
             {
                 "entityType": "blog",
                 "displayName": "Blogginnlegg",
-                "categoryIdNames": ["sdg","segment", "challenge","tag"]
+                "categoryIdNames": ["sdg","industry", "challenge","tag"]
             },
             {
                 "entityType": "event",
                 "displayName": "Blogginnlegg",
-                "categoryIdNames": ["sdg", "segment", "challenge","tag" ]
+                "categoryIdNames": ["sdg", "industry", "challenge","tag" ]
             }
         ]
     },

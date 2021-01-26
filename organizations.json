@@ -39,7 +39,7 @@
     },    
     "categoryAnswers": [
         {
-            "categoryIdName": "orgtype",
+            "categoryIdName": "sector",
             "answers": [
                 {
                     "answerIdName": "private",
@@ -69,7 +69,7 @@
             ]
         },
         {
-            "categoryIdName": "segment",
+            "categoryIdName": "industry",
             "answers": [
                 {
                     "answerIdName": "mobility",

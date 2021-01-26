@@ -59,7 +59,7 @@
                 ]
             },
             {
-                "categoryIdName": "segment",
+                "categoryIdName": "industry",
                 "answers": [
                     {
                         "answerIdName": "mobility",
@@ -109,7 +109,7 @@
                 ]
             },
             {
-                "categoryIdName": "value",
+                "categoryIdName": "result",
                 "answers": [
                     {
                         "answerIdName": "expected",

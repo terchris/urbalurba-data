@@ -53,7 +53,7 @@
                 ]
             },
             {
-                "categoryIdName": "segment",
+                "categoryIdName": "industry",
                 "answers": [
                     {
                         "answerIdName": "mobility",
@@ -99,7 +99,7 @@
                 ]
             },
             {
-                "categoryIdName": "value",
+                "categoryIdName": "result",
                 "answers": [
                     {
                         "answerIdName": "expected",
@@ -112,7 +112,7 @@
                 ]
             },
             {
-                "categoryIdName": "sustainability",
+                "categoryIdName": "impact",
                 "answers": [
                     {
                         "answerIdName": "economic",
@@ -269,7 +269,7 @@
                 ]
             },
             {
-                "categoryIdName": "segment",
+                "categoryIdName": "industry",
                 "answers": [
                     {
                         "answerIdName": "building-and-construction",
@@ -411,7 +411,7 @@
                 ]
             },
             {
-                "categoryIdName": "segment",
+                "categoryIdName": "industry",
                 "answers": [
                     {
                         "answerIdName": "building-and-construction",
@@ -568,7 +568,7 @@
                 ]
             },
             {
-                "categoryIdName": "segment",
+                "categoryIdName": "industry",
                 "answers": [
                     {
                         "answerIdName": "energy",
