@@ -7,7 +7,7 @@
             "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/organization/cover.png",
             "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/organization/profile.png",
             "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/organization/square.png",
-            "icon": ""
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/organization/icon.png"
         }
     },
     {
@@ -18,7 +18,7 @@
             "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/solution/cover.png",
             "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/solution/profile.png",
             "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/solution/square.png",
-            "icon": ""        
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/solution/icon.png"
         }
     },
     {
@@ -29,7 +29,7 @@
             "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/product/cover.png",
             "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/product/profile.png",
             "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/product/square.png",
-            "icon": "" 
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/product/icon.png"
         }
     },    
     {
@@ -40,7 +40,7 @@
             "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/project/cover.png",
             "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/project/profile.png",
             "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/project/square.png",
-            "icon": "" 
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/project/icon.png"
         }
     },
     {
@@ -51,7 +51,7 @@
             "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/event/cover.png",
             "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/event/profile.png",
             "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/event/square.png",
-            "icon": "" 
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/event/icon.png"
         }
     },
     {
@@ -62,7 +62,7 @@
             "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/dataset/cover.png",
             "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/dataset/profile.png",
             "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/dataset/square.png",
-            "icon": "" 
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/dataset/icon.png"
         }
     },
     {
@@ -73,7 +73,7 @@
             "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/article/cover.png",
             "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/article/profile.png",
             "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/article/square.png",
-            "icon": "" 
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/article/icon.png"
         }
     },
     {
@@ -84,7 +84,7 @@
             "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/call/cover.png",
             "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/call/profile.png",
             "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/call/square.png",
-            "icon": "" 
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/call/icon.png" 
         }
     }
 
