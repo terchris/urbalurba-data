@@ -483,12 +483,12 @@
             "text": "#000000",
             "background": "#EBDEF0"
         },
-        "description": "Stikkord",
+        "description": "Emneknagger / tags, fagområder, arbeidsoppgaver",
         "categoryType": "tag",
         "categoryItems": [],
         "displayName": "Stikkord",
         "idName": "tag",
-        "summary": "Stikkord",
+        "summary": "Emneknagger / tags, fagområder, arbeidsoppgaver",
         "image": {
             "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/tag/cover.png",
             "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/tag/profile.png",
