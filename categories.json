@@ -148,7 +148,7 @@
             "background": "#FCF3CF",
             "text": "#000000"
         },
-        "description": "Forskjellige næringer",
+        "description": "De forskjellige virksomhetsområdene",
         "categoryType": "multiple",
         "categoryItems": [
             {
@@ -474,9 +474,9 @@
                 "summary": "Consulting"
             }
         ],
-        "displayName": "Næring",
+        "displayName": "Virksomhetsområde",
         "idName": "industry",
-        "summary": "De forskjellige næringene det er kategorisert innen"
+        "summary": "De forskjellige virksomhetsområdene"
     },
     {
         "color": {
