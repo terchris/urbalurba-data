@@ -35,11 +35,11 @@
         ]
     },
     {
-        "idName": "norkor.",
+        "idName": "norkor.no",
         "displayName": "Norske koronamidler",
         "slogan": "De som har motatt støtte ifbm med korona pandemien",
         "summary": "Import fra åpne data",
-        "description": "Vi an se hvo pangene gikk",
+        "description": "Vi kan se hvor pengene gikk",
         "url": "http://www.norkor.no",
         "phone": "",
         "location": {
