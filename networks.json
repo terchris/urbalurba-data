@@ -1,6 +1,6 @@
 [
     {
-        "idName": "smartebyernorge",
+        "idName": "smartebyernorge.no",
         "displayName": "Smarte Byer Norge",
         "slogan": "Smartbynettverk for alle",
         "summary": "Vi driver frem bærekraftig smartbyutvikling og innovasjon ved å koble  smartby-entusiaster på tvers av fag, bransjer, organisasjoner og næringsliv. Dette gjør vi ved å tilby arenaer for samskaping. Målet er at de som deltar i nettverket skal finne hverandre og sammen skape smarte løsninger på dagens og morgendagens utfordringer.",
@@ -35,11 +35,11 @@
         ]
     },
     {
-        "idName": "cor",
-        "displayName": "Core dev network for test",
-        "slogan": "demo development network for testing",
-        "summary": "for developing new networks",
-        "description": "just for development",
+        "idName": "norkor.",
+        "displayName": "Norske koronamidler",
+        "slogan": "De som har motatt støtte ifbm med korona pandemien",
+        "summary": "Import fra åpne data",
+        "description": "Vi an se hvo pangene gikk",
         "url": "http://www.norkor.no",
         "phone": "",
         "location": {
@@ -80,7 +80,7 @@
         ]
     },
     {
-        "idName": "byggalliansen",
+        "idName": "byggalliansen.no",
         "displayName": "Grønn Byggallianse",
         "slogan": "Vi jobber for bærekraft som det selvfølgelige valget", 
         "summary": "Grønn Byggallianse er en non-profit medlemsforening der virksomheter fra hele verdikjeden innen bygg- og eiendom kan være medlem.",
@@ -110,7 +110,7 @@
         ]         
     },
     {
-        "idName": "avfallnorge",
+        "idName": "avfallnorge.no",
         "displayName": "Avfall Norge",
         "slogan": "Fremtidens råvarer er resirkulerte", 
         "summary": "Avfall Norge er en bransjeorganisasjon for avfalls– og gjenvinningsbransjen i Norge med rundt 200 medlemmer fra offentlig og privat sektor.",
