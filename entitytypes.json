@@ -86,6 +86,17 @@
             "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/call/square.png",
             "icon": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/call/icon.png" 
         }
+    },
+    {
+        "idName": "subsidy",
+        "displayName": "Subsidy or government incentive",
+        "summary": "Form of financial aid or support extended to an economic sector ",
+        "image": {
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/call/cover.png",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/call/profile.png",
+            "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/call/square.png",
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/images/system/entitytype/call/icon.png" 
+        }
     }
 
 ]    
