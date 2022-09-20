@@ -1906,5 +1906,39 @@
                 "idName": "as"
             }
         ]
+    },
+        {
+        "displayName": "Næringskode",
+        "idName": "naeringskode",
+        "summary": "Næringskode",
+        "image": {
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+        },
+        "color": {
+            "text": "#ffffff",
+            "background": "#4B5731"
+        },
+        "categoryType": "single",
+        "description": "Næringskode er fra brreg.no",
+        "categoryItems": [
+            {
+                "summary": "Engroshandel med elektronikkutstyr og telekommunikasjonsutstyr samt deler",
+                "image": {
+                    "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+                    "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+                    "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+                },
+                "color": {
+                    "background": "#4B5731",
+                    "text": "#ffffff"
+                },
+                "sortOrder": 1,
+                "description": "Engroshandel med elektronikkutstyr og telekommunikasjonsutstyr samt deler",
+                "displayName": "Engroshandel med elektronikkutstyr og telekommunikasjonsutstyr samt deler",
+                "idName": "46.520"
+            }
+        ]
     }
 ]
