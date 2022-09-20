@@ -1974,5 +1974,38 @@
                 "idName": "2100"
             }
         ]
+    }{
+        "displayName": "us-industry",
+        "idName": "us-industry",
+        "summary": "us-industry",
+        "image": {
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+        },
+        "color": {
+            "text": "#ffffff",
+            "background": "#4B5731"
+        },
+        "categoryType": "multiple",
+        "description": "us-industry er fra hubspot",
+        "categoryItems": [
+            {
+                "summary": "telecommunications",
+                "image": {
+                    "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+                    "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+                    "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+                },
+                "color": {
+                    "background": "#4B5731",
+                    "text": "#ffffff"
+                },
+                "sortOrder": 1,
+                "description": "telecommunications",
+                "displayName": "telecommunications",
+                "idName": "telecommunications"
+            }
+        ]
     }
 ]
