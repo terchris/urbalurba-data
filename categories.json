@@ -2074,5 +2074,22 @@
                 "idName": "woo_commerce"
             }
         ]
+    },
+    {
+        "displayName": "default",
+        "idName": "default",
+        "summary": "default",
+        "image": {
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+        },
+        "color": {
+            "text": "#ffffff",
+            "background": "#4B5731"
+        },
+        "categoryType": "multiple",
+        "description": "when we dont have a category - we make it default",
+        "categoryItems": []
     }
 ]
