@@ -1940,5 +1940,39 @@
                 "idName": "46.520"
             }
         ]
+    },
+        {
+        "displayName": "institusjonellSektorkode",
+        "idName": "institusjonellSektorkode",
+        "summary": "institusjonellSektorkode",
+        "image": {
+            "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+            "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+            "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+        },
+        "color": {
+            "text": "#ffffff",
+            "background": "#4B5731"
+        },
+        "categoryType": "single",
+        "description": "institusjonellSektorkode er fra brreg.no",
+        "categoryItems": [
+            {
+                "summary": "Private aksjeselskaper mv.",
+                "image": {
+                    "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+                    "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+                    "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+                },
+                "color": {
+                    "background": "#4B5731",
+                    "text": "#ffffff"
+                },
+                "sortOrder": 1,
+                "description": "Private aksjeselskaper mv.",
+                "displayName": "Private aksjeselskaper mv.",
+                "idName": "2100"
+            }
+        ]
     }
 ]
