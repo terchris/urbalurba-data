@@ -240,45 +240,9 @@
     "jobServicename": null
   },
   {
-    "jobName": "strapi_update",
+    "jobName": "insightly_networkmembers2merge",
     "jobStatus": "nojob",
-    "statusTime": "2022-10-26T04:11:26.645Z",
-    "blockJobType": "",
-    "step": null,
-    "summary": null,
-    "jobStartURL": null,
-    "cronActive": null,
-    "cronExpression": null,
-    "jobServicename": null
-  },
-  {
-    "jobName": "merge_strapiv32strapiv4",
-    "jobStatus": "nojob",
-    "statusTime": "2022-10-26T04:11:26.726Z",
-    "blockJobType": "",
-    "step": null,
-    "summary": null,
-    "jobStartURL": null,
-    "cronActive": null,
-    "cronExpression": null,
-    "jobServicename": null
-  },
-  {
-    "jobName": "webpage_info-test",
-    "jobStatus": "nojob",
-    "statusTime": "2022-10-26T04:11:26.882Z",
-    "blockJobType": "",
-    "step": null,
-    "summary": null,
-    "jobStartURL": null,
-    "cronActive": null,
-    "cronExpression": null,
-    "jobServicename": null
-  },
-  {
-    "jobName": "insightly_networks2merge",
-    "jobStatus": "nojob",
-    "statusTime": "2022-10-26T04:11:26.989Z",
+    "statusTime": "2022-10-26T04:11:27.171Z",
     "blockJobType": "",
     "step": null,
     "summary": null,
@@ -300,9 +264,9 @@
     "jobServicename": null
   },
   {
-    "jobName": "insightly_organizations2merge",
+    "jobName": "insightly_networks2merge",
     "jobStatus": "nojob",
-    "statusTime": "2022-10-26T04:11:27.077Z",
+    "statusTime": "2022-10-26T04:11:26.989Z",
     "blockJobType": "",
     "step": null,
     "summary": null,
@@ -312,9 +276,9 @@
     "jobServicename": null
   },
   {
-    "jobName": "split_network2organizations",
+    "jobName": "insightly_organizations2merge",
     "jobStatus": "nojob",
-    "statusTime": "2022-10-26T04:11:27.108Z",
+    "statusTime": "2022-10-26T04:11:27.077Z",
     "blockJobType": "",
     "step": null,
     "summary": null,
@@ -336,9 +300,9 @@
     "jobServicename": null
   },
   {
-    "jobName": "insightly_networkmembers2merge",
+    "jobName": "merge_strapiv32strapiv4",
     "jobStatus": "nojob",
-    "statusTime": "2022-10-26T04:11:27.171Z",
+    "statusTime": "2022-10-26T04:11:26.726Z",
     "blockJobType": "",
     "step": null,
     "summary": null,
@@ -350,8 +314,44 @@
   {
     "jobName": "mergejobs_strapi2github",
     "jobStatus": "Finished",
-    "statusTime": "2022-11-02T17:31:25.759Z",
+    "statusTime": "2022-11-02T17:34:49.665Z",
     "blockJobType": null,
+    "step": null,
+    "summary": null,
+    "jobStartURL": null,
+    "cronActive": null,
+    "cronExpression": null,
+    "jobServicename": null
+  },
+  {
+    "jobName": "split_network2organizations",
+    "jobStatus": "nojob",
+    "statusTime": "2022-10-26T04:11:27.108Z",
+    "blockJobType": "",
+    "step": null,
+    "summary": null,
+    "jobStartURL": null,
+    "cronActive": null,
+    "cronExpression": null,
+    "jobServicename": null
+  },
+  {
+    "jobName": "strapi_update",
+    "jobStatus": "nojob",
+    "statusTime": "2022-10-26T04:11:26.645Z",
+    "blockJobType": "",
+    "step": null,
+    "summary": null,
+    "jobStartURL": null,
+    "cronActive": null,
+    "cronExpression": null,
+    "jobServicename": null
+  },
+  {
+    "jobName": "webpage_info-test",
+    "jobStatus": "nojob",
+    "statusTime": "2022-10-26T04:11:26.882Z",
+    "blockJobType": "",
     "step": null,
     "summary": null,
     "jobStartURL": null,
