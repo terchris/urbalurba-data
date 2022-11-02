@@ -1,0 +1,2096 @@
+[
+  {
+    "displayName": "default",
+    "idName": "default",
+    "summary": "default",
+    "image": {
+      "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+    },
+    "color": {
+      "text": "#ffffff",
+      "background": "#4B5731"
+    },
+    "categoryType": "multiple",
+    "description": "when we dont have a category - we make it default",
+    "categoryItems": []
+  },
+  {
+    "displayName": "tech-web",
+    "idName": "tech-web",
+    "summary": "tech-web",
+    "image": {
+      "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+    },
+    "color": {
+      "text": "#ffffff",
+      "background": "#4B5731"
+    },
+    "categoryType": "multiple",
+    "description": "tech-web er fra webscraping",
+    "categoryItems": [
+      {
+        "summary": "wordpress",
+        "image": {
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "wordpress",
+        "displayName": "wordpress",
+        "idName": "wordpress"
+      },
+      {
+        "summary": "google_analytics",
+        "image": {
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "google_analytics",
+        "displayName": "google_analytics",
+        "idName": "google_analytics"
+      },
+      {
+        "summary": "woo_commerce",
+        "image": {
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "woo_commerce",
+        "displayName": "woo_commerce",
+        "idName": "woo_commerce"
+      }
+    ]
+  },
+  {
+    "displayName": "us-industry",
+    "idName": "us-industry",
+    "summary": "us-industry",
+    "image": {
+      "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+    },
+    "color": {
+      "text": "#ffffff",
+      "background": "#4B5731"
+    },
+    "categoryType": "multiple",
+    "description": "us-industry er fra hubspot",
+    "categoryItems": [
+      {
+        "summary": "telecommunications",
+        "image": {
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "telecommunications",
+        "displayName": "telecommunications",
+        "idName": "telecommunications"
+      }
+    ]
+  },
+  {
+    "displayName": "institusjonellSektorkode",
+    "idName": "institusjonellSektorkode",
+    "summary": "institusjonellSektorkode",
+    "image": {
+      "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+    },
+    "color": {
+      "text": "#ffffff",
+      "background": "#4B5731"
+    },
+    "categoryType": "single",
+    "description": "institusjonellSektorkode er fra brreg.no",
+    "categoryItems": [
+      {
+        "summary": "Private aksjeselskaper mv.",
+        "image": {
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Private aksjeselskaper mv.",
+        "displayName": "Private aksjeselskaper mv.",
+        "idName": "2100"
+      }
+    ]
+  },
+  {
+    "displayName": "Næringskode",
+    "idName": "naeringskode",
+    "summary": "Næringskode",
+    "image": {
+      "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+    },
+    "color": {
+      "text": "#ffffff",
+      "background": "#4B5731"
+    },
+    "categoryType": "single",
+    "description": "Næringskode er fra brreg.no",
+    "categoryItems": [
+      {
+        "summary": "Engroshandel med elektronikkutstyr og telekommunikasjonsutstyr samt deler",
+        "image": {
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Engroshandel med elektronikkutstyr og telekommunikasjonsutstyr samt deler",
+        "displayName": "Engroshandel med elektronikkutstyr og telekommunikasjonsutstyr samt deler",
+        "idName": "46.520"
+      }
+    ]
+  },
+  {
+    "displayName": "Organisasjonsform",
+    "idName": "organisasjonsform",
+    "summary": "organisasjonsform",
+    "image": {
+      "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+    },
+    "color": {
+      "text": "#ffffff",
+      "background": "#4B5731"
+    },
+    "categoryType": "single",
+    "description": "organisasjonsform er fra brreg.no",
+    "categoryItems": [
+      {
+        "summary": "Aksjeselskap",
+        "image": {
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Aksjeselskap",
+        "displayName": "Aksjeselskap",
+        "idName": "as"
+      }
+    ]
+  },
+  {
+    "displayName": "Partnership",
+    "idName": "partnership",
+    "summary": "Våre samarbeidspartnere",
+    "image": {
+      "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+    },
+    "color": {
+      "text": "#ffffff",
+      "background": "#4B5731"
+    },
+    "categoryType": "single",
+    "description": "ZERO samarbeider med aktører innen samtlige av våre fagområder. Her finner du en oversikt over partnerne våre, sortert etter størrelsen på samarbeidet.",
+    "categoryItems": [
+      {
+        "summary": "Hovedpartnere støtter ZEROs arbeid med summer mellom 450.000 og 550.000 i året.",
+        "image": {
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Hovedpartnere støtter ZEROs arbeid med summer mellom 450.000 og 550.000 i året.",
+        "displayName": "Hovedpartnere",
+        "idName": "main"
+      },
+      {
+        "summary": "Strategiske partnere støtter ZEROs arbeid med summer mellom 250.000 og 350.000 i året.",
+        "image": {
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 2,
+        "description": "Strategiske partnere støtter ZEROs arbeid med summer mellom 250.000 og 350.000 i året.",
+        "displayName": "Strategiske partnere",
+        "idName": "strategy"
+      },
+      {
+        "summary": "Fagpartnere støtter ZEROs arbeid med summer mellom 200.000 og 250.000 i året.",
+        "image": {
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png",
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png"
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 3,
+        "description": "Fagpartnere støtter ZEROs arbeid med summer mellom 200.000 og 250.000 i året.",
+        "displayName": "Fagpartnere",
+        "idName": "knowledge"
+      },
+      {
+        "summary": "Støttespillere støtter ZEROs arbeid med mellom 100.000 og 200.000 i året.",
+        "image": {
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png",
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png"
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 4,
+        "description": "Støttespillere støtter ZEROs arbeid med mellom 100.000 og 200.000 i året.",
+        "displayName": "Støttespillere",
+        "idName": "support"
+      },
+      {
+        "summary": "Annonsepartnere støtter ZEROs arbeid med 30.000 eller mindre i året.",
+        "image": {
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png",
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png"
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 5,
+        "description": "Annonsepartnere støtter ZEROs arbeid med 30.000 eller mindre i året.",
+        "displayName": "Annonsepartnere",
+        "idName": "advertising"
+      },
+      {
+        "summary": "Følger vårt arbeid .. ",
+        "image": {
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png",
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png"
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 6,
+        "description": "Følger vårt arbeid .. ",
+        "displayName": "Følgere",
+        "idName": "follower"
+      }
+    ]
+  },
+  {
+    "summary": "FNs bærekraftsmål er verdens felles arbeidsplan for å utrydde fattigdom, bekjempe ulikhet og stoppe klimaendringene innen 2030",
+    "image": {
+      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-medium.png",
+      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-large.png",
+      "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-small.jpg"
+    },
+    "color": {
+      "text": "#ffffff",
+      "background": "#EB1C2E"
+    },
+    "categoryType": "multiple",
+    "description": "FNs bærekraftsmål er verdens felles arbeidsplan for å utrydde fattigdom, bekjempe ulikhet og stoppe klimaendringene innen 2030",
+    "categoryItems": [
+      {
+        "summary": "Utrydde alle former for fattigdom i hele verden",
+        "image": {
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-1.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-1.png",
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-1.png"
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#EB1C2E"
+        },
+        "sortOrder": 1,
+        "description": "I 1990 levde 36 prosent av verdens befolkning i ekstrem fattigdom. Siden den gang har andelen ekstremt fattige blitt mer enn halvert. 767 millioner mennesker lever i dag under fattigdomsgrensa på 1,90 dollar dagen. Ekstrem fattigdom skal utryddes ",
+        "displayName": "Utrydde fattigdom",
+        "idName": "1"
+      },
+      {
+        "idName": "2",
+        "summary": "Utrydde sult, oppnå matsikkerhet og bedre ernæring, og fremme bærekraftig landbruk",
+        "image": {
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-2.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-2.png",
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-2.png"
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#D3A02B"
+        },
+        "sortOrder": 1,
+        "description": "Selv om antallet mennesker som lever i kronisk sult fortsatt er svært høyt, har andelen sunket fra 23,3 prosent i 1990-92 til 12,9 prosent i 2014-2016. 821 millioner mennesker er rammet av sult, mens nesten 2 milliarder opplever manglende matsikkerhet i perioder. Det er på tide å tenke nytt om måten vi dyrker, fordeler og bruker maten vår. Hvis vi gjør det på riktig måte, kan jordbruk, skog og fisk sørge for næringsrik mat til alle, og samtidig være en viktig inntektskilde for mange.",
+        "displayName": "Utrydde sult"
+      },
+      {
+        "image": {
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-3.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-3.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-3.png"
+        },
+        "color": {
+          "background": "#279B48",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "At alle kan leve friske og sunne liv er en forutsetning for å oppnå bærekraftig utvikling. Det er gjort store framskritt i arbeidet med å øke forventet levealder, og minske mødre- og barnedødelighet i verden. For at dette bærekraftsmålet skal nås, kreves det likevel en massiv innsats de neste 15 årene. En rekke alvorlige sykdommer må utryddes, og andre store helseutfordringer må håndteres.",
+        "displayName": "God helse",
+        "idName": "3",
+        "summary": "Sikre god helse og fremme livskvalitet for alle, uansett alder"
+      },
+      {
+        "color": {
+          "background": "#C21F32",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "En god utdanning er grunnlaget for å forbedre menneskers liv. Jenter og gutter skal ha lik tilgang til utdanning med god kvalitet, og den skal være gratis. ",
+        "displayName": "God utdanning",
+        "idName": "4",
+        "summary": "Sikre inkluderende, rettferdig og god utdanning og fremme muligheter for livslang læring for alle",
+        "image": {
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-4.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-4.png",
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-4.png"
+        }
+      },
+      {
+        "color": {
+          "text": "#ffffff",
+          "background": "#EF4129"
+        },
+        "sortOrder": 1,
+        "description": "Likestilling er en menneskerett. Det handler om å gi begge kjønn like rettigheter og muligheter til å bestemme over eget liv. Kvinners tilgang til utdanning, helsetjenester, arbeid og juridiske rettigheter er nødvendig for å skape utvikling i et land.",
+        "displayName": "Likestilling mellom kjønnene",
+        "idName": "5",
+        "summary": "Oppnå likestilling og styrke jenter og kvinners stilling",
+        "image": {
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-5.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-5.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-5.png"
+        }
+      },
+      {
+        "image": {
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-6.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-6.png",
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-6.png"
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#01AED9"
+        },
+        "sortOrder": 1,
+        "description": "Alle må ha tilgang til rent vann hvis vi skal oppnå bærekraftig utvikling. Det finnes nok ferskvann på planeten, men dårlig økonomi og manglende infrastruktur står ofte i veien.",
+        "displayName": "Rent vann og gode sanitærforhold",
+        "idName": "6",
+        "summary": "Sikre bærekraftig vannforvaltning og tilgang til vann og gode sanitærforhold for alle"
+      },
+      {
+        "summary": "Sikre tilgang til pålitelig, bærekraftig og moderne energi til en overkommelig pris for alle",
+        "image": {
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-7.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-7.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-7.png"
+        },
+        "color": {
+          "background": "#FCB712",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Tilgang til energi står i sentrum av så nær som alle utfordringer og muligheter vi møter i dag. Det kan dreie seg om jobber, sikkerhet, klimaendringer, matproduksjon eller muligheter for økt inntekt.",
+        "displayName": "Ren energi for alle",
+        "idName": "7"
+      },
+      {
+        "idName": "8",
+        "summary": "Fremme varig, inkluderende og bærekraftig økonomisk vekst, full sysselsetting og anstendig arbeid for alle",
+        "image": {
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-8.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-8.png",
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-8.png"
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#8F1838"
+        },
+        "sortOrder": 1,
+        "description": "Omtrent halvparten av verdens befolkning tjener så dårlig at ikke de kan leve av lønnen sin. Å skape økonomisk vekst og nye arbeidsplasser gjennom anstendig arbeid er en forutsetning for bærekraftig utvikling. Å skape arbeidsplasser av god kvalitet er en av de største utfordringene for alle land fram mot 2030.",
+        "displayName": "Anstendig arbeid og økonomisk vekst"
+      },
+      {
+        "summary": "Bygge solid infrastruktur, fremme inkluderende og bærekraftig industrialisering og bidra til innovasjon",
+        "image": {
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-9.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-9.png",
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-9.png"
+        },
+        "color": {
+          "background": "#F36D24",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Investeringer i transport, vanningssystemer, energi og informasjonsteknologi er helt avgjørende for å skape en bærekraftig utvikling. ",
+        "displayName": "Innovasjon og infrastruktur",
+        "idName": "9"
+      },
+      {
+        "image": {
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-10.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-10.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-10.png"
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#E01483"
+        },
+        "sortOrder": 1,
+        "description": "Økonomisk vekst har bidratt til at flere land har blitt rikere. Dette fører ikke automatisk til mindre fattigdom. Vi må redusere ulikheter mellom land, og innad i land, for å kunne skape en bærekraftig utvikling.",
+        "displayName": "Mindre ulikhet",
+        "idName": "10",
+        "summary": "Redusere ulikhet i og mellom land"
+      },
+      {
+        "color": {
+          "text": "#ffffff",
+          "background": "#FA9D26"
+        },
+        "sortOrder": 1,
+        "description": "Verden urbaniseres i en fart vi aldri har sett maken til. Mer enn halvparten av verdens befolkning bor i dag i byer, og andelen kommer til å fortsette og øke. Byene fungerer som smeltedigler fulle av ideer, handel, kultur, vitenskap og sosial samhandling. Samtidig står byene for 75 prosent av alle klimagassutslipp og store slumområder hindrer gode levekår.",
+        "displayName": "Bærekraftige byer og samfunn",
+        "idName": "11",
+        "summary": "Gjøre byer og bosettinger inkluderende, trygge, motstandsdyktige og bærekraftige",
+        "image": {
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-11.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-11.png",
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-11.png"
+        }
+      },
+      {
+        "sortOrder": 1,
+        "description": "Bærekraftig forbruk og produksjon handler om å gjøre mer med mindre ressurser.",
+        "displayName": "Ansvarlig forbruk og produksjon",
+        "idName": "12",
+        "summary": "Sikre bærekraftig forbruks- og produksjonsmønstre",
+        "image": {
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-12.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-12.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-12.png"
+        },
+        "color": {
+          "background": "#CE8D29",
+          "text": "#ffffff"
+        }
+      },
+      {
+        "displayName": "Stoppe klimaendringene",
+        "idName": "13",
+        "summary": "Handle umiddelbart for å bekjempe klimaendringene og konsekvensene av dem",
+        "image": {
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-13.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-13.png",
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-13.png"
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#47773D"
+        },
+        "sortOrder": 1,
+        "description": "Klimaendringer er et globalt spørsmål og kjenner ingen landegrenser. Derfor må vi også finne globale løsninger. I tillegg til å kutte i utslipp og fange og lagre CO2, må det satses langt mer på fornybar energi og annen ren energi."
+      },
+      {
+        "image": {
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-14.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-14.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-14.png"
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#017DBD"
+        },
+        "sortOrder": 1,
+        "description": "Det er verdenshavene – deres temperatur, kjemi, strømninger og liv – som driver de globale systemene som gjør det mulig for mennesker å leve på jorda.  Regn, drikkevann, været, klimaet, mye av maten vår og til og med lufta vi puster inn er til syvende og sist regulert av havet.",
+        "displayName": "Liv under vann",
+        "idName": "14",
+        "summary": "Bevare og bruke hav og marine ressurser på en måte som fremmer bærekraftig utvikling"
+      },
+      {
+        "summary": "Beskytte, gjenopprette og fremme bærekraftig bruk av økosystemer, sikre bærekraftig skogforvaltning, bekjempe ørkenspredning, stanse og reversere landforringelse samt stanse tap av artsmangfold",
+        "image": {
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-15.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-15.png",
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-15.png"
+        },
+        "color": {
+          "background": "#3DB04B",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Skog dekker 30 prosent av jordas overflate. Skogen gir mat og ly, bekjemper klimaendringer, tar vare på det biologiske mangfoldet, og er hjemmet til mange urfolk. Over 80 prosent av alle dyr, planter og insekter som lever på land, bor i skogen. 1,6 milliarder mennesker har skogen som sitt levebrød. Avskoging og ørkenspredning er store utfordringer når det gjelder å skape bærekraftig utvikling. Samtidig gjør de menneskene som er avhengige av skogen mer utsatt for fattigdom.",
+        "displayName": "Liv på land",
+        "idName": "15"
+      },
+      {
+        "idName": "16",
+        "summary": "Fremme fredelige og inkluderende samfunn med sikte på bærekraftig utvikling, sørge for tilgang til rettsvern for alle og bygge velfungerende, ansvarlige og inkluderende institusjoner på alle nivåer",
+        "image": {
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-16.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-16.png",
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-16.png"
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#00689D"
+        },
+        "sortOrder": 1,
+        "description": "Å sikre internasjonal fred og sikkerhet har alltid vært FNs hovedoppgave. Derfor er mål 16 viet til å skape fredelige og inkluderende samfunn.Fred er en forutsetning for å skape bærekraftig utvikling. Under konflikter mister mange tilgang til offentlige tjenester. I tillegg er det vanskelig å drive sterke statlige institusjoner under en konflikt. Når for eksempel rettsvesenet i et land fungerer dårlig, går det ut over menneskers rettssikkerhet. Svake institusjoner gjør det også vanskeligere å stoppe korrupsjon, bestikkelser og skatteunndragelser. Dette hemmer den økonomiske veksten i et land og frarøver mennesker retten til grunnleggende velferdstjenester.",
+        "displayName": "Fred og rettferdighet"
+      },
+      {
+        "displayName": "Samarbeid for å nå målene",
+        "idName": "17",
+        "summary": "Styrke gjennomføringsmidlene og fornye globale partnerskap for bærekraftig utvikling",
+        "image": {
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-17.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-17.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-17.png"
+        },
+        "color": {
+          "background": "#183668",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "For å lykkes med bærekraftsmålene trengs det nye og sterke partnerskap. Myndigheter, næringslivet og sivilsamfunnet må samarbeide for å oppnå bærekraftig utvikling. Bærekraftsmålene skal fungere som en felles, global retning og prioritert innsats de neste 15 årene. Erfaring fra Tusenårsmålene viser at denne typen målrettet innsats virker."
+      }
+    ],
+    "displayName": "FNs bærekraftsmål",
+    "idName": "sdg"
+  },
+  {
+    "displayName": "BREAM-NOR",
+    "idName": "bream",
+    "summary": "Miljøsertifisering for alle typer bygg.",
+    "image": {
+      "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+    },
+    "color": {
+      "text": "#ffffff",
+      "background": "#4B5731"
+    },
+    "categoryType": "multiple",
+    "description": "Miljøsertifisering for alle typer bygg.",
+    "categoryItems": [
+      {
+        "summary": "Ledelse og administrasjon",
+        "image": {
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Ledelse og administrasjon",
+        "displayName": "Ledelse og administrasjon",
+        "idName": "ledelse"
+      },
+      {
+        "summary": "Helse og innemiljø",
+        "image": {
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Helse og innemiljø",
+        "displayName": "Helse og innemiljø",
+        "idName": "helse"
+      },
+      {
+        "summary": "Energibruk",
+        "image": {
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png",
+          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png"
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Energibruk",
+        "displayName": "Energibruk",
+        "idName": "energibruk"
+      }
+    ]
+  },
+  {
+    "categoryType": "input",
+    "description": "Resultatet av prosjektet ..",
+    "categoryItems": [
+      {
+        "color": {
+          "text": "#ffffff",
+          "background": "#183668"
+        },
+        "sortOrder": 1,
+        "description": "Forventet",
+        "displayName": "Forventet",
+        "idName": "expected",
+        "summary": "Forventet",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/result/expected/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/result/expected/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/result/expected/square.png",
+          "icon": ""
+        }
+      },
+      {
+        "summary": "Målt",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/result/measured/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/result/measured/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/result/measured/square.png",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#183668"
+        },
+        "sortOrder": 1,
+        "description": "Målt",
+        "displayName": "Målt",
+        "idName": "measured"
+      }
+    ],
+    "displayName": "Resultat",
+    "idName": "result",
+    "summary": "Forventet og målt verdi av prosjektet",
+    "image": {
+      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/result/cover.png",
+      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/result/profile.png",
+      "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/result/square.png",
+      "icon": ""
+    },
+    "color": {
+      "background": "#EB1C2E",
+      "text": "#ffffff"
+    }
+  },
+  {
+    "color": {
+      "background": "#D6EAF8",
+      "text": "#0F0F0F"
+    },
+    "description": "Utfordringer det fokuseres på",
+    "categoryType": "multiple",
+    "categoryItems": [
+      {
+        "idName": "enhanced-data-collection",
+        "summary": "Innsamling av data",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/enhanced-data-collection/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/enhanced-data-collection/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/enhanced-data-collection/square.png",
+          "icon": ""
+        },
+        "color": {
+          "text": "#0F0F0F",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Enhanced data collection",
+        "displayName": "Innsamling av data"
+      },
+      {
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Faster data transfer",
+        "displayName": "Faster data transfer",
+        "idName": "faster-data-transfer",
+        "summary": "Faster data transfer",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/faster-data-transfer/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/faster-data-transfer/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/faster-data-transfer/square.png",
+          "icon": ""
+        }
+      },
+      {
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Improved data accessibility",
+        "displayName": "Forbedre tilgang på data",
+        "idName": "improved-data-accessibility",
+        "summary": "Forbedre tilgang på data",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improved-data-accessibility/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improved-data-accessibility/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improved-data-accessibility/square.png",
+          "icon": ""
+        }
+      },
+      {
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Kunne gi brukre og kunder tilgang på og innsyn i data som er lagret om dem selv",
+        "displayName": "Fokus på å gi innsyn i egne data",
+        "idName": "increased-data-transparency",
+        "summary": "Fokus på å gi innsyn i egne data",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/increased-data-transparency/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/increased-data-transparency/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/increased-data-transparency/square.png",
+          "icon": ""
+        }
+      },
+      {
+        "sortOrder": 1,
+        "description": "Enhanced data security",
+        "displayName": "Enhanced data security",
+        "idName": "enhanced-data-security",
+        "summary": "Enhanced data security",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/enhanced-data-security/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/enhanced-data-security/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/enhanced-data-security/square.png",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        }
+      },
+      {
+        "displayName": "Improving travel safety",
+        "idName": "improving-travel-safety",
+        "summary": "Improving travel safety",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-travel-safety/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-travel-safety/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-travel-safety/square.png",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Improving travel safety"
+      },
+      {
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Improving traffic management",
+        "displayName": "Improving traffic management",
+        "idName": "improving-traffic-management",
+        "summary": "Improving traffic management",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-traffic-management/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-traffic-management/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-traffic-management/square.png",
+          "icon": ""
+        }
+      },
+      {
+        "sortOrder": 1,
+        "description": "Løsninger for bedre håndtering av parkering",
+        "displayName": "Parkeringsløsninger",
+        "idName": "improving-parking",
+        "summary": "Løsninger for bedre håndtering av parkering",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-parking/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-parking/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-parking/square.png",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        }
+      },
+      {
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-need-for-travel/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-need-for-travel/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-need-for-travel/square.png",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Reducing need for travel",
+        "displayName": "Reducing need for travel",
+        "idName": "reducing-need-for-travel",
+        "summary": "Reducing need for travel"
+      },
+      {
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-sustainable-private-transport-models/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-sustainable-private-transport-models/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-sustainable-private-transport-models/square.png",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Promoting sustainable private transport models",
+        "displayName": "Promoting sustainable private transport models",
+        "idName": "promoting-sustainable-private-transport-models",
+        "summary": "Promoting sustainable private transport models"
+      },
+      {
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-use-of-fossils-in-public-transport/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-use-of-fossils-in-public-transport/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-use-of-fossils-in-public-transport/square.png",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Reducing use of fossils in public transport",
+        "displayName": "Reducing use of fossils in public transport",
+        "idName": "reducing-use-of-fossils-in-public-transport",
+        "summary": "Reducing use of fossils in public transport"
+      },
+      {
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-public-transport-accessibility/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-public-transport-accessibility/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-public-transport-accessibility/square.png",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Improving public transport accessibility",
+        "displayName": "Improving public transport accessibility",
+        "idName": "improving-public-transport-accessibility",
+        "summary": "Improving public transport accessibility"
+      },
+      {
+        "idName": "improving-education",
+        "summary": "Improving education",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-education/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-education/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-education/square.png",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Improving education",
+        "displayName": "Improving education"
+      },
+      {
+        "sortOrder": 1,
+        "description": "Promoting active living",
+        "displayName": "Promoting active living",
+        "idName": "promoting-active-living",
+        "summary": "Promoting active living",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-active-living/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-active-living/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-active-living/square.png",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        }
+      },
+      {
+        "displayName": "Increasing energy efficiency of appliances",
+        "idName": "increasing-energy-efficiency-of-appliances",
+        "summary": "Increasing energy efficiency of appliances",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/increasing-energy-efficiency-of-appliances/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/increasing-energy-efficiency-of-appliances/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/increasing-energy-efficiency-of-appliances/square.png",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Increasing energy efficiency of appliances"
+      },
+      {
+        "sortOrder": 1,
+        "description": "Promoting sustainable disposal of waste",
+        "displayName": "Promoting sustainable disposal of waste",
+        "idName": "promoting-sustainable-disposal-of-waste",
+        "summary": "Promoting sustainable disposal of waste",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-sustainable-disposal-of-waste/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-sustainable-disposal-of-waste/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-sustainable-disposal-of-waste/square.png",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        }
+      },
+      {
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Recycling waste",
+        "displayName": "Resirkulering",
+        "idName": "recycling-waste",
+        "summary": "Resirkulering",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/recycling-waste/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/recycling-waste/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/recycling-waste/square.png",
+          "icon": ""
+        }
+      },
+      {
+        "sortOrder": 1,
+        "description": "Promoting sustainbable use of land",
+        "displayName": "Promoting sustainbable use of land",
+        "idName": "promoting-sustainbable-use-of-land",
+        "summary": "Promoting sustainbable use of land",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-sustainbable-use-of-land/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-sustainbable-use-of-land/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-sustainbable-use-of-land/square.png",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        }
+      },
+      {
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-soil-pollution/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-soil-pollution/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-soil-pollution/square.png",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Reducing soil pollution",
+        "displayName": "Reducing soil pollution",
+        "idName": "reducing-soil-pollution",
+        "summary": "Reducing soil pollution"
+      },
+      {
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Reducing local air pollution",
+        "displayName": "Redusere luftforurensning",
+        "idName": "reducing-local-air-pollution",
+        "summary": "Redusere luftforurensning",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-local-air-pollution/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-local-air-pollution/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-local-air-pollution/square.png",
+          "icon": ""
+        }
+      },
+      {
+        "idName": "reducing-investment-costs",
+        "summary": "Redusere investeringskostnader",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-investment-costs/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-investment-costs/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-investment-costs/square.png",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Reducing investment costs",
+        "displayName": "Redusere investeringskostnader"
+      },
+      {
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-social-integration/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-social-integration/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-social-integration/square.png",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Improving social integration",
+        "displayName": "Improving social integration",
+        "idName": "improving-social-integration",
+        "summary": "Improving social integration"
+      },
+      {
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-life-quality/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-life-quality/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-life-quality/square.png",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Improving Life Quality",
+        "displayName": "Improving Life Quality",
+        "idName": "improving-life-quality",
+        "summary": "Improving Life Quality"
+      },
+      {
+        "displayName": "Increasing Safety",
+        "idName": "increasing-safety",
+        "summary": "Increasing Safety",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/increasing-safety/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/increasing-safety/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/increasing-safety/square.png",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Increasing Safety"
+      },
+      {
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Improving Health Care",
+        "displayName": "Improving Health Care",
+        "idName": "improving-health-care",
+        "summary": "Improving Health Care",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-health-care/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-health-care/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-health-care/square.png",
+          "icon": ""
+        }
+      },
+      {
+        "sortOrder": 1,
+        "description": "Improving Elderly Care",
+        "displayName": "Improving Elderly Care",
+        "idName": "improving-elderly-care",
+        "summary": "Improving Elderly Care",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-elderly-care/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-elderly-care/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-elderly-care/square.png",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        }
+      },
+      {
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Promoting sustainable behavior",
+        "displayName": "Promoting sustainable behavior",
+        "idName": "promoting-sustainable-behavior",
+        "summary": "Promoting sustainable behavior",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-sustainable-behavior/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-sustainable-behavior/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-sustainable-behavior/square.png",
+          "icon": ""
+        }
+      },
+      {
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Facilitating Citizen Engagement",
+        "displayName": "Facilitating Citizen Engagement",
+        "idName": "facilitating-citizen-engagement",
+        "summary": "Facilitating Citizen Engagement",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/facilitating-citizen-engagement/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/facilitating-citizen-engagement/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/facilitating-citizen-engagement/square.png",
+          "icon": ""
+        }
+      },
+      {
+        "displayName": "Limiting Urban Sprawl",
+        "idName": "limiting-urban-sprawl",
+        "summary": "Limiting Urban Sprawl",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/limiting-urban-sprawl/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/limiting-urban-sprawl/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/limiting-urban-sprawl/square.png",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Limiting Urban Sprawl"
+      },
+      {
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Reducing GHG Emissions",
+        "displayName": "Reducing GHG Emissions",
+        "idName": "reducing-ghg-emissions",
+        "summary": "Reducing GHG Emissions",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-ghg-emissions/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-ghg-emissions/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-ghg-emissions/square.png",
+          "icon": ""
+        }
+      },
+      {
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/increasing-share-of-renewables/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/increasing-share-of-renewables/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/increasing-share-of-renewables/square.png",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Increasing share of renewables",
+        "displayName": "Increasing share of renewables",
+        "idName": "increasing-share-of-renewables",
+        "summary": "Increasing share of renewables"
+      },
+      {
+        "displayName": "Decreasing energy consumption in buildings",
+        "idName": "decreasing-energy-consumption-in-buildings",
+        "summary": "Decreasing energy consumption in buildings",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/decreasing-energy-consumption-in-buildings/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/decreasing-energy-consumption-in-buildings/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/decreasing-energy-consumption-in-buildings/square.png",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Decreasing energy consumption in buildings"
+      },
+      {
+        "idName": "reducing-waste-generation",
+        "summary": "Reducing waste generation",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-waste-generation/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-waste-generation/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-waste-generation/square.png",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Reducing waste generation",
+        "displayName": "Reducing waste generation"
+      },
+      {
+        "idName": "reducing-water-pollution",
+        "summary": "Reducing water pollution",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-water-pollution/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-water-pollution/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-water-pollution/square.png",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Reducing water pollution",
+        "displayName": "Reducing water pollution"
+      },
+      {
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-energy-usage-efficiency/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-energy-usage-efficiency/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-energy-usage-efficiency/square.png",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Improving Energy Usage Efficiency",
+        "displayName": "Improving Energy Usage Efficiency",
+        "idName": "improving-energy-usage-efficiency",
+        "summary": "Improving Energy Usage Efficiency"
+      },
+      {
+        "idName": "improving-energy-supply-efficiency",
+        "summary": "Improving Energy Supply Efficiency",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-energy-supply-efficiency/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-energy-supply-efficiency/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-energy-supply-efficiency/square.png",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Improving Energy Supply Efficiency",
+        "displayName": "Improving Energy Supply Efficiency"
+      },
+      {
+        "idName": "shaving-peak-energy-demand",
+        "summary": "Shaving peak Energy Demand",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/shaving-peak-energy-demand/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/shaving-peak-energy-demand/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/shaving-peak-energy-demand/square.png",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Shaving peak Energy Demand",
+        "displayName": "Shaving peak Energy Demand"
+      },
+      {
+        "summary": "Reducing energy bills",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-energy-bills/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-energy-bills/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-energy-bills/square.png",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Reducing energy bills",
+        "displayName": "Reducing energy bills",
+        "idName": "reducing-energy-bills"
+      },
+      {
+        "displayName": "Enhances Grid Stability",
+        "idName": "enhances-grid-stability",
+        "summary": "Enhances Grid Stability",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/enhances-grid-stability/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/enhances-grid-stability/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/enhances-grid-stability/square.png",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Enhances Grid Stability"
+      },
+      {
+        "displayName": "Reducing use of fossils",
+        "idName": "reducing-use-of-fossils",
+        "summary": "Reducing use of fossils",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-use-of-fossils/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-use-of-fossils/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-use-of-fossils/square.png",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Reducing use of fossils"
+      },
+      {
+        "summary": "Reducing Operation Costs",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-operation-costs/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-operation-costs/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-operation-costs/square.png",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Reducing Operation Costs",
+        "displayName": "Reducing Operation Costs",
+        "idName": "reducing-operation-costs"
+      },
+      {
+        "displayName": "Improving personnel efficiency",
+        "idName": "improving-personnel-efficiency",
+        "summary": "Improving personnel efficiency",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-personnel-efficiency/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-personnel-efficiency/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-personnel-efficiency/square.png",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Improving personnel efficiency"
+      },
+      {
+        "idName": "encouraging-digital-entrepreneurship",
+        "summary": "Encouraging digital entrepreneurship",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/encouraging-digital-entrepreneurship/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/encouraging-digital-entrepreneurship/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/encouraging-digital-entrepreneurship/square.png",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Encouraging digital entrepreneurship",
+        "displayName": "Encouraging digital entrepreneurship"
+      },
+      {
+        "displayName": "Creating new jobs",
+        "idName": "creating-new-jobs",
+        "summary": "Creating new jobs",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/creating-new-jobs/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/creating-new-jobs/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/creating-new-jobs/square.png",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Creating new jobs"
+      },
+      {
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Enabling new business opportunities",
+        "displayName": "Enabling new business opportunities",
+        "idName": "enabling-new-business-opportunities",
+        "summary": "Enabling new business opportunities",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/enabling-new-business-opportunities/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/enabling-new-business-opportunities/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/enabling-new-business-opportunities/square.png",
+          "icon": ""
+        }
+      }
+    ],
+    "displayName": "Utfordringer",
+    "idName": "challenge",
+    "summary": "De forskjellige utfordringene det er kategorisert i",
+    "image": {
+      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/cover.png",
+      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/profile.png",
+      "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/square.png",
+      "icon": ""
+    }
+  },
+  {
+    "categoryItems": [
+      {
+        "displayName": "Økonomisk",
+        "idName": "economic",
+        "summary": "Innvirkning på økonomisk bærekraft",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/impact/economic/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/impact/economic/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/impact/economic/square.png",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#183668"
+        },
+        "sortOrder": 1,
+        "description": "Beskriv hvordan"
+      },
+      {
+        "idName": "social",
+        "summary": "Innvirkning på sosial bærekraft",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/impact/social/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/impact/social/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/impact/social/square.png",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#183668"
+        },
+        "sortOrder": 1,
+        "description": "Beskriv hvordan",
+        "displayName": "Sosialt"
+      },
+      {
+        "sortOrder": 1,
+        "description": "Beskriv hvordan",
+        "displayName": "Miljø",
+        "idName": "environment",
+        "summary": "Innvirkning på miljømessig bærekraft",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/impact/environment/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/impact/environment/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/impact/environment/square.png",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#183668"
+        }
+      }
+    ],
+    "displayName": "Innvirkning",
+    "idName": "impact",
+    "summary": "Hvilken innvikning på bærekraftsinnvirkning prosektet har",
+    "image": {
+      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/impact/cover.png",
+      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/impact/profile.png",
+      "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/impact/square.png",
+      "icon": ""
+    },
+    "color": {
+      "background": "#EB1C2E",
+      "text": "#ffffff"
+    },
+    "categoryType": "input",
+    "description": "Innvirkning på bærekraft"
+  },
+  {
+    "color": {
+      "text": "#000000",
+      "background": "#EBDEF0"
+    },
+    "description": "Emneknagger / tags, fagområder, arbeidsoppgaver",
+    "categoryType": "tag",
+    "categoryItems": [],
+    "displayName": "Stikkord",
+    "idName": "tag",
+    "summary": "Emneknagger / tags, fagområder, arbeidsoppgaver",
+    "image": {
+      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/tag/cover.png",
+      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/tag/profile.png",
+      "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/tag/square.png",
+      "icon": ""
+    }
+  },
+  {
+    "image": {
+      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/cover.png",
+      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/profile.png",
+      "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/square.png",
+      "icon": ""
+    },
+    "color": {
+      "background": "#FCF3CF",
+      "text": "#000000"
+    },
+    "description": "De forskjellige virksomhetsområdene",
+    "categoryType": "multiple",
+    "categoryItems": [
+      {
+        "displayName": "Energi",
+        "idName": "energy",
+        "summary": "Energi",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/energy/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/energy/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/energy/square.png",
+          "icon": ""
+        },
+        "color": {
+          "background": "#FCF3CF",
+          "text": "#000000"
+        },
+        "sortOrder": 1,
+        "description": "Løsninger og virksomheter innen energi"
+      },
+      {
+        "image": {
+          "cover": "",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/water/segment-water-medium.jpg",
+          "square": "",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Løsninger for håndtering av vann",
+        "displayName": "Vann",
+        "idName": "water",
+        "summary": "Løsninger for håndtering av vann"
+      },
+      {
+        "idName": "air",
+        "summary": "Luft og luftkvalitet",
+        "image": {
+          "cover": "",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/air/segment-air-medium.jpg",
+          "square": "",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Luft og luftkvalitet",
+        "displayName": "Luft"
+      },
+      {
+        "sortOrder": 1,
+        "description": "Løsninger for transport av mennesker og varer",
+        "displayName": "Mobilitet",
+        "idName": "mobility",
+        "summary": "Mobilitetsløsninger",
+        "image": {
+          "cover": "",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/mobility/segment-mobility-medium.jpg",
+          "square": "",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        }
+      },
+      {
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Helse",
+        "displayName": "Helse",
+        "idName": "health",
+        "summary": "Helse",
+        "image": {
+          "cover": "",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/health/segment-health-medium.jpg",
+          "square": "",
+          "icon": ""
+        }
+      },
+      {
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Løsninger og virksomheter innen håndtering av avfall",
+        "displayName": "Avfall",
+        "idName": "waste",
+        "summary": "Avfallshåndtering",
+        "image": {
+          "cover": "",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/waste/segment-waste-medium.jpg",
+          "square": "",
+          "icon": ""
+        }
+      },
+      {
+        "summary": "Telekommunikasjon og programvare",
+        "image": {
+          "cover": "",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/telecom-and-software/segment-telecom-and-software-medium.jpg",
+          "square": "",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Telekommunikasjon og programvare",
+        "displayName": "Telekommunikasjon og programvare",
+        "idName": "telecom-and-software"
+      },
+      {
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Mat og landbruk",
+        "displayName": "Mat og landbruk",
+        "idName": "food-and-agriculture",
+        "summary": "Mat og landbruk",
+        "image": {
+          "cover": "",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/food-and-agriculture/segment-food-and-agriculture-medium.jpg",
+          "square": "",
+          "icon": ""
+        }
+      },
+      {
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Turisme",
+        "displayName": "Turisme",
+        "idName": "tourism",
+        "summary": "Turisme",
+        "image": {
+          "cover": "",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/tourism/segment-tourism-medium.jpg",
+          "square": "",
+          "icon": ""
+        }
+      },
+      {
+        "sortOrder": 1,
+        "description": "Bygg og anlegg",
+        "displayName": "Bygg og anlegg",
+        "idName": "building-and-construction",
+        "summary": "Bygg og anlegg",
+        "image": {
+          "cover": "",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/building-and-construction/segment-building-and-construction-medium.jpg",
+          "square": "",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        }
+      },
+      {
+        "summary": "Sikkerhet",
+        "image": {
+          "cover": "",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/security/segment-security-medium.jpg",
+          "square": "",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Sikkerhet",
+        "displayName": "Sikkerhet",
+        "idName": "security"
+      },
+      {
+        "displayName": "Utdanning",
+        "idName": "education",
+        "summary": "Utdanning",
+        "image": {
+          "cover": "",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/education/segment-education-medium.jpg",
+          "square": "",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Utdanning"
+      },
+      {
+        "summary": "Bio og naturressurser",
+        "image": {
+          "cover": "",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/bio-and-natural-resources/segment-bio-and-natural-resources-medium.jpg",
+          "square": "",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Bio og naturressurser",
+        "displayName": "Bio og naturressurser",
+        "idName": "bio-and-natural-resources"
+      },
+      {
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Bank og finans",
+        "displayName": "Bank og finans",
+        "idName": "finance",
+        "summary": "Bank og finans",
+        "image": {
+          "cover": "",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/finance/segment-finance-medium.jpg",
+          "square": "",
+          "icon": ""
+        }
+      },
+      {
+        "image": {
+          "cover": "",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/ocean-industries/segment-ocean-industries-medium.jpg",
+          "square": "",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Maritim industri",
+        "displayName": "Maritim industri",
+        "idName": "ocean-industries",
+        "summary": "Maritim industri"
+      },
+      {
+        "idName": "trade",
+        "summary": "Handel",
+        "image": {
+          "cover": "",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/trade/segment-trade-medium.jpg",
+          "square": "",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Handel",
+        "displayName": "Handel"
+      },
+      {
+        "summary": "Hospitality",
+        "image": {
+          "cover": "",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/hospitality/segment-hospitality-medium.jpg",
+          "square": "",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Hospitality",
+        "displayName": "Hospitality",
+        "idName": "hospitality"
+      },
+      {
+        "displayName": "sport og rekreasjon",
+        "idName": "sport-and-recreation",
+        "summary": "sport og rekreasjon",
+        "image": {
+          "cover": "",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/sport-and-recreation/segment-sport-and-recreation-medium.jpg",
+          "square": "",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "sport og rekreasjon"
+      },
+      {
+        "image": {
+          "cover": "",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/consulting/segment-consulting-medium.jpg",
+          "square": "",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Consulting",
+        "displayName": "Consulting",
+        "idName": "consulting",
+        "summary": "Consulting"
+      }
+    ],
+    "displayName": "Virksomhetsområde",
+    "idName": "industry",
+    "summary": "De forskjellige virksomhetsområdene"
+  },
+  {
+    "color": {
+      "background": "#4B5731",
+      "text": "#ffffff"
+    },
+    "categoryType": "single",
+    "description": "Sektor",
+    "categoryItems": [
+      {
+        "displayName": "Næringsliv",
+        "idName": "private",
+        "summary": "Næringsliv",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/private/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/private/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/private/square.png",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Næringsliv"
+      },
+      {
+        "displayName": "Kommunal",
+        "idName": "municipality",
+        "summary": "Kommunal og fylkeskommunal sektor",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/municipality/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/municipality/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/municipality/square.png",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Kommunal og fylkeskommunal sektor"
+      },
+      {
+        "sortOrder": 1,
+        "description": "Statlig sektor",
+        "displayName": "Stat",
+        "idName": "government",
+        "summary": "Statlig sektor",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/government/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/government/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/government/square.png",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        }
+      },
+      {
+        "displayName": "Medlemsorganisasjoner",
+        "idName": "association",
+        "summary": "Medlemsorganisasjoner",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/association/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/association/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/association/square.png",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Medlemsorganisasjoner"
+      },
+      {
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Frivillige organisasjoner",
+        "displayName": "Frivillige organisasjoner",
+        "idName": "civil-society-ngo",
+        "summary": "Frivillige organisasjoner",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/civil-society-ngo/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/civil-society-ngo/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/civil-society-ngo/square.png",
+          "icon": ""
+        }
+      },
+      {
+        "displayName": "Akademia",
+        "idName": "academia",
+        "summary": "Akademia",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/academia/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/academia/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/academia/square.png",
+          "icon": ""
+        },
+        "color": {
+          "background": "#4B5731",
+          "text": "#ffffff"
+        },
+        "sortOrder": 1,
+        "description": "Akademia"
+      },
+      {
+        "displayName": "Forskning",
+        "idName": "research",
+        "summary": "Forskning",
+        "image": {
+          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/research/cover.png",
+          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/research/profile.png",
+          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/research/square.png",
+          "icon": ""
+        },
+        "color": {
+          "text": "#ffffff",
+          "background": "#4B5731"
+        },
+        "sortOrder": 1,
+        "description": "Forskning"
+      }
+    ],
+    "displayName": "Sektor",
+    "idName": "sector",
+    "summary": "Innenfor hvilken sektor",
+    "image": {
+      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/cover.png",
+      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/profile.png",
+      "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/square.png",
+      "icon": ""
+    }
+  }
+]
