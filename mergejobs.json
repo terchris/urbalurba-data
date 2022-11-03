@@ -12,6 +12,30 @@
     "jobServicename": null
   },
   {
+    "jobName": "mergejobs_strapi2github",
+    "jobStatus": "Finished",
+    "statusTime": "2022-11-02T17:41:04.007Z",
+    "blockJobType": null,
+    "step": 10020,
+    "summary": null,
+    "jobStartURL": "/config/mergejobs_strapi2github",
+    "cronActive": null,
+    "cronExpression": null,
+    "jobServicename": "strapi.plugin('urbalurba').service('urbalurbaMergeService').mergejobs_strapi2github(strapi);"
+  },
+  {
+    "jobName": "categories_strapi2firestore",
+    "jobStatus": "Finished",
+    "statusTime": "2022-11-03T11:17:11.283Z",
+    "blockJobType": null,
+    "step": 10012,
+    "summary": null,
+    "jobStartURL": "/merge/categories_strapi2firestore",
+    "cronActive": null,
+    "cronExpression": null,
+    "jobServicename": null
+  },
+  {
     "jobName": "categories_strapi2github",
     "jobStatus": "Finished",
     "statusTime": "2022-11-02T15:21:18.187Z",
@@ -31,6 +55,18 @@
     "step": 10010,
     "summary": null,
     "jobStartURL": null,
+    "cronActive": null,
+    "cronExpression": null,
+    "jobServicename": null
+  },
+  {
+    "jobName": "entitytypes_strapi2firestore",
+    "jobStatus": "Finished",
+    "statusTime": "2022-11-03T12:07:14.825Z",
+    "blockJobType": null,
+    "step": 10002,
+    "summary": "Entitytypes pushed to firestore",
+    "jobStartURL": "/merge/entitytypes_strapi2firestore",
     "cronActive": null,
     "cronExpression": null,
     "jobServicename": null
@@ -304,18 +340,6 @@
     "jobStatus": "nojob",
     "statusTime": "2022-10-26T04:11:26.726Z",
     "blockJobType": "",
-    "step": null,
-    "summary": null,
-    "jobStartURL": null,
-    "cronActive": null,
-    "cronExpression": null,
-    "jobServicename": null
-  },
-  {
-    "jobName": "mergejobs_strapi2github",
-    "jobStatus": "Finished",
-    "statusTime": "2022-11-02T17:34:49.665Z",
-    "blockJobType": null,
     "step": null,
     "summary": null,
     "jobStartURL": null,
