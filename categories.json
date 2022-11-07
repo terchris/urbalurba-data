@@ -4,9 +4,10 @@
     "idName": "default",
     "summary": "default",
     "image": {
-      "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
-      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
-      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+      "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+      "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+      "cover": "http://images.urbalurba.com/img/system/default/category/cover.png",
+      "square": "http://images.urbalurba.com/img/system/default/category/square.png"
     },
     "color": {
       "text": "#ffffff",
@@ -21,9 +22,10 @@
     "idName": "tech-web",
     "summary": "tech-web",
     "image": {
-      "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
-      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
-      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+      "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+      "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+      "cover": "http://images.urbalurba.com/img/system/default/category/cover.png",
+      "square": "http://images.urbalurba.com/img/system/default/category/square.png"
     },
     "color": {
       "text": "#ffffff",
@@ -35,9 +37,10 @@
       {
         "summary": "wordpress",
         "image": {
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png"
         },
         "color": {
           "background": "#4B5731",
@@ -51,9 +54,10 @@
       {
         "summary": "google_analytics",
         "image": {
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png"
         },
         "color": {
           "background": "#4B5731",
@@ -67,9 +71,10 @@
       {
         "summary": "woo_commerce",
         "image": {
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png"
         },
         "color": {
           "background": "#4B5731",
@@ -87,9 +92,10 @@
     "idName": "us-industry",
     "summary": "us-industry",
     "image": {
-      "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
-      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
-      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+      "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+      "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+      "cover": "http://images.urbalurba.com/img/system/default/category/cover.png",
+      "square": "http://images.urbalurba.com/img/system/default/category/square.png"
     },
     "color": {
       "text": "#ffffff",
@@ -101,9 +107,10 @@
       {
         "summary": "telecommunications",
         "image": {
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png"
         },
         "color": {
           "background": "#4B5731",
@@ -121,9 +128,10 @@
     "idName": "institusjonellSektorkode",
     "summary": "institusjonellSektorkode",
     "image": {
-      "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
-      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
-      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+      "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+      "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+      "cover": "http://images.urbalurba.com/img/system/default/category/cover.png",
+      "square": "http://images.urbalurba.com/img/system/default/category/square.png"
     },
     "color": {
       "text": "#ffffff",
@@ -135,9 +143,10 @@
       {
         "summary": "Private aksjeselskaper mv.",
         "image": {
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png"
         },
         "color": {
           "background": "#4B5731",
@@ -155,9 +164,10 @@
     "idName": "naeringskode",
     "summary": "Næringskode",
     "image": {
-      "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
-      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
-      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+      "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+      "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+      "cover": "http://images.urbalurba.com/img/system/default/category/cover.png",
+      "square": "http://images.urbalurba.com/img/system/default/category/square.png"
     },
     "color": {
       "text": "#ffffff",
@@ -169,9 +179,10 @@
       {
         "summary": "Engroshandel med elektronikkutstyr og telekommunikasjonsutstyr samt deler",
         "image": {
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png"
         },
         "color": {
           "background": "#4B5731",
@@ -189,9 +200,10 @@
     "idName": "organisasjonsform",
     "summary": "organisasjonsform",
     "image": {
-      "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
-      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
-      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+      "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+      "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+      "cover": "http://images.urbalurba.com/img/system/default/category/cover.png",
+      "square": "http://images.urbalurba.com/img/system/default/category/square.png"
     },
     "color": {
       "text": "#ffffff",
@@ -203,9 +215,10 @@
       {
         "summary": "Aksjeselskap",
         "image": {
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png"
         },
         "color": {
           "background": "#4B5731",
@@ -223,9 +236,10 @@
     "idName": "partnership",
     "summary": "Våre samarbeidspartnere",
     "image": {
-      "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
-      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
-      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+      "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+      "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+      "cover": "http://images.urbalurba.com/img/system/default/category/cover.png",
+      "square": "http://images.urbalurba.com/img/system/default/category/square.png"
     },
     "color": {
       "text": "#ffffff",
@@ -237,9 +251,10 @@
       {
         "summary": "Hovedpartnere støtter ZEROs arbeid med summer mellom 450.000 og 550.000 i året.",
         "image": {
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png"
         },
         "color": {
           "background": "#4B5731",
@@ -253,9 +268,10 @@
       {
         "summary": "Strategiske partnere støtter ZEROs arbeid med summer mellom 250.000 og 350.000 i året.",
         "image": {
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png"
         },
         "color": {
           "background": "#4B5731",
@@ -269,9 +285,10 @@
       {
         "summary": "Fagpartnere støtter ZEROs arbeid med summer mellom 200.000 og 250.000 i året.",
         "image": {
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png",
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png"
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png",
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png"
         },
         "color": {
           "text": "#ffffff",
@@ -285,9 +302,10 @@
       {
         "summary": "Støttespillere støtter ZEROs arbeid med mellom 100.000 og 200.000 i året.",
         "image": {
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png",
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png"
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png",
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png"
         },
         "color": {
           "text": "#ffffff",
@@ -301,9 +319,10 @@
       {
         "summary": "Annonsepartnere støtter ZEROs arbeid med 30.000 eller mindre i året.",
         "image": {
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png",
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png"
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png",
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png"
         },
         "color": {
           "text": "#ffffff",
@@ -317,9 +336,10 @@
       {
         "summary": "Følger vårt arbeid .. ",
         "image": {
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png",
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png"
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png",
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png"
         },
         "color": {
           "text": "#ffffff",
@@ -627,9 +647,10 @@
     "idName": "bream",
     "summary": "Miljøsertifisering for alle typer bygg.",
     "image": {
-      "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
-      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
-      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+      "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+      "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+      "cover": "http://images.urbalurba.com/img/system/default/category/cover.png",
+      "square": "http://images.urbalurba.com/img/system/default/category/square.png"
     },
     "color": {
       "text": "#ffffff",
@@ -641,9 +662,10 @@
       {
         "summary": "Ledelse og administrasjon",
         "image": {
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png"
         },
         "color": {
           "background": "#4B5731",
@@ -657,9 +679,10 @@
       {
         "summary": "Helse og innemiljø",
         "image": {
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png"
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png"
         },
         "color": {
           "background": "#4B5731",
@@ -673,9 +696,10 @@
       {
         "summary": "Energibruk",
         "image": {
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/medium.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/large.png",
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/default/small.png"
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png",
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png"
         },
         "color": {
           "text": "#ffffff",
@@ -703,18 +727,18 @@
         "idName": "expected",
         "summary": "Forventet",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/result/expected/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/result/expected/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/result/expected/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/result/expected/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/result/expected/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/result/expected/square.png",
           "icon": ""
         }
       },
       {
         "summary": "Målt",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/result/measured/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/result/measured/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/result/measured/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/result/measured/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/result/measured/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/result/measured/square.png",
           "icon": ""
         },
         "color": {
@@ -731,9 +755,9 @@
     "idName": "result",
     "summary": "Forventet og målt verdi av prosjektet",
     "image": {
-      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/result/cover.png",
-      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/result/profile.png",
-      "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/result/square.png",
+      "cover": "http://images.urbalurba.com/img/categories/result/cover.png",
+      "profile": "http://images.urbalurba.com/img/categories/result/profile.png",
+      "square": "http://images.urbalurba.com/img/categories/result/square.png",
       "icon": ""
     },
     "color": {
@@ -753,9 +777,9 @@
         "idName": "enhanced-data-collection",
         "summary": "Innsamling av data",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/enhanced-data-collection/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/enhanced-data-collection/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/enhanced-data-collection/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/enhanced-data-collection/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/enhanced-data-collection/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/enhanced-data-collection/square.png",
           "icon": ""
         },
         "color": {
@@ -777,9 +801,9 @@
         "idName": "faster-data-transfer",
         "summary": "Faster data transfer",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/faster-data-transfer/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/faster-data-transfer/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/faster-data-transfer/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/faster-data-transfer/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/faster-data-transfer/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/faster-data-transfer/square.png",
           "icon": ""
         }
       },
@@ -794,9 +818,9 @@
         "idName": "improved-data-accessibility",
         "summary": "Forbedre tilgang på data",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improved-data-accessibility/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improved-data-accessibility/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improved-data-accessibility/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/improved-data-accessibility/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/improved-data-accessibility/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/improved-data-accessibility/square.png",
           "icon": ""
         }
       },
@@ -811,9 +835,9 @@
         "idName": "increased-data-transparency",
         "summary": "Fokus på å gi innsyn i egne data",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/increased-data-transparency/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/increased-data-transparency/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/increased-data-transparency/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/increased-data-transparency/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/increased-data-transparency/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/increased-data-transparency/square.png",
           "icon": ""
         }
       },
@@ -824,9 +848,9 @@
         "idName": "enhanced-data-security",
         "summary": "Enhanced data security",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/enhanced-data-security/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/enhanced-data-security/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/enhanced-data-security/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/enhanced-data-security/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/enhanced-data-security/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/enhanced-data-security/square.png",
           "icon": ""
         },
         "color": {
@@ -839,9 +863,9 @@
         "idName": "improving-travel-safety",
         "summary": "Improving travel safety",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-travel-safety/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-travel-safety/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-travel-safety/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/improving-travel-safety/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/improving-travel-safety/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/improving-travel-safety/square.png",
           "icon": ""
         },
         "color": {
@@ -862,9 +886,9 @@
         "idName": "improving-traffic-management",
         "summary": "Improving traffic management",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-traffic-management/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-traffic-management/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-traffic-management/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/improving-traffic-management/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/improving-traffic-management/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/improving-traffic-management/square.png",
           "icon": ""
         }
       },
@@ -875,9 +899,9 @@
         "idName": "improving-parking",
         "summary": "Løsninger for bedre håndtering av parkering",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-parking/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-parking/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-parking/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/improving-parking/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/improving-parking/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/improving-parking/square.png",
           "icon": ""
         },
         "color": {
@@ -887,9 +911,9 @@
       },
       {
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-need-for-travel/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-need-for-travel/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-need-for-travel/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/reducing-need-for-travel/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/reducing-need-for-travel/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/reducing-need-for-travel/square.png",
           "icon": ""
         },
         "color": {
@@ -904,9 +928,9 @@
       },
       {
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-sustainable-private-transport-models/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-sustainable-private-transport-models/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-sustainable-private-transport-models/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/promoting-sustainable-private-transport-models/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/promoting-sustainable-private-transport-models/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/promoting-sustainable-private-transport-models/square.png",
           "icon": ""
         },
         "color": {
@@ -921,9 +945,9 @@
       },
       {
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-use-of-fossils-in-public-transport/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-use-of-fossils-in-public-transport/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-use-of-fossils-in-public-transport/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/reducing-use-of-fossils-in-public-transport/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/reducing-use-of-fossils-in-public-transport/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/reducing-use-of-fossils-in-public-transport/square.png",
           "icon": ""
         },
         "color": {
@@ -938,9 +962,9 @@
       },
       {
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-public-transport-accessibility/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-public-transport-accessibility/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-public-transport-accessibility/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/improving-public-transport-accessibility/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/improving-public-transport-accessibility/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/improving-public-transport-accessibility/square.png",
           "icon": ""
         },
         "color": {
@@ -957,9 +981,9 @@
         "idName": "improving-education",
         "summary": "Improving education",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-education/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-education/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-education/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/improving-education/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/improving-education/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/improving-education/square.png",
           "icon": ""
         },
         "color": {
@@ -977,9 +1001,9 @@
         "idName": "promoting-active-living",
         "summary": "Promoting active living",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-active-living/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-active-living/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-active-living/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/promoting-active-living/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/promoting-active-living/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/promoting-active-living/square.png",
           "icon": ""
         },
         "color": {
@@ -992,9 +1016,9 @@
         "idName": "increasing-energy-efficiency-of-appliances",
         "summary": "Increasing energy efficiency of appliances",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/increasing-energy-efficiency-of-appliances/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/increasing-energy-efficiency-of-appliances/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/increasing-energy-efficiency-of-appliances/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/increasing-energy-efficiency-of-appliances/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/increasing-energy-efficiency-of-appliances/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/increasing-energy-efficiency-of-appliances/square.png",
           "icon": ""
         },
         "color": {
@@ -1011,9 +1035,9 @@
         "idName": "promoting-sustainable-disposal-of-waste",
         "summary": "Promoting sustainable disposal of waste",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-sustainable-disposal-of-waste/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-sustainable-disposal-of-waste/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-sustainable-disposal-of-waste/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/promoting-sustainable-disposal-of-waste/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/promoting-sustainable-disposal-of-waste/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/promoting-sustainable-disposal-of-waste/square.png",
           "icon": ""
         },
         "color": {
@@ -1032,9 +1056,9 @@
         "idName": "recycling-waste",
         "summary": "Resirkulering",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/recycling-waste/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/recycling-waste/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/recycling-waste/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/recycling-waste/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/recycling-waste/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/recycling-waste/square.png",
           "icon": ""
         }
       },
@@ -1045,9 +1069,9 @@
         "idName": "promoting-sustainbable-use-of-land",
         "summary": "Promoting sustainbable use of land",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-sustainbable-use-of-land/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-sustainbable-use-of-land/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-sustainbable-use-of-land/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/promoting-sustainbable-use-of-land/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/promoting-sustainbable-use-of-land/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/promoting-sustainbable-use-of-land/square.png",
           "icon": ""
         },
         "color": {
@@ -1057,9 +1081,9 @@
       },
       {
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-soil-pollution/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-soil-pollution/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-soil-pollution/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/reducing-soil-pollution/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/reducing-soil-pollution/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/reducing-soil-pollution/square.png",
           "icon": ""
         },
         "color": {
@@ -1083,9 +1107,9 @@
         "idName": "reducing-local-air-pollution",
         "summary": "Redusere luftforurensning",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-local-air-pollution/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-local-air-pollution/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-local-air-pollution/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/reducing-local-air-pollution/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/reducing-local-air-pollution/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/reducing-local-air-pollution/square.png",
           "icon": ""
         }
       },
@@ -1093,9 +1117,9 @@
         "idName": "reducing-investment-costs",
         "summary": "Redusere investeringskostnader",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-investment-costs/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-investment-costs/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-investment-costs/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/reducing-investment-costs/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/reducing-investment-costs/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/reducing-investment-costs/square.png",
           "icon": ""
         },
         "color": {
@@ -1108,9 +1132,9 @@
       },
       {
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-social-integration/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-social-integration/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-social-integration/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/improving-social-integration/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/improving-social-integration/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/improving-social-integration/square.png",
           "icon": ""
         },
         "color": {
@@ -1125,9 +1149,9 @@
       },
       {
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-life-quality/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-life-quality/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-life-quality/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/improving-life-quality/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/improving-life-quality/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/improving-life-quality/square.png",
           "icon": ""
         },
         "color": {
@@ -1145,9 +1169,9 @@
         "idName": "increasing-safety",
         "summary": "Increasing Safety",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/increasing-safety/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/increasing-safety/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/increasing-safety/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/increasing-safety/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/increasing-safety/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/increasing-safety/square.png",
           "icon": ""
         },
         "color": {
@@ -1168,9 +1192,9 @@
         "idName": "improving-health-care",
         "summary": "Improving Health Care",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-health-care/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-health-care/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-health-care/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/improving-health-care/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/improving-health-care/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/improving-health-care/square.png",
           "icon": ""
         }
       },
@@ -1181,9 +1205,9 @@
         "idName": "improving-elderly-care",
         "summary": "Improving Elderly Care",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-elderly-care/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-elderly-care/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-elderly-care/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/improving-elderly-care/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/improving-elderly-care/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/improving-elderly-care/square.png",
           "icon": ""
         },
         "color": {
@@ -1202,9 +1226,9 @@
         "idName": "promoting-sustainable-behavior",
         "summary": "Promoting sustainable behavior",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-sustainable-behavior/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-sustainable-behavior/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/promoting-sustainable-behavior/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/promoting-sustainable-behavior/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/promoting-sustainable-behavior/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/promoting-sustainable-behavior/square.png",
           "icon": ""
         }
       },
@@ -1219,9 +1243,9 @@
         "idName": "facilitating-citizen-engagement",
         "summary": "Facilitating Citizen Engagement",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/facilitating-citizen-engagement/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/facilitating-citizen-engagement/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/facilitating-citizen-engagement/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/facilitating-citizen-engagement/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/facilitating-citizen-engagement/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/facilitating-citizen-engagement/square.png",
           "icon": ""
         }
       },
@@ -1230,9 +1254,9 @@
         "idName": "limiting-urban-sprawl",
         "summary": "Limiting Urban Sprawl",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/limiting-urban-sprawl/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/limiting-urban-sprawl/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/limiting-urban-sprawl/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/limiting-urban-sprawl/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/limiting-urban-sprawl/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/limiting-urban-sprawl/square.png",
           "icon": ""
         },
         "color": {
@@ -1253,17 +1277,17 @@
         "idName": "reducing-ghg-emissions",
         "summary": "Reducing GHG Emissions",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-ghg-emissions/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-ghg-emissions/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-ghg-emissions/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/reducing-ghg-emissions/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/reducing-ghg-emissions/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/reducing-ghg-emissions/square.png",
           "icon": ""
         }
       },
       {
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/increasing-share-of-renewables/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/increasing-share-of-renewables/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/increasing-share-of-renewables/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/increasing-share-of-renewables/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/increasing-share-of-renewables/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/increasing-share-of-renewables/square.png",
           "icon": ""
         },
         "color": {
@@ -1281,9 +1305,9 @@
         "idName": "decreasing-energy-consumption-in-buildings",
         "summary": "Decreasing energy consumption in buildings",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/decreasing-energy-consumption-in-buildings/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/decreasing-energy-consumption-in-buildings/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/decreasing-energy-consumption-in-buildings/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/decreasing-energy-consumption-in-buildings/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/decreasing-energy-consumption-in-buildings/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/decreasing-energy-consumption-in-buildings/square.png",
           "icon": ""
         },
         "color": {
@@ -1297,9 +1321,9 @@
         "idName": "reducing-waste-generation",
         "summary": "Reducing waste generation",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-waste-generation/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-waste-generation/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-waste-generation/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/reducing-waste-generation/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/reducing-waste-generation/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/reducing-waste-generation/square.png",
           "icon": ""
         },
         "color": {
@@ -1314,9 +1338,9 @@
         "idName": "reducing-water-pollution",
         "summary": "Reducing water pollution",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-water-pollution/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-water-pollution/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-water-pollution/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/reducing-water-pollution/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/reducing-water-pollution/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/reducing-water-pollution/square.png",
           "icon": ""
         },
         "color": {
@@ -1329,9 +1353,9 @@
       },
       {
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-energy-usage-efficiency/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-energy-usage-efficiency/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-energy-usage-efficiency/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/improving-energy-usage-efficiency/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/improving-energy-usage-efficiency/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/improving-energy-usage-efficiency/square.png",
           "icon": ""
         },
         "color": {
@@ -1348,9 +1372,9 @@
         "idName": "improving-energy-supply-efficiency",
         "summary": "Improving Energy Supply Efficiency",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-energy-supply-efficiency/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-energy-supply-efficiency/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-energy-supply-efficiency/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/improving-energy-supply-efficiency/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/improving-energy-supply-efficiency/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/improving-energy-supply-efficiency/square.png",
           "icon": ""
         },
         "color": {
@@ -1365,9 +1389,9 @@
         "idName": "shaving-peak-energy-demand",
         "summary": "Shaving peak Energy Demand",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/shaving-peak-energy-demand/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/shaving-peak-energy-demand/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/shaving-peak-energy-demand/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/shaving-peak-energy-demand/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/shaving-peak-energy-demand/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/shaving-peak-energy-demand/square.png",
           "icon": ""
         },
         "color": {
@@ -1381,9 +1405,9 @@
       {
         "summary": "Reducing energy bills",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-energy-bills/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-energy-bills/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-energy-bills/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/reducing-energy-bills/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/reducing-energy-bills/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/reducing-energy-bills/square.png",
           "icon": ""
         },
         "color": {
@@ -1400,9 +1424,9 @@
         "idName": "enhances-grid-stability",
         "summary": "Enhances Grid Stability",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/enhances-grid-stability/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/enhances-grid-stability/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/enhances-grid-stability/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/enhances-grid-stability/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/enhances-grid-stability/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/enhances-grid-stability/square.png",
           "icon": ""
         },
         "color": {
@@ -1417,9 +1441,9 @@
         "idName": "reducing-use-of-fossils",
         "summary": "Reducing use of fossils",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-use-of-fossils/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-use-of-fossils/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-use-of-fossils/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/reducing-use-of-fossils/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/reducing-use-of-fossils/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/reducing-use-of-fossils/square.png",
           "icon": ""
         },
         "color": {
@@ -1432,9 +1456,9 @@
       {
         "summary": "Reducing Operation Costs",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-operation-costs/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-operation-costs/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/reducing-operation-costs/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/reducing-operation-costs/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/reducing-operation-costs/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/reducing-operation-costs/square.png",
           "icon": ""
         },
         "color": {
@@ -1451,9 +1475,9 @@
         "idName": "improving-personnel-efficiency",
         "summary": "Improving personnel efficiency",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-personnel-efficiency/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-personnel-efficiency/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/improving-personnel-efficiency/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/improving-personnel-efficiency/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/improving-personnel-efficiency/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/improving-personnel-efficiency/square.png",
           "icon": ""
         },
         "color": {
@@ -1467,9 +1491,9 @@
         "idName": "encouraging-digital-entrepreneurship",
         "summary": "Encouraging digital entrepreneurship",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/encouraging-digital-entrepreneurship/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/encouraging-digital-entrepreneurship/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/encouraging-digital-entrepreneurship/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/encouraging-digital-entrepreneurship/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/encouraging-digital-entrepreneurship/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/encouraging-digital-entrepreneurship/square.png",
           "icon": ""
         },
         "color": {
@@ -1485,9 +1509,9 @@
         "idName": "creating-new-jobs",
         "summary": "Creating new jobs",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/creating-new-jobs/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/creating-new-jobs/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/creating-new-jobs/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/creating-new-jobs/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/creating-new-jobs/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/creating-new-jobs/square.png",
           "icon": ""
         },
         "color": {
@@ -1508,9 +1532,9 @@
         "idName": "enabling-new-business-opportunities",
         "summary": "Enabling new business opportunities",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/enabling-new-business-opportunities/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/enabling-new-business-opportunities/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/enabling-new-business-opportunities/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/challenge/enabling-new-business-opportunities/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/challenge/enabling-new-business-opportunities/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/challenge/enabling-new-business-opportunities/square.png",
           "icon": ""
         }
       }
@@ -1519,9 +1543,9 @@
     "idName": "challenge",
     "summary": "De forskjellige utfordringene det er kategorisert i",
     "image": {
-      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/cover.png",
-      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/profile.png",
-      "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/challenge/square.png",
+      "cover": "http://images.urbalurba.com/img/categories/challenge/cover.png",
+      "profile": "http://images.urbalurba.com/img/categories/challenge/profile.png",
+      "square": "http://images.urbalurba.com/img/categories/challenge/square.png",
       "icon": ""
     }
   },
@@ -1532,9 +1556,9 @@
         "idName": "economic",
         "summary": "Innvirkning på økonomisk bærekraft",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/impact/economic/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/impact/economic/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/impact/economic/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/impact/economic/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/impact/economic/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/impact/economic/square.png",
           "icon": ""
         },
         "color": {
@@ -1548,9 +1572,9 @@
         "idName": "social",
         "summary": "Innvirkning på sosial bærekraft",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/impact/social/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/impact/social/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/impact/social/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/impact/social/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/impact/social/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/impact/social/square.png",
           "icon": ""
         },
         "color": {
@@ -1568,9 +1592,9 @@
         "idName": "environment",
         "summary": "Innvirkning på miljømessig bærekraft",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/impact/environment/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/impact/environment/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/impact/environment/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/impact/environment/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/impact/environment/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/impact/environment/square.png",
           "icon": ""
         },
         "color": {
@@ -1583,9 +1607,9 @@
     "idName": "impact",
     "summary": "Hvilken innvikning på bærekraftsinnvirkning prosektet har",
     "image": {
-      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/impact/cover.png",
-      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/impact/profile.png",
-      "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/impact/square.png",
+      "cover": "http://images.urbalurba.com/img/categories/impact/cover.png",
+      "profile": "http://images.urbalurba.com/img/categories/impact/profile.png",
+      "square": "http://images.urbalurba.com/img/categories/impact/square.png",
       "icon": ""
     },
     "color": {
@@ -1607,17 +1631,17 @@
     "idName": "tag",
     "summary": "Emneknagger / tags, fagområder, arbeidsoppgaver",
     "image": {
-      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/tag/cover.png",
-      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/tag/profile.png",
-      "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/tag/square.png",
+      "cover": "http://images.urbalurba.com/img/categories/tag/cover.png",
+      "profile": "http://images.urbalurba.com/img/categories/tag/profile.png",
+      "square": "http://images.urbalurba.com/img/categories/tag/square.png",
       "icon": ""
     }
   },
   {
     "image": {
-      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/cover.png",
-      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/profile.png",
-      "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/square.png",
+      "cover": "http://images.urbalurba.com/img/categories/industry/cover.png",
+      "profile": "http://images.urbalurba.com/img/categories/industry/profile.png",
+      "square": "http://images.urbalurba.com/img/categories/industry/square.png",
       "icon": ""
     },
     "color": {
@@ -1632,9 +1656,9 @@
         "idName": "energy",
         "summary": "Energi",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/energy/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/energy/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/energy/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/industry/energy/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/industry/energy/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/industry/energy/square.png",
           "icon": ""
         },
         "color": {
@@ -1647,7 +1671,7 @@
       {
         "image": {
           "cover": "",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/water/segment-water-medium.jpg",
+          "profile": "http://images.urbalurba.com/img/categories/industry/water/segment-water-medium.jpg",
           "square": "",
           "icon": ""
         },
@@ -1666,7 +1690,7 @@
         "summary": "Luft og luftkvalitet",
         "image": {
           "cover": "",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/air/segment-air-medium.jpg",
+          "profile": "http://images.urbalurba.com/img/categories/industry/air/segment-air-medium.jpg",
           "square": "",
           "icon": ""
         },
@@ -1686,7 +1710,7 @@
         "summary": "Mobilitetsløsninger",
         "image": {
           "cover": "",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/mobility/segment-mobility-medium.jpg",
+          "profile": "http://images.urbalurba.com/img/categories/industry/mobility/segment-mobility-medium.jpg",
           "square": "",
           "icon": ""
         },
@@ -1707,7 +1731,7 @@
         "summary": "Helse",
         "image": {
           "cover": "",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/health/segment-health-medium.jpg",
+          "profile": "http://images.urbalurba.com/img/categories/industry/health/segment-health-medium.jpg",
           "square": "",
           "icon": ""
         }
@@ -1724,7 +1748,7 @@
         "summary": "Avfallshåndtering",
         "image": {
           "cover": "",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/waste/segment-waste-medium.jpg",
+          "profile": "http://images.urbalurba.com/img/categories/industry/waste/segment-waste-medium.jpg",
           "square": "",
           "icon": ""
         }
@@ -1733,7 +1757,7 @@
         "summary": "Telekommunikasjon og programvare",
         "image": {
           "cover": "",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/telecom-and-software/segment-telecom-and-software-medium.jpg",
+          "profile": "http://images.urbalurba.com/img/categories/industry/telecom-and-software/segment-telecom-and-software-medium.jpg",
           "square": "",
           "icon": ""
         },
@@ -1758,7 +1782,7 @@
         "summary": "Mat og landbruk",
         "image": {
           "cover": "",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/food-and-agriculture/segment-food-and-agriculture-medium.jpg",
+          "profile": "http://images.urbalurba.com/img/categories/industry/food-and-agriculture/segment-food-and-agriculture-medium.jpg",
           "square": "",
           "icon": ""
         }
@@ -1775,7 +1799,7 @@
         "summary": "Turisme",
         "image": {
           "cover": "",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/tourism/segment-tourism-medium.jpg",
+          "profile": "http://images.urbalurba.com/img/categories/industry/tourism/segment-tourism-medium.jpg",
           "square": "",
           "icon": ""
         }
@@ -1788,7 +1812,7 @@
         "summary": "Bygg og anlegg",
         "image": {
           "cover": "",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/building-and-construction/segment-building-and-construction-medium.jpg",
+          "profile": "http://images.urbalurba.com/img/categories/industry/building-and-construction/segment-building-and-construction-medium.jpg",
           "square": "",
           "icon": ""
         },
@@ -1801,7 +1825,7 @@
         "summary": "Sikkerhet",
         "image": {
           "cover": "",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/security/segment-security-medium.jpg",
+          "profile": "http://images.urbalurba.com/img/categories/industry/security/segment-security-medium.jpg",
           "square": "",
           "icon": ""
         },
@@ -1820,7 +1844,7 @@
         "summary": "Utdanning",
         "image": {
           "cover": "",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/education/segment-education-medium.jpg",
+          "profile": "http://images.urbalurba.com/img/categories/industry/education/segment-education-medium.jpg",
           "square": "",
           "icon": ""
         },
@@ -1835,7 +1859,7 @@
         "summary": "Bio og naturressurser",
         "image": {
           "cover": "",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/bio-and-natural-resources/segment-bio-and-natural-resources-medium.jpg",
+          "profile": "http://images.urbalurba.com/img/categories/industry/bio-and-natural-resources/segment-bio-and-natural-resources-medium.jpg",
           "square": "",
           "icon": ""
         },
@@ -1860,7 +1884,7 @@
         "summary": "Bank og finans",
         "image": {
           "cover": "",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/finance/segment-finance-medium.jpg",
+          "profile": "http://images.urbalurba.com/img/categories/industry/finance/segment-finance-medium.jpg",
           "square": "",
           "icon": ""
         }
@@ -1868,7 +1892,7 @@
       {
         "image": {
           "cover": "",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/ocean-industries/segment-ocean-industries-medium.jpg",
+          "profile": "http://images.urbalurba.com/img/categories/industry/ocean-industries/segment-ocean-industries-medium.jpg",
           "square": "",
           "icon": ""
         },
@@ -1887,7 +1911,7 @@
         "summary": "Handel",
         "image": {
           "cover": "",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/trade/segment-trade-medium.jpg",
+          "profile": "http://images.urbalurba.com/img/categories/industry/trade/segment-trade-medium.jpg",
           "square": "",
           "icon": ""
         },
@@ -1903,7 +1927,7 @@
         "summary": "Hospitality",
         "image": {
           "cover": "",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/hospitality/segment-hospitality-medium.jpg",
+          "profile": "http://images.urbalurba.com/img/categories/industry/hospitality/segment-hospitality-medium.jpg",
           "square": "",
           "icon": ""
         },
@@ -1922,7 +1946,7 @@
         "summary": "sport og rekreasjon",
         "image": {
           "cover": "",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/sport-and-recreation/segment-sport-and-recreation-medium.jpg",
+          "profile": "http://images.urbalurba.com/img/categories/industry/sport-and-recreation/segment-sport-and-recreation-medium.jpg",
           "square": "",
           "icon": ""
         },
@@ -1936,7 +1960,7 @@
       {
         "image": {
           "cover": "",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/industry/consulting/segment-consulting-medium.jpg",
+          "profile": "http://images.urbalurba.com/img/categories/industry/consulting/segment-consulting-medium.jpg",
           "square": "",
           "icon": ""
         },
@@ -1968,9 +1992,9 @@
         "idName": "private",
         "summary": "Næringsliv",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/private/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/private/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/private/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/sector/private/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/sector/private/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/sector/private/square.png",
           "icon": ""
         },
         "color": {
@@ -1985,9 +2009,9 @@
         "idName": "municipality",
         "summary": "Kommunal og fylkeskommunal sektor",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/municipality/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/municipality/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/municipality/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/sector/municipality/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/sector/municipality/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/sector/municipality/square.png",
           "icon": ""
         },
         "color": {
@@ -2004,9 +2028,9 @@
         "idName": "government",
         "summary": "Statlig sektor",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/government/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/government/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/government/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/sector/government/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/sector/government/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/sector/government/square.png",
           "icon": ""
         },
         "color": {
@@ -2019,9 +2043,9 @@
         "idName": "association",
         "summary": "Medlemsorganisasjoner",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/association/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/association/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/association/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/sector/association/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/sector/association/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/sector/association/square.png",
           "icon": ""
         },
         "color": {
@@ -2042,9 +2066,9 @@
         "idName": "civil-society-ngo",
         "summary": "Frivillige organisasjoner",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/civil-society-ngo/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/civil-society-ngo/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/civil-society-ngo/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/sector/civil-society-ngo/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/sector/civil-society-ngo/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/sector/civil-society-ngo/square.png",
           "icon": ""
         }
       },
@@ -2053,9 +2077,9 @@
         "idName": "academia",
         "summary": "Akademia",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/academia/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/academia/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/academia/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/sector/academia/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/sector/academia/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/sector/academia/square.png",
           "icon": ""
         },
         "color": {
@@ -2070,9 +2094,9 @@
         "idName": "research",
         "summary": "Forskning",
         "image": {
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/research/cover.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/research/profile.png",
-          "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/research/square.png",
+          "cover": "http://images.urbalurba.com/img/categories/sector/research/cover.png",
+          "profile": "http://images.urbalurba.com/img/categories/sector/research/profile.png",
+          "square": "http://images.urbalurba.com/img/categories/sector/research/square.png",
           "icon": ""
         },
         "color": {
@@ -2087,9 +2111,9 @@
     "idName": "sector",
     "summary": "Innenfor hvilken sektor",
     "image": {
-      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/cover.png",
-      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/profile.png",
-      "square": "https://storage.googleapis.com/bucket.urbalurba.com/images/categories/sector/square.png",
+      "cover": "http://images.urbalurba.com/img/categories/sector/cover.png",
+      "profile": "http://images.urbalurba.com/img/categories/sector/profile.png",
+      "square": "http://images.urbalurba.com/img/categories/sector/square.png",
       "icon": ""
     }
   }
