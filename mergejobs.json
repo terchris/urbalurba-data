@@ -1,8 +1,20 @@
 [
   {
+    "jobName": "merge_all2start",
+    "jobStatus": "Finished",
+    "statusTime": "2022-11-06T14:35:09.886Z",
+    "blockJobType": null,
+    "step": 20010,
+    "summary": "!!!! Move ALL merge to start !!!",
+    "jobStartURL": "/util/merge_all2start",
+    "cronActive": null,
+    "cronExpression": null,
+    "jobServicename": null
+  },
+  {
     "jobName": "fromjob2job",
     "jobStatus": "Finished",
-    "statusTime": "2022-11-01T15:11:41.639Z",
+    "statusTime": "2022-11-06T11:41:15.423Z",
     "blockJobType": null,
     "step": 20000,
     "summary": null,
@@ -14,7 +26,7 @@
   {
     "jobName": "mergejobs_strapi2github",
     "jobStatus": "Finished",
-    "statusTime": "2022-11-02T17:41:04.007Z",
+    "statusTime": "2022-11-03T12:19:45.068Z",
     "blockJobType": null,
     "step": 10020,
     "summary": null,
@@ -62,7 +74,7 @@
   {
     "jobName": "entitytypes_strapi2firestore",
     "jobStatus": "Finished",
-    "statusTime": "2022-11-03T12:07:14.825Z",
+    "statusTime": "2022-11-03T12:21:44.390Z",
     "blockJobType": null,
     "step": 10002,
     "summary": "Entitytypes pushed to firestore",
@@ -74,11 +86,11 @@
   {
     "jobName": "entitytypes_strapi2github",
     "jobStatus": "Finished",
-    "statusTime": "2022-11-02T15:17:12.366Z",
+    "statusTime": "2022-11-07T14:08:42.236Z",
     "blockJobType": null,
     "step": 10001,
-    "summary": null,
-    "jobStartURL": null,
+    "summary": "Backup - Save entitytypes in github",
+    "jobStartURL": "/config/entitytypes_strapi2github",
     "cronActive": null,
     "cronExpression": null,
     "jobServicename": null
@@ -89,8 +101,8 @@
     "statusTime": "2022-10-06T12:39:33.803Z",
     "blockJobType": null,
     "step": 10000,
-    "summary": null,
-    "jobStartURL": null,
+    "summary": "Config - Read entitytypes from github",
+    "jobStartURL": "/config/entitytypes_github2strapi",
     "cronActive": null,
     "cronExpression": null,
     "jobServicename": null
@@ -110,11 +122,11 @@
   {
     "jobName": "merge_organizations2firestore_create",
     "jobStatus": "Finished",
-    "statusTime": "2022-10-27T16:39:30.109Z",
+    "statusTime": "2022-11-06T11:57:37.451Z",
     "blockJobType": null,
     "step": 900,
-    "summary": null,
-    "jobStartURL": null,
+    "summary": "API to firestore creating organizations",
+    "jobStartURL": "/merge/merge_organizations2firestore_create",
     "cronActive": null,
     "cronExpression": null,
     "jobServicename": null
@@ -122,11 +134,23 @@
   {
     "jobName": "merge_organizations2hubspot_update",
     "jobStatus": "Finished",
-    "statusTime": "2022-10-27T16:36:50.658Z",
+    "statusTime": "2022-11-04T15:08:02.540Z",
     "blockJobType": null,
     "step": 820,
-    "summary": null,
-    "jobStartURL": null,
+    "summary": "API for updating organizations in Hubspot",
+    "jobStartURL": "/merge/merge_organizations2hubspot_update",
+    "cronActive": null,
+    "cronExpression": null,
+    "jobServicename": null
+  },
+  {
+    "jobName": "merge_organizations2hubspot_readback",
+    "jobStatus": "Finished",
+    "statusTime": "2022-11-07T12:59:21.866Z",
+    "blockJobType": null,
+    "step": 810,
+    "summary": "API to Hubspot for reading back fields populated by Hubspot",
+    "jobStartURL": "/merge/merge_organizations2hubspot_readback",
     "cronActive": null,
     "cronExpression": null,
     "jobServicename": null
@@ -134,11 +158,11 @@
   {
     "jobName": "merge_organizations2hubspot_create",
     "jobStatus": "Finished",
-    "statusTime": "2022-10-20T11:24:40.284Z",
+    "statusTime": "2022-11-07T12:52:53.316Z",
     "blockJobType": null,
     "step": 800,
-    "summary": null,
-    "jobStartURL": null,
+    "summary": "API for creating organizations in Hubspot",
+    "jobStartURL": "/merge/merge_organizations2hubspot_create",
     "cronActive": null,
     "cronExpression": null,
     "jobServicename": null
@@ -146,11 +170,11 @@
   {
     "jobName": "merge_organizations2insightly_update",
     "jobStatus": "Finished",
-    "statusTime": "2022-10-30T12:57:02.052Z",
+    "statusTime": "2022-11-04T14:47:56.372Z",
     "blockJobType": null,
     "step": 710,
-    "summary": null,
-    "jobStartURL": null,
+    "summary": "API to Insightly for updating organizations",
+    "jobStartURL": "/merge/merge_organizations2insightly_update",
     "cronActive": null,
     "cronExpression": null,
     "jobServicename": null
@@ -158,11 +182,11 @@
   {
     "jobName": "merge_organizations2insightly_create",
     "jobStatus": "Finished",
-    "statusTime": "2022-10-19T11:41:18.291Z",
+    "statusTime": "2022-11-07T11:51:35.944Z",
     "blockJobType": null,
     "step": 700,
-    "summary": null,
-    "jobStartURL": null,
+    "summary": "API to Insightly for creating organizations",
+    "jobStartURL": "/merge/merge_organizations2insightly_create",
     "cronActive": null,
     "cronExpression": null,
     "jobServicename": null
@@ -170,11 +194,11 @@
   {
     "jobName": "googlemaps2merge",
     "jobStatus": "Finished",
-    "statusTime": "2022-10-30T12:57:00.278Z",
+    "statusTime": "2022-11-07T10:04:51.244Z",
     "blockJobType": null,
     "step": 600,
-    "summary": null,
-    "jobStartURL": null,
+    "summary": "API to Google maps for addresses not found in geonorge.no",
+    "jobStartURL": "/merge/googlemaps2merge",
     "cronActive": null,
     "cronExpression": null,
     "jobServicename": null
@@ -182,11 +206,11 @@
   {
     "jobName": "geonorge2merge",
     "jobStatus": "Finished",
-    "statusTime": "2022-10-30T12:57:01.154Z",
+    "statusTime": "2022-11-07T10:10:09.202Z",
     "blockJobType": null,
     "step": 500,
-    "summary": null,
-    "jobStartURL": null,
+    "summary": "API to geonorge for getting gps and address (municipality and postal)",
+    "jobStartURL": "/merge/geonorge2merge",
     "cronActive": null,
     "cronExpression": null,
     "jobServicename": null
@@ -194,11 +218,11 @@
   {
     "jobName": "brreg_webscrape2merge",
     "jobStatus": "Finished",
-    "statusTime": "2022-11-01T14:14:35.449Z",
+    "statusTime": "2022-11-07T10:07:09.140Z",
     "blockJobType": "crawlee",
     "step": 430,
-    "summary": null,
-    "jobStartURL": null,
+    "summary": "Webscrape brreg.no with known organization number",
+    "jobStartURL": "/merge/brreg_webscrape2merge",
     "cronActive": null,
     "cronExpression": null,
     "jobServicename": null
@@ -206,11 +230,11 @@
   {
     "jobName": "brreg_name2merge",
     "jobStatus": "Finished",
-    "statusTime": "2022-10-24T14:07:09.821Z",
+    "statusTime": "2022-11-07T10:02:07.904Z",
     "blockJobType": null,
     "step": 420,
-    "summary": null,
-    "jobStartURL": null,
+    "summary": "API to brreg.no search using organization name",
+    "jobStartURL": "/merge/brreg_name2merge",
     "cronActive": null,
     "cronExpression": null,
     "jobServicename": null
@@ -218,11 +242,11 @@
   {
     "jobName": "brreg_web2merge",
     "jobStatus": "Finished",
-    "statusTime": "2022-10-24T14:26:38.391Z",
+    "statusTime": "2022-11-07T09:56:56.759Z",
     "blockJobType": null,
     "step": 410,
-    "summary": null,
-    "jobStartURL": null,
+    "summary": "API to brreg.no search using webpage and domain name",
+    "jobStartURL": "/merge/brreg_web2merge",
     "cronActive": null,
     "cronExpression": null,
     "jobServicename": null
@@ -230,11 +254,11 @@
   {
     "jobName": "brreg_orgnum2merge",
     "jobStatus": "Finished",
-    "statusTime": "2022-11-01T12:48:42.455Z",
+    "statusTime": "2022-11-04T12:19:10.969Z",
     "blockJobType": null,
     "step": 400,
-    "summary": null,
-    "jobStartURL": null,
+    "summary": "API to brreg.no with known organization number",
+    "jobStartURL": "/merge/brreg_orgnum2merge",
     "cronActive": null,
     "cronExpression": null,
     "jobServicename": null
@@ -242,11 +266,11 @@
   {
     "jobName": "upload_images2merge",
     "jobStatus": "Finished",
-    "statusTime": "2022-11-01T14:53:47.406Z",
+    "statusTime": "2022-11-07T09:49:41.944Z",
     "blockJobType": "",
     "step": 300,
-    "summary": null,
-    "jobStartURL": null,
+    "summary": "Upload images from scraped webpages to google bucket",
+    "jobStartURL": "/merge/upload_images2merge",
     "cronActive": null,
     "cronExpression": null,
     "jobServicename": null
@@ -254,11 +278,11 @@
   {
     "jobName": "webpage_info2merge",
     "jobStatus": "Finished",
-    "statusTime": "2022-11-01T15:43:56.700Z",
+    "statusTime": "2022-11-07T09:44:49.467Z",
     "blockJobType": "crawlee",
     "step": 200,
-    "summary": null,
-    "jobStartURL": null,
+    "summary": "Scrape a webpage to get all kinds of info",
+    "jobStartURL": "/merge/webpage_info2merge",
     "cronActive": null,
     "cronExpression": null,
     "jobServicename": null
@@ -266,11 +290,11 @@
   {
     "jobName": "maestro",
     "jobStatus": "Finished",
-    "statusTime": "2022-11-01T15:46:00.247Z",
+    "statusTime": "2022-11-07T13:00:00.205Z",
     "blockJobType": null,
     "step": 50,
-    "summary": null,
-    "jobStartURL": null,
+    "summary": "Move jobs from one queue to the next",
+    "jobStartURL": "/merge/maestro",
     "cronActive": null,
     "cronExpression": null,
     "jobServicename": null
