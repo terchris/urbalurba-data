@@ -15,7 +15,7 @@
     },
     "categoryType": "multiple",
     "description": "when we dont have a category - we make it default",
-    "categoryItems": []
+    "categoryitems": []
   },
   {
     "displayName": "tech-web",
@@ -33,7 +33,7 @@
     },
     "categoryType": "multiple",
     "description": "tech-web er fra webscraping",
-    "categoryItems": [
+    "categoryitems": [
       {
         "summary": "wordpress",
         "image": {
@@ -103,7 +103,7 @@
     },
     "categoryType": "multiple",
     "description": "us-industry er fra hubspot",
-    "categoryItems": [
+    "categoryitems": [
       {
         "summary": "telecommunications",
         "image": {
@@ -139,7 +139,7 @@
     },
     "categoryType": "single",
     "description": "institusjonellSektorkode er fra brreg.no",
-    "categoryItems": [
+    "categoryitems": [
       {
         "summary": "Private aksjeselskaper mv.",
         "image": {
@@ -175,7 +175,7 @@
     },
     "categoryType": "single",
     "description": "Næringskode er fra brreg.no",
-    "categoryItems": [
+    "categoryitems": [
       {
         "summary": "Engroshandel med elektronikkutstyr og telekommunikasjonsutstyr samt deler",
         "image": {
@@ -211,7 +211,7 @@
     },
     "categoryType": "single",
     "description": "organisasjonsform er fra brreg.no",
-    "categoryItems": [
+    "categoryitems": [
       {
         "summary": "Aksjeselskap",
         "image": {
@@ -247,7 +247,7 @@
     },
     "categoryType": "single",
     "description": "ZERO samarbeider med aktører innen samtlige av våre fagområder. Her finner du en oversikt over partnerne våre, sortert etter størrelsen på samarbeidet.",
-    "categoryItems": [
+    "categoryitems": [
       {
         "summary": "Hovedpartnere støtter ZEROs arbeid med summer mellom 450.000 og 550.000 i året.",
         "image": {
@@ -365,7 +365,7 @@
     },
     "categoryType": "multiple",
     "description": "FNs bærekraftsmål er verdens felles arbeidsplan for å utrydde fattigdom, bekjempe ulikhet og stoppe klimaendringene innen 2030",
-    "categoryItems": [
+    "categoryitems": [
       {
         "summary": "Utrydde alle former for fattigdom i hele verden",
         "image": {
@@ -658,7 +658,7 @@
     },
     "categoryType": "multiple",
     "description": "Miljøsertifisering for alle typer bygg.",
-    "categoryItems": [
+    "categoryitems": [
       {
         "summary": "Ledelse og administrasjon",
         "image": {
@@ -715,7 +715,7 @@
   {
     "categoryType": "input",
     "description": "Resultatet av prosjektet ..",
-    "categoryItems": [
+    "categoryitems": [
       {
         "color": {
           "text": "#ffffff",
@@ -772,7 +772,7 @@
     },
     "description": "Utfordringer det fokuseres på",
     "categoryType": "multiple",
-    "categoryItems": [
+    "categoryitems": [
       {
         "idName": "enhanced-data-collection",
         "summary": "Innsamling av data",
@@ -1550,7 +1550,7 @@
     }
   },
   {
-    "categoryItems": [
+    "categoryitems": [
       {
         "displayName": "Økonomisk",
         "idName": "economic",
@@ -1626,7 +1626,7 @@
     },
     "description": "Emneknagger / tags, fagområder, arbeidsoppgaver",
     "categoryType": "tag",
-    "categoryItems": [],
+    "categoryitems": [],
     "displayName": "Stikkord",
     "idName": "tag",
     "summary": "Emneknagger / tags, fagområder, arbeidsoppgaver",
@@ -1650,7 +1650,7 @@
     },
     "description": "De forskjellige virksomhetsområdene",
     "categoryType": "multiple",
-    "categoryItems": [
+    "categoryitems": [
       {
         "displayName": "Energi",
         "idName": "energy",
@@ -1986,7 +1986,7 @@
     },
     "categoryType": "single",
     "description": "Sektor",
-    "categoryItems": [
+    "categoryitems": [
       {
         "displayName": "Næringsliv",
         "idName": "private",
