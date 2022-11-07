@@ -355,9 +355,9 @@
   {
     "summary": "FNs bærekraftsmål er verdens felles arbeidsplan for å utrydde fattigdom, bekjempe ulikhet og stoppe klimaendringene innen 2030",
     "image": {
-      "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-medium.png",
-      "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-large.png",
-      "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-small.jpg"
+      "profile": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-medium.png",
+      "cover": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-large.png",
+      "icon": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-small.jpg"
     },
     "color": {
       "text": "#ffffff",
@@ -369,9 +369,9 @@
       {
         "summary": "Utrydde alle former for fattigdom i hele verden",
         "image": {
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-1.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-1.png",
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-1.png"
+          "profile": "http://images.urbalurba.com/categories/img/sdg/sdg-logo-1.png",
+          "cover": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-1.png",
+          "icon": "http://images.urbalurba.com/img/categories/sdg/sdg-icon-1.png"
         },
         "color": {
           "text": "#ffffff",
@@ -386,9 +386,9 @@
         "idName": "2",
         "summary": "Utrydde sult, oppnå matsikkerhet og bedre ernæring, og fremme bærekraftig landbruk",
         "image": {
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-2.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-2.png",
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-2.png"
+          "profile": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-2.png",
+          "cover": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-2.png",
+          "icon": "http://images.urbalurba.com/img/categories/sdg/sdg-icon-2.png"
         },
         "color": {
           "text": "#ffffff",
@@ -400,9 +400,9 @@
       },
       {
         "image": {
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-3.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-3.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-3.png"
+          "icon": "http://images.urbalurba.com/img/categories/sdg/sdg-icon-3.png",
+          "profile": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-3.png",
+          "cover": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-3.png"
         },
         "color": {
           "background": "#279B48",
@@ -425,9 +425,9 @@
         "idName": "4",
         "summary": "Sikre inkluderende, rettferdig og god utdanning og fremme muligheter for livslang læring for alle",
         "image": {
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-4.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-4.png",
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-4.png"
+          "profile": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-4.png",
+          "cover": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-4.png",
+          "icon": "http://images.urbalurba.com/img/categories/sdg/sdg-icon-4.png"
         }
       },
       {
@@ -441,16 +441,16 @@
         "idName": "5",
         "summary": "Oppnå likestilling og styrke jenter og kvinners stilling",
         "image": {
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-5.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-5.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-5.png"
+          "icon": "http://images.urbalurba.com/img/categories/sdg/sdg-icon-5.png",
+          "profile": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-5.png",
+          "cover": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-5.png"
         }
       },
       {
         "image": {
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-6.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-6.png",
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-6.png"
+          "profile": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-6.png",
+          "cover": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-6.png",
+          "icon": "http://images.urbalurba.com/img/categories/sdg/sdg-icon-6.png"
         },
         "color": {
           "text": "#ffffff",
@@ -465,9 +465,9 @@
       {
         "summary": "Sikre tilgang til pålitelig, bærekraftig og moderne energi til en overkommelig pris for alle",
         "image": {
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-7.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-7.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-7.png"
+          "icon": "http://images.urbalurba.com/img/categories/sdg/sdg-icon-7.png",
+          "profile": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-7.png",
+          "cover": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-7.png"
         },
         "color": {
           "background": "#FCB712",
@@ -482,9 +482,9 @@
         "idName": "8",
         "summary": "Fremme varig, inkluderende og bærekraftig økonomisk vekst, full sysselsetting og anstendig arbeid for alle",
         "image": {
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-8.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-8.png",
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-8.png"
+          "profile": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-8.png",
+          "cover": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-8.png",
+          "icon": "http://images.urbalurba.com/img/categories/sdg/sdg-icon-8.png"
         },
         "color": {
           "text": "#ffffff",
@@ -497,9 +497,9 @@
       {
         "summary": "Bygge solid infrastruktur, fremme inkluderende og bærekraftig industrialisering og bidra til innovasjon",
         "image": {
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-9.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-9.png",
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-9.png"
+          "profile": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-9.png",
+          "cover": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-9.png",
+          "icon": "http://images.urbalurba.com/img/categories/sdg/sdg-icon-9.png"
         },
         "color": {
           "background": "#F36D24",
@@ -512,9 +512,9 @@
       },
       {
         "image": {
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-10.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-10.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-10.png"
+          "icon": "http://images.urbalurba.com/img/categories/sdg/sdg-icon-10.png",
+          "profile": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-10.png",
+          "cover": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-10.png"
         },
         "color": {
           "text": "#ffffff",
@@ -537,9 +537,9 @@
         "idName": "11",
         "summary": "Gjøre byer og bosettinger inkluderende, trygge, motstandsdyktige og bærekraftige",
         "image": {
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-11.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-11.png",
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-11.png"
+          "profile": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-11.png",
+          "cover": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-11.png",
+          "icon": "http://images.urbalurba.com/img/categories/sdg/sdg-icon-11.png"
         }
       },
       {
@@ -549,9 +549,9 @@
         "idName": "12",
         "summary": "Sikre bærekraftig forbruks- og produksjonsmønstre",
         "image": {
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-12.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-12.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-12.png"
+          "icon": "http://images.urbalurba.com/img/categories/sdg/sdg-icon-12.png",
+          "profile": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-12.png",
+          "cover": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-12.png"
         },
         "color": {
           "background": "#CE8D29",
@@ -563,9 +563,9 @@
         "idName": "13",
         "summary": "Handle umiddelbart for å bekjempe klimaendringene og konsekvensene av dem",
         "image": {
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-13.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-13.png",
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-13.png"
+          "profile": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-13.png",
+          "cover": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-13.png",
+          "icon": "http://images.urbalurba.com/img/categories/sdg/sdg-icon-13.png"
         },
         "color": {
           "text": "#ffffff",
@@ -576,9 +576,9 @@
       },
       {
         "image": {
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-14.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-14.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-14.png"
+          "icon": "http://images.urbalurba.com/img/categories/sdg/sdg-icon-14.png",
+          "profile": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-14.png",
+          "cover": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-14.png"
         },
         "color": {
           "text": "#ffffff",
@@ -593,9 +593,9 @@
       {
         "summary": "Beskytte, gjenopprette og fremme bærekraftig bruk av økosystemer, sikre bærekraftig skogforvaltning, bekjempe ørkenspredning, stanse og reversere landforringelse samt stanse tap av artsmangfold",
         "image": {
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-15.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-15.png",
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-15.png"
+          "profile": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-15.png",
+          "cover": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-15.png",
+          "icon": "http://images.urbalurba.com/img/categories/sdg/sdg-icon-15.png"
         },
         "color": {
           "background": "#3DB04B",
@@ -610,9 +610,9 @@
         "idName": "16",
         "summary": "Fremme fredelige og inkluderende samfunn med sikte på bærekraftig utvikling, sørge for tilgang til rettsvern for alle og bygge velfungerende, ansvarlige og inkluderende institusjoner på alle nivåer",
         "image": {
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-16.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-16.png",
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-16.png"
+          "profile": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-16.png",
+          "cover": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-16.png",
+          "icon": "http://images.urbalurba.com/img/categories/sdg/sdg-icon-16.png"
         },
         "color": {
           "text": "#ffffff",
@@ -627,9 +627,9 @@
         "idName": "17",
         "summary": "Styrke gjennomføringsmidlene og fornye globale partnerskap for bærekraftig utvikling",
         "image": {
-          "icon": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-icon-17.png",
-          "profile": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-17.png",
-          "cover": "https://storage.googleapis.com/bucket.urbalurba.com/cat/sdg/sdg-logo-17.png"
+          "icon": "http://images.urbalurba.com/img/categories/sdg/sdg-icon-17.png",
+          "profile": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-17.png",
+          "cover": "http://images.urbalurba.com/img/categories/sdg/sdg-logo-17.png"
         },
         "color": {
           "background": "#183668",
