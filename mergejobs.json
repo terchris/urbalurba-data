@@ -1,8 +1,19 @@
 [
   {
+    "jobName": "test",
+    "jobStatus": "Ready",
+    "statusTime": null,
+    "blockJobType": null,
+    "step": 20040,
+    "summary": "test the system and all its connections",
+    "jobStartURL": "/urbalurba/util/test",
+    "jobServicename": null,
+    "jobType": "util"
+  },
+  {
     "jobName": "countmergejobs",
     "jobStatus": "Finished",
-    "statusTime": "2022-12-03T13:18:44.720Z",
+    "statusTime": "2023-02-22T07:42:45.510Z",
     "blockJobType": null,
     "step": 20030,
     "summary": "caount all merge jobs in all queues",
@@ -24,7 +35,7 @@
   {
     "jobName": "fromjob2job",
     "jobStatus": "Finished",
-    "statusTime": "2022-11-08T01:20:36.603Z",
+    "statusTime": "2023-02-21T12:44:01.821Z",
     "blockJobType": null,
     "step": 20000,
     "summary": "Util. Must configure before run",
@@ -35,10 +46,10 @@
   {
     "jobName": "mergejobs_strapi2github",
     "jobStatus": "Finished",
-    "statusTime": "2022-11-07T14:10:44.905Z",
+    "statusTime": "2022-12-03T13:49:56.409Z",
     "blockJobType": null,
     "step": 10020,
-    "summary": "backup all mergeJobs to github",
+    "summary": "backup all mergeJobs to https://github.com/terchris/urbalurba-data",
     "jobStartURL": "/config/mergejobs_strapi2github",
     "jobServicename": "strapi.plugin('urbalurba').service('urbalurbaMergeService').mergejobs_strapi2github(strapi);",
     "jobType": "util"
@@ -122,8 +133,8 @@
   },
   {
     "jobName": "merge_organizations2wordpress_export",
-    "jobStatus": "Finished",
-    "statusTime": "2022-12-02T01:31:02.613Z",
+    "jobStatus": "Paused",
+    "statusTime": "2023-01-03T09:41:19.099Z",
     "blockJobType": null,
     "step": 1000,
     "summary": "exports csv file to wordpress",
@@ -189,7 +200,7 @@
   {
     "jobName": "merge_organizations2insightly_update",
     "jobStatus": "Paused",
-    "statusTime": "2022-11-22T13:27:09.143Z",
+    "statusTime": "2023-02-22T09:59:40.686Z",
     "blockJobType": null,
     "step": 710,
     "summary": "API to Insightly for updating organizations",
@@ -221,8 +232,8 @@
   },
   {
     "jobName": "geonorge2merge",
-    "jobStatus": "Paused",
-    "statusTime": "2022-11-22T13:23:18.666Z",
+    "jobStatus": "Finished",
+    "statusTime": "2023-02-22T10:12:48.759Z",
     "blockJobType": null,
     "step": 500,
     "summary": "API to geonorge for getting gps and address (municipality and postal)",
@@ -232,8 +243,8 @@
   },
   {
     "jobName": "brreg_webscrape2merge",
-    "jobStatus": "Paused",
-    "statusTime": "2022-11-22T13:30:18.512Z",
+    "jobStatus": "Finished",
+    "statusTime": "2023-02-22T10:12:01.565Z",
     "blockJobType": "crawlee",
     "step": 430,
     "summary": "Webscrape brreg.no with known organization number",
@@ -244,7 +255,7 @@
   {
     "jobName": "brreg_name2merge",
     "jobStatus": "Paused",
-    "statusTime": "2022-11-22T13:30:16.979Z",
+    "statusTime": "2022-12-06T06:52:01.330Z",
     "blockJobType": null,
     "step": 420,
     "summary": "API to brreg.no search using organization name",
@@ -276,8 +287,8 @@
   },
   {
     "jobName": "upload_images2merge",
-    "jobStatus": "Paused",
-    "statusTime": "2022-11-22T14:08:01.256Z",
+    "jobStatus": "Finished",
+    "statusTime": "2023-02-22T10:08:06.396Z",
     "blockJobType": "",
     "step": 300,
     "summary": "Upload images from scraped webpages to google bucket",
@@ -287,19 +298,30 @@
   },
   {
     "jobName": "webpage_info2merge",
-    "jobStatus": "Paused",
-    "statusTime": "2022-11-22T14:08:01.148Z",
+    "jobStatus": "Finished",
+    "statusTime": "2023-02-22T10:12:03.198Z",
     "blockJobType": "crawlee",
     "step": 200,
     "summary": "Scrape a webpage to get all kinds of info",
-    "jobStartURL": "/merge/webpage_info2merge",
+    "jobStartURL": "/urbalurba/merge/webpage_info2merge",
     "jobServicename": null,
     "jobType": "webscrape"
   },
   {
-    "jobName": "maestro",
+    "jobName": "shadowbrreg2merge",
     "jobStatus": "Paused",
-    "statusTime": "2022-11-22T14:08:01.259Z",
+    "statusTime": "2023-02-21T14:09:19.022Z",
+    "blockJobType": null,
+    "step": 150,
+    "summary": "Import of shadowbrreg data",
+    "jobStartURL": "/urbalurba/merge/shadowbrreg2merge",
+    "jobServicename": null,
+    "jobType": "import"
+  },
+  {
+    "jobName": "maestro",
+    "jobStatus": "Finished",
+    "statusTime": "2023-02-22T10:12:01.164Z",
     "blockJobType": null,
     "step": 50,
     "summary": "Move jobs from one queue to the next",
