@@ -1,12 +1,34 @@
 [
   {
-    "jobName": "test",
+    "jobName": "mergedisplay",
+    "jobStatus": "Ready",
+    "statusTime": null,
+    "blockJobType": null,
+    "step": 20060,
+    "summary": "disp merge. usage: mergedisplay?idName=jalla&object=masterRecord&orgnum=814968952",
+    "jobStartURL": "/urbalurba/util/mergedisplay",
+    "jobServicename": null,
+    "jobType": "util"
+  },
+  {
+    "jobName": "testdata",
+    "jobStatus": "Ready",
+    "statusTime": null,
+    "blockJobType": null,
+    "step": 20050,
+    "summary": "test read, update, create to all systems",
+    "jobStartURL": "/urbalurba/util/testdata",
+    "jobServicename": null,
+    "jobType": "util"
+  },
+  {
+    "jobName": "testconfig",
     "jobStatus": "Ready",
     "statusTime": null,
     "blockJobType": null,
     "step": 20040,
     "summary": "test the system and all its connections",
-    "jobStartURL": "/urbalurba/util/test",
+    "jobStartURL": "/urbalurba/util/testconfig",
     "jobServicename": null,
     "jobType": "util"
   },
@@ -46,7 +68,7 @@
   {
     "jobName": "mergejobs_strapi2github",
     "jobStatus": "Finished",
-    "statusTime": "2022-12-03T13:49:56.409Z",
+    "statusTime": "2023-02-22T10:13:47.314Z",
     "blockJobType": null,
     "step": 10020,
     "summary": "backup all mergeJobs to https://github.com/terchris/urbalurba-data",
@@ -156,7 +178,7 @@
   {
     "jobName": "merge_organizations2firestore_create",
     "jobStatus": "Paused",
-    "statusTime": "2022-11-22T13:25:06.890Z",
+    "statusTime": "2023-02-22T17:18:00.609Z",
     "blockJobType": null,
     "step": 900,
     "summary": "API to firestore creating organizations",
@@ -167,7 +189,7 @@
   {
     "jobName": "merge_organizations2hubspot_update",
     "jobStatus": "Paused",
-    "statusTime": "2022-11-22T13:25:42.402Z",
+    "statusTime": "2023-02-23T10:33:00.195Z",
     "blockJobType": null,
     "step": 820,
     "summary": "API for updating organizations in Hubspot",
@@ -189,7 +211,7 @@
   {
     "jobName": "merge_organizations2hubspot_create",
     "jobStatus": "Paused",
-    "statusTime": "2022-11-07T12:52:53.316Z",
+    "statusTime": "2023-02-23T11:33:01.171Z",
     "blockJobType": null,
     "step": 800,
     "summary": "API for creating organizations in Hubspot",
@@ -232,8 +254,8 @@
   },
   {
     "jobName": "geonorge2merge",
-    "jobStatus": "Finished",
-    "statusTime": "2023-02-22T10:12:48.759Z",
+    "jobStatus": "Paused",
+    "statusTime": "2023-02-23T10:33:00.214Z",
     "blockJobType": null,
     "step": 500,
     "summary": "API to geonorge for getting gps and address (municipality and postal)",
@@ -243,8 +265,8 @@
   },
   {
     "jobName": "brreg_webscrape2merge",
-    "jobStatus": "Finished",
-    "statusTime": "2023-02-22T10:12:01.565Z",
+    "jobStatus": "Paused",
+    "statusTime": "2023-02-22T11:52:02.123Z",
     "blockJobType": "crawlee",
     "step": 430,
     "summary": "Webscrape brreg.no with known organization number",
@@ -287,8 +309,8 @@
   },
   {
     "jobName": "upload_images2merge",
-    "jobStatus": "Finished",
-    "statusTime": "2023-02-22T10:08:06.396Z",
+    "jobStatus": "Paused",
+    "statusTime": "2023-02-22T11:46:18.339Z",
     "blockJobType": "",
     "step": 300,
     "summary": "Upload images from scraped webpages to google bucket",
@@ -298,8 +320,8 @@
   },
   {
     "jobName": "webpage_info2merge",
-    "jobStatus": "Finished",
-    "statusTime": "2023-02-22T10:12:03.198Z",
+    "jobStatus": "Paused",
+    "statusTime": "2023-02-22T11:52:00.140Z",
     "blockJobType": "crawlee",
     "step": 200,
     "summary": "Scrape a webpage to get all kinds of info",
@@ -320,8 +342,8 @@
   },
   {
     "jobName": "maestro",
-    "jobStatus": "Finished",
-    "statusTime": "2023-02-22T10:12:01.164Z",
+    "jobStatus": "Paused",
+    "statusTime": "2023-02-24T10:00:00.689Z",
     "blockJobType": null,
     "step": 50,
     "summary": "Move jobs from one queue to the next",
