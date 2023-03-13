@@ -1,0 +1,7 @@
+[
+  {
+    "idName": "mergeJobRun",
+    "displayName": "Are mergeJob(s) allowed to run?",
+    "status": true
+  }
+]
