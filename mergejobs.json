@@ -66,15 +66,70 @@
     "jobType": "util"
   },
   {
+    "jobName": "mergecontrol_github2strapi",
+    "jobStatus": "Ready",
+    "statusTime": null,
+    "blockJobType": null,
+    "step": 10041,
+    "summary": "restore of mergeControl from github",
+    "jobStartURL": "/urbalurba/config/mergecontrol_github2strapi",
+    "jobServicename": null,
+    "jobType": "backup"
+  },
+  {
+    "jobName": "mergecontrol_strapi2github",
+    "jobStatus": "Ready",
+    "statusTime": null,
+    "blockJobType": null,
+    "step": 10040,
+    "summary": "backup of mergecontrol to github",
+    "jobStartURL": "/urbalurba/config/mergecontrol_strapi2github",
+    "jobServicename": null,
+    "jobType": "backup"
+  },
+  {
+    "jobName": "mergesync_github2strapi",
+    "jobStatus": "Ready",
+    "statusTime": null,
+    "blockJobType": null,
+    "step": 10031,
+    "summary": "restore merge sync config from github",
+    "jobStartURL": "/urbalurba/config/mergesync_github2strapi",
+    "jobServicename": null,
+    "jobType": "backup"
+  },
+  {
+    "jobName": "mergesync_strapi2github",
+    "jobStatus": "Ready",
+    "statusTime": null,
+    "blockJobType": null,
+    "step": 10030,
+    "summary": "copy all mergesync config to github",
+    "jobStartURL": "/urbalurba/config/mergesync_strapi2github",
+    "jobServicename": null,
+    "jobType": "backup"
+  },
+  {
+    "jobName": "mergejobs_github2strapi",
+    "jobStatus": "Ready",
+    "statusTime": null,
+    "blockJobType": null,
+    "step": 10021,
+    "summary": "import mergejobs from github backup",
+    "jobStartURL": "/urbalurba/config/mergejobs_github2strapi",
+    "jobServicename": null,
+    "jobType": "backup"
+  },
+  {
     "jobName": "mergejobs_strapi2github",
     "jobStatus": "Finished",
-    "statusTime": "2023-02-22T10:13:47.314Z",
+    "statusTime": "2023-02-24T10:16:44.330Z",
     "blockJobType": null,
     "step": 10020,
     "summary": "backup all mergeJobs to https://github.com/terchris/urbalurba-data",
-    "jobStartURL": "/config/mergejobs_strapi2github",
+    "jobStartURL": "/urbalurba/config/mergejobs_strapi2github",
     "jobServicename": "strapi.plugin('urbalurba').service('urbalurbaMergeService').mergejobs_strapi2github(strapi);",
-    "jobType": "util"
+    "jobType": "backup"
   },
   {
     "jobName": "categories_strapi2wordpress_export",
@@ -159,7 +214,7 @@
     "statusTime": "2023-01-03T09:41:19.099Z",
     "blockJobType": null,
     "step": 1000,
-    "summary": "exports csv file to wordpress",
+    "summary": "exports csv file to wordpress. ?networkIdName=smartebyernorge.no and u can use idName= as well",
     "jobStartURL": "/urbalurba/sync/merge_organizations2wordpress_export",
     "jobServicename": null,
     "jobType": "sync"
@@ -189,7 +244,7 @@
   {
     "jobName": "merge_organizations2hubspot_update",
     "jobStatus": "Paused",
-    "statusTime": "2023-02-23T10:33:00.195Z",
+    "statusTime": "2023-03-02T08:57:01.087Z",
     "blockJobType": null,
     "step": 820,
     "summary": "API for updating organizations in Hubspot",
@@ -200,7 +255,7 @@
   {
     "jobName": "merge_organizations2hubspot_readback",
     "jobStatus": "Paused",
-    "statusTime": "2022-11-07T12:59:21.866Z",
+    "statusTime": "2023-03-02T08:46:01.225Z",
     "blockJobType": null,
     "step": 810,
     "summary": "API to Hubspot for reading back fields populated by Hubspot",
@@ -211,10 +266,10 @@
   {
     "jobName": "merge_organizations2hubspot_create",
     "jobStatus": "Paused",
-    "statusTime": "2023-02-23T11:33:01.171Z",
+    "statusTime": "2023-03-02T08:11:04.680Z",
     "blockJobType": null,
     "step": 800,
-    "summary": "API for creating organizations in Hubspot",
+    "summary": "Creating organizations in Hubspot. for one ?idName=smartebyernorge.no",
     "jobStartURL": "/merge/merge_organizations2hubspot_create",
     "jobServicename": null,
     "jobType": "sync"
@@ -244,7 +299,7 @@
   {
     "jobName": "googlemaps2merge",
     "jobStatus": "Paused",
-    "statusTime": "2022-11-22T13:30:07.288Z",
+    "statusTime": "2023-03-02T08:08:14.106Z",
     "blockJobType": null,
     "step": 600,
     "summary": "API to Google maps for addresses not found in geonorge.no",
@@ -255,7 +310,7 @@
   {
     "jobName": "geonorge2merge",
     "jobStatus": "Paused",
-    "statusTime": "2023-02-23T10:33:00.214Z",
+    "statusTime": "2023-03-02T08:05:35.952Z",
     "blockJobType": null,
     "step": 500,
     "summary": "API to geonorge for getting gps and address (municipality and postal)",
@@ -266,10 +321,10 @@
   {
     "jobName": "brreg_webscrape2merge",
     "jobStatus": "Paused",
-    "statusTime": "2023-02-22T11:52:02.123Z",
+    "statusTime": "2023-03-02T07:37:33.244Z",
     "blockJobType": "crawlee",
     "step": 430,
-    "summary": "Webscrape brreg.no with known organization number",
+    "summary": "Webscrape brreg.no with known organization number. For one ?idName=smartebyernorge.no",
     "jobStartURL": "/merge/brreg_webscrape2merge",
     "jobServicename": null,
     "jobType": "datalookup"
@@ -310,21 +365,32 @@
   {
     "jobName": "upload_images2merge",
     "jobStatus": "Paused",
-    "statusTime": "2023-02-22T11:46:18.339Z",
+    "statusTime": "2023-03-02T07:29:45.623Z",
     "blockJobType": "",
     "step": 300,
-    "summary": "Upload images from scraped webpages to google bucket",
+    "summary": "Upload images from scraped webpages to google bucket. upload_images2merge?idName=smartebyernorge.no for just one",
     "jobStartURL": "/merge/upload_images2merge",
     "jobServicename": null,
     "jobType": "manage"
   },
   {
+    "jobName": "webpage_image2merge",
+    "jobStatus": "Paused",
+    "statusTime": null,
+    "blockJobType": "crawlee",
+    "step": 250,
+    "summary": "Get images from website. ?idName=smartebyernorge.no",
+    "jobStartURL": "/urbalurba/merge/webpage_image2merge",
+    "jobServicename": null,
+    "jobType": "webscrape"
+  },
+  {
     "jobName": "webpage_info2merge",
     "jobStatus": "Paused",
-    "statusTime": "2023-02-22T11:52:00.140Z",
+    "statusTime": "2023-03-02T09:04:47.175Z",
     "blockJobType": "crawlee",
     "step": 200,
-    "summary": "Scrape a webpage to get all kinds of info",
+    "summary": "Scrape webpages. for just one webpage_info2merge?idName=smartebyernorge.no  ",
     "jobStartURL": "/urbalurba/merge/webpage_info2merge",
     "jobServicename": null,
     "jobType": "webscrape"
@@ -332,10 +398,10 @@
   {
     "jobName": "shadowbrreg2merge",
     "jobStatus": "Paused",
-    "statusTime": "2023-02-21T14:09:19.022Z",
+    "statusTime": "2023-02-24T15:00:00.995Z",
     "blockJobType": null,
     "step": 150,
-    "summary": "Import of shadowbrreg data",
+    "summary": "Import of shadowbrreg data. Import just one by: shadowbrreg2merge?orgnum=914963737",
     "jobStartURL": "/urbalurba/merge/shadowbrreg2merge",
     "jobServicename": null,
     "jobType": "import"
