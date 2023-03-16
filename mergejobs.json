@@ -111,7 +111,7 @@
   },
   {
     "jobName": "mergejobs_github2strapi",
-    "jobStatus": "Running",
+    "jobStatus": "Ready",
     "statusTime": "2023-03-13T23:07:01.181Z",
     "blockJobType": null,
     "step": 10021,
@@ -408,7 +408,7 @@
   },
   {
     "jobName": "maestro",
-    "jobStatus": "Running",
+    "jobStatus": "Ready",
     "statusTime": "2023-03-13T23:48:00.309Z",
     "blockJobType": null,
     "step": 50,
