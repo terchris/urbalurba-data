@@ -89,7 +89,7 @@
   },
   {
     "jobName": "mergesync_github2strapi",
-    "jobStatus": "Running",
+    "jobStatus": "Ready",
     "statusTime": "2023-03-13T23:12:20.282Z",
     "blockJobType": null,
     "step": 10031,
