@@ -122,13 +122,13 @@
   },
   {
     "jobName": "mergejobs_strapi2github",
-    "statusTime": "2023-03-17T08:46:36.164Z",
+    "statusTime": "2023-03-20T13:15:29.833Z",
     "blockJobType": null,
     "step": 10020,
     "summary": "backup all mergeJobs to https://github.com/terchris/urbalurba-data",
     "jobStartURL": "/urbalurba/config/mergejobs_strapi2github",
     "jobServicename": "strapi.plugin('urbalurba').service('urbalurbaMergeService').mergejobs_strapi2github(strapi);",
-    "jobStatus": "Ready",
+    "jobStatus": "Finished",
     "jobType": "backup"
   },
   {
@@ -436,7 +436,7 @@
     "summary": "Move jobs from one queue to the next",
     "jobStartURL": "/merge/maestro",
     "jobServicename": null,
-    "jobStatus": "Running",
+    "jobStatus": "Ready",
     "jobType": "manage"
   },
   {
