@@ -1,541 +1,590 @@
 [
   {
     "jobName": "mergedisplay",
-    "statusTime": "2023-03-17T08:46:36.082Z",
+    "statusTime": "2023-03-20T14:00:05.020Z",
     "blockJobType": null,
     "step": 20060,
     "summary": "disp merge. usage: mergedisplay?idName=jalla&object=masterRecord&orgnum=814968952",
     "jobStartURL": "/urbalurba/util/mergedisplay",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "util"
+    "jobType": "util",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "testdata",
-    "statusTime": "2023-03-17T08:46:36.089Z",
+    "statusTime": "2023-03-20T14:00:05.028Z",
     "blockJobType": null,
     "step": 20050,
     "summary": "test read, update, create to all systems",
     "jobStartURL": "/urbalurba/util/testdata",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "util"
+    "jobType": "util",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "testconfig",
-    "statusTime": "2023-03-17T08:46:36.097Z",
+    "statusTime": "2023-03-20T14:00:05.041Z",
     "blockJobType": null,
     "step": 20040,
     "summary": "test the system and all its connections",
     "jobStartURL": "/urbalurba/util/testconfig",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "util"
+    "jobType": "util",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "countmergejobs",
-    "statusTime": "2023-03-17T08:46:36.103Z",
+    "statusTime": "2023-03-20T14:00:05.049Z",
     "blockJobType": null,
     "step": 20030,
     "summary": "caount all merge jobs in all queues",
     "jobStartURL": "/urbalurba/merge/maestro/countmergejobs",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "util"
+    "jobType": "util",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "merge_all2start",
-    "statusTime": "2023-03-17T08:46:36.110Z",
+    "statusTime": "2023-03-20T14:00:05.062Z",
     "blockJobType": null,
     "step": 20010,
     "summary": "!!!! Move ALL merge to start !!!",
     "jobStartURL": "/util/merge_all2start",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "util"
+    "jobType": "util",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "fromjob2job",
-    "statusTime": "2023-03-17T08:46:36.117Z",
+    "statusTime": "2023-03-20T14:00:05.070Z",
     "blockJobType": null,
     "step": 20000,
     "summary": "Util. Must configure before run",
     "jobStartURL": "/util/fromjob2job",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "util"
+    "jobType": "util",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "mergecontrol_github2strapi",
-    "statusTime": "2023-03-17T08:46:36.123Z",
+    "statusTime": "2023-03-20T14:00:05.077Z",
     "blockJobType": null,
     "step": 10041,
     "summary": "restore of mergeControl from github",
     "jobStartURL": "/urbalurba/config/mergecontrol_github2strapi",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "backup"
+    "jobType": "backup",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "mergecontrol_strapi2github",
-    "statusTime": "2023-03-17T08:46:36.135Z",
+    "statusTime": "2023-03-20T14:00:05.084Z",
     "blockJobType": null,
     "step": 10040,
     "summary": "backup of mergecontrol to github",
     "jobStartURL": "/urbalurba/config/mergecontrol_strapi2github",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "backup"
+    "jobType": "backup",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "mergesync_github2strapi",
-    "statusTime": "2023-03-17T08:46:57.628Z",
+    "statusTime": "2023-03-20T14:00:26.526Z",
     "blockJobType": null,
     "step": 10031,
     "summary": "restore merge sync config from github",
     "jobStartURL": "/urbalurba/config/mergesync_github2strapi",
     "jobServicename": null,
     "jobStatus": "Running",
-    "jobType": "backup"
+    "jobType": "backup",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "mergesync_strapi2github",
-    "statusTime": "2023-03-17T08:46:36.150Z",
+    "statusTime": "2023-03-20T14:00:05.097Z",
     "blockJobType": null,
     "step": 10030,
     "summary": "copy all mergesync config to github",
     "jobStartURL": "/urbalurba/config/mergesync_strapi2github",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "backup"
+    "jobType": "backup",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "mergejobs_github2strapi",
-    "statusTime": "2023-03-17T08:46:36.156Z",
+    "statusTime": "2023-03-20T14:00:05.103Z",
     "blockJobType": null,
     "step": 10021,
     "summary": "import mergejobs from github backup",
     "jobStartURL": "/urbalurba/config/mergejobs_github2strapi",
     "jobServicename": null,
     "jobStatus": "Running",
-    "jobType": "backup"
+    "jobType": "backup",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "mergejobs_strapi2github",
-    "statusTime": "2023-03-20T13:15:29.833Z",
+    "statusTime": "2023-03-20T14:00:05.118Z",
     "blockJobType": null,
     "step": 10020,
     "summary": "backup all mergeJobs to https://github.com/terchris/urbalurba-data",
     "jobStartURL": "/urbalurba/config/mergejobs_strapi2github",
     "jobServicename": "strapi.plugin('urbalurba').service('urbalurbaMergeService').mergejobs_strapi2github(strapi);",
-    "jobStatus": "Finished",
-    "jobType": "backup"
+    "jobStatus": "Ready",
+    "jobType": "backup",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "categories_strapi2wordpress_export",
-    "statusTime": "2023-03-17T08:46:36.171Z",
+    "statusTime": "2023-03-20T14:00:05.128Z",
     "blockJobType": null,
     "step": 10013,
     "summary": "Return cvs of categories that is imported by WP",
     "jobStartURL": "/urbalurba/sync/categories_strapi2wordpress_export",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "setup"
+    "jobType": "setup",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "categories_strapi2firestore",
-    "statusTime": "2023-03-17T08:46:36.178Z",
+    "statusTime": "2023-03-20T14:00:05.138Z",
     "blockJobType": null,
     "step": 10012,
     "summary": "API for pushing categories to firestore",
     "jobStartURL": "/merge/categories_strapi2firestore",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "setup"
+    "jobType": "setup",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "categories_strapi2github",
-    "statusTime": "2023-03-17T08:46:36.185Z",
+    "statusTime": "2023-03-20T14:00:05.145Z",
     "blockJobType": null,
     "step": 10011,
     "summary": "Backup - store all categories in github",
     "jobStartURL": "/config/categories_strapi2github",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "backup"
+    "jobType": "backup",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "categories_github2strapi",
-    "statusTime": "2023-03-17T08:46:57.406Z",
+    "statusTime": "2023-03-20T14:00:26.288Z",
     "blockJobType": null,
     "step": 10010,
     "summary": "Config load categories from github into strapi",
     "jobStartURL": "/config/categories_github2strapi",
     "jobServicename": null,
     "jobStatus": "Finished",
-    "jobType": "setup"
+    "jobType": "setup",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "entitytypes_strapi2firestore",
-    "statusTime": "2023-03-17T08:46:36.204Z",
+    "statusTime": "2023-03-20T14:00:05.158Z",
     "blockJobType": null,
     "step": 10002,
     "summary": "Entitytypes pushed to firestore",
     "jobStartURL": "/merge/entitytypes_strapi2firestore",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "setup"
+    "jobType": "setup",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "entitytypes_strapi2github",
-    "statusTime": "2023-03-17T08:46:36.216Z",
+    "statusTime": "2023-03-20T14:00:05.165Z",
     "blockJobType": null,
     "step": 10001,
     "summary": "Backup - Save entitytypes in github",
     "jobStartURL": "/config/entitytypes_strapi2github",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "backup"
+    "jobType": "backup",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "entitytypes_github2strapi",
-    "statusTime": "2023-03-17T08:46:36.614Z",
+    "statusTime": "2023-03-20T14:00:05.582Z",
     "blockJobType": null,
     "step": 10000,
     "summary": "Config - Read entitytypes from github",
     "jobStartURL": "/config/entitytypes_github2strapi",
     "jobServicename": null,
     "jobStatus": "Running",
-    "jobType": "setup"
+    "jobType": "setup",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "merge_organizations2wordpress_export",
-    "statusTime": "2023-03-17T08:46:36.230Z",
+    "statusTime": "2023-03-20T14:00:05.178Z",
     "blockJobType": null,
     "step": 1000,
     "summary": "exports csv file to wordpress. ?networkIdName=smartebyernorge.no and u can use idName= as well",
     "jobStartURL": "/urbalurba/sync/merge_organizations2wordpress_export",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "sync"
+    "jobType": "sync",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "merge_organizations2firestore_update",
-    "statusTime": "2023-03-17T08:46:36.236Z",
+    "statusTime": "2023-03-20T14:00:05.193Z",
     "blockJobType": null,
     "step": 910,
     "summary": "API for updating firestore organizations",
     "jobStartURL": "/merge/merge_organizations2firestore_update",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "sync"
+    "jobType": "sync",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "merge_organizations2firestore_create",
-    "statusTime": "2023-03-17T08:46:36.242Z",
+    "statusTime": "2023-03-20T14:00:05.201Z",
     "blockJobType": null,
     "step": 900,
     "summary": "API to firestore creating organizations",
     "jobStartURL": "/merge/merge_organizations2firestore_create",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "sync"
+    "jobType": "sync",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "merge_organizations2hubspot_update",
-    "statusTime": "2023-03-17T08:46:36.248Z",
+    "statusTime": "2023-03-20T14:00:05.207Z",
     "blockJobType": null,
     "step": 820,
     "summary": "API for updating organizations in Hubspot",
     "jobStartURL": "/merge/merge_organizations2hubspot_update",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "sync"
+    "jobType": "sync",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "merge_organizations2hubspot_readback",
-    "statusTime": "2023-03-17T08:46:36.254Z",
+    "statusTime": "2023-03-20T14:00:05.213Z",
     "blockJobType": null,
     "step": 810,
     "summary": "API to Hubspot for reading back fields populated by Hubspot",
     "jobStartURL": "/merge/merge_organizations2hubspot_readback",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "sync"
+    "jobType": "sync",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "merge_organizations2hubspot_create",
-    "statusTime": "2023-03-17T08:46:36.261Z",
+    "statusTime": "2023-03-20T14:00:05.219Z",
     "blockJobType": null,
     "step": 800,
     "summary": "Creating organizations in Hubspot. for one ?idName=smartebyernorge.no",
     "jobStartURL": "/merge/merge_organizations2hubspot_create",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "sync"
+    "jobType": "sync",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "merge_organizations2insightly_update",
-    "statusTime": "2023-03-17T08:46:36.267Z",
+    "statusTime": "2023-03-20T14:00:05.225Z",
     "blockJobType": null,
     "step": 710,
     "summary": "API to Insightly for updating organizations",
     "jobStartURL": "/merge/merge_organizations2insightly_update",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "sync"
+    "jobType": "sync",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "merge_organizations2insightly_create",
-    "statusTime": "2023-03-17T08:46:36.274Z",
+    "statusTime": "2023-03-20T14:00:05.232Z",
     "blockJobType": null,
     "step": 700,
     "summary": "API to Insightly for creating organizations",
     "jobStartURL": "/merge/merge_organizations2insightly_create",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "sync"
+    "jobType": "sync",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "brreg_name2merge",
-    "statusTime": "2023-03-17T08:46:36.310Z",
+    "statusTime": "2023-03-20T14:00:05.239Z",
     "blockJobType": null,
     "step": 420,
     "summary": "API to brreg.no search using organization name",
     "jobStartURL": "/merge/brreg_name2merge",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "datalookup"
+    "jobType": "datalookup",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "brreg_web2merge",
-    "statusTime": "2023-03-17T08:46:36.316Z",
+    "statusTime": "2023-03-20T14:00:05.249Z",
     "blockJobType": null,
     "step": 410,
     "summary": "API to brreg.no search using webpage and domain name",
     "jobStartURL": "/merge/brreg_web2merge",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "datalookup"
+    "jobType": "datalookup",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "brreg_orgnum2merge",
-    "statusTime": "2023-03-17T08:46:36.322Z",
+    "statusTime": "2023-03-20T14:00:05.260Z",
     "blockJobType": null,
     "step": 400,
     "summary": "API to brreg.no with known organization number",
     "jobStartURL": "/merge/brreg_orgnum2merge",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "datalookup"
+    "jobType": "datalookup",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "scraped",
-    "statusTime": null,
+    "statusTime": "2023-03-20T14:00:05.267Z",
     "blockJobType": null,
     "step": 200,
     "summary": "scraped queue - all here has brreg and maybe webpage",
     "jobStartURL": null,
     "jobServicename": null,
-    "jobStatus": null,
-    "jobType": null
+    "jobStatus": "Ready",
+    "jobType": null,
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "upload_images2merge",
-    "statusTime": "2023-03-17T08:46:36.328Z",
+    "statusTime": "2023-03-20T14:00:05.272Z",
     "blockJobType": "",
     "step": 160,
     "summary": "Upload images from scraped webpages to google bucket. upload_images2merge?idName=smartebyernorge.no for just one",
     "jobStartURL": "/merge/upload_images2merge",
     "jobServicename": null,
-    "jobStatus": "Ready",
-    "jobType": "manage"
+    "jobStatus": "Paused",
+    "jobType": "manage",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "webpage_image2merge",
-    "statusTime": "2023-03-17T08:46:36.334Z",
+    "statusTime": "2023-03-20T14:00:05.278Z",
     "blockJobType": "crawlee",
     "step": 150,
     "summary": "Get images from website. ?idName=smartebyernorge.no",
     "jobStartURL": "/urbalurba/merge/webpage_image2merge",
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": "webscrape"
+    "jobType": "webscrape",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "webpage_info2merge",
-    "statusTime": "2023-03-20T13:06:01.297Z",
+    "statusTime": "2023-03-23T06:57:10.526Z",
     "blockJobType": "crawlee",
     "step": 140,
     "summary": "Scrape webpages. for just one webpage_info2merge?idName=smartebyernorge.no  ",
     "jobStartURL": "/urbalurba/merge/webpage_info2merge",
     "jobServicename": null,
-    "jobStatus": "Finished",
-    "jobType": "webscrape"
+    "jobStatus": "Ready",
+    "jobType": "webscrape",
+    "maxRunTimeSeconds": 1200
   },
   {
     "jobName": "decide_if_webscrape",
-    "statusTime": null,
+    "statusTime": "2023-03-20T14:00:05.290Z",
     "blockJobType": null,
     "step": 130,
     "summary": "queue for making decition",
     "jobStartURL": null,
     "jobServicename": null,
-    "jobStatus": null,
-    "jobType": null
+    "jobStatus": "Ready",
+    "jobType": null,
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "googlemaps2merge",
-    "statusTime": "2023-03-20T10:58:36.657Z",
+    "statusTime": "2023-03-24T07:14:00.076Z",
     "blockJobType": null,
     "step": 125,
     "summary": "API to Google maps for addresses not found in geonorge.no",
     "jobStartURL": "/merge/googlemaps2merge",
     "jobServicename": null,
-    "jobStatus": "Finished",
-    "jobType": "datalookup"
+    "jobStatus": "Paused",
+    "jobType": "datalookup",
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "geonorge2merge",
-    "statusTime": "2023-03-20T10:54:19.915Z",
+    "statusTime": "2023-03-24T07:42:00.897Z",
     "blockJobType": null,
     "step": 120,
     "summary": "API to geonorge for getting gps and address (municipality and postal)",
     "jobStartURL": "/merge/geonorge2merge",
     "jobServicename": null,
     "jobStatus": "Finished",
-    "jobType": "datalookup"
+    "jobType": "datalookup",
+    "maxRunTimeSeconds": 600
   },
   {
     "jobName": "brreg_webscrape2merge",
-    "statusTime": "2023-03-20T10:42:33.601Z",
-    "blockJobType": "crawlee",
+    "statusTime": "2023-03-23T15:40:00.036Z",
+    "blockJobType": null,
     "step": 110,
     "summary": "Webscrape brreg.no with known organization number. For one ?idName=smartebyernorge.no",
-    "jobStartURL": "/merge/brreg_webscrape2merge",
+    "jobStartURL": "/urbalurba/merge/brreg_webscrape2merge",
     "jobServicename": null,
-    "jobStatus": "Finished",
-    "jobType": "datalookup"
+    "jobStatus": "Running",
+    "jobType": "datalookup",
+    "maxRunTimeSeconds": 600
   },
   {
     "jobName": "shadowbrreg2merge",
-    "statusTime": "2023-03-20T08:09:03.591Z",
+    "statusTime": "2023-03-23T07:09:04.242Z",
     "blockJobType": null,
     "step": 100,
     "summary": "Import of shadowbrreg data. Import just one by: shadowbrreg2merge?orgnum=914963737",
     "jobStartURL": "/urbalurba/merge/shadowbrreg2merge",
     "jobServicename": null,
     "jobStatus": "Paused",
-    "jobType": "import"
+    "jobType": "import",
+    "maxRunTimeSeconds": 300
   },
   {
     "jobName": "maestro",
-    "statusTime": "2023-03-20T11:28:00.126Z",
+    "statusTime": "2023-03-24T07:42:00.817Z",
     "blockJobType": null,
     "step": 50,
     "summary": "Move jobs from one queue to the next",
-    "jobStartURL": "/merge/maestro",
+    "jobStartURL": "/urbalurba/merge/maestro",
     "jobServicename": null,
-    "jobStatus": "Ready",
-    "jobType": "manage"
+    "jobStatus": "Finished",
+    "jobType": "manage",
+    "maxRunTimeSeconds": 300
   },
   {
     "jobName": "insightly_networkmembers2merge",
-    "statusTime": "2023-03-17T08:46:36.368Z",
+    "statusTime": "2023-03-20T14:00:05.337Z",
     "blockJobType": "",
     "step": null,
     "summary": null,
     "jobStartURL": null,
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": null
+    "jobType": null,
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "insightly_networkmembers2mergenetwork",
-    "statusTime": "2023-03-17T08:46:36.374Z",
+    "statusTime": "2023-03-20T14:00:05.343Z",
     "blockJobType": "",
     "step": null,
     "summary": null,
     "jobStartURL": null,
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": null
+    "jobType": null,
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "insightly_networks2merge",
-    "statusTime": "2023-03-17T08:46:36.380Z",
+    "statusTime": "2023-03-20T14:00:05.350Z",
     "blockJobType": "",
     "step": null,
     "summary": null,
     "jobStartURL": null,
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": null
+    "jobType": null,
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "insightly_organizations2merge",
-    "statusTime": "2023-03-17T08:46:36.386Z",
+    "statusTime": "2023-03-20T14:00:05.358Z",
     "blockJobType": "",
     "step": null,
     "summary": null,
     "jobStartURL": null,
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": null
+    "jobType": null,
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "insightly_tag_organizations2merge",
-    "statusTime": "2023-03-17T08:46:36.393Z",
+    "statusTime": "2023-03-20T14:00:05.363Z",
     "blockJobType": "",
     "step": null,
     "summary": null,
     "jobStartURL": null,
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": null
+    "jobType": null,
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "merge_strapiv32strapiv4",
-    "statusTime": "2023-03-17T08:46:36.399Z",
+    "statusTime": "2023-03-20T14:00:05.369Z",
     "blockJobType": "",
     "step": null,
     "summary": null,
     "jobStartURL": null,
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": null
+    "jobType": null,
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "split_network2organizations",
-    "statusTime": "2023-03-17T08:46:36.406Z",
+    "statusTime": "2023-03-20T14:00:05.374Z",
     "blockJobType": "",
     "step": null,
     "summary": null,
     "jobStartURL": null,
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": null
+    "jobType": null,
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "strapi_update",
-    "statusTime": "2023-03-17T08:46:36.414Z",
+    "statusTime": "2023-03-20T14:00:05.391Z",
     "blockJobType": "",
     "step": null,
     "summary": null,
     "jobStartURL": null,
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": null
+    "jobType": null,
+    "maxRunTimeSeconds": null
   },
   {
     "jobName": "webpage_info-test",
-    "statusTime": "2023-03-17T08:46:36.426Z",
+    "statusTime": "2023-03-20T14:00:05.403Z",
     "blockJobType": "",
     "step": null,
     "summary": null,
     "jobStartURL": null,
     "jobServicename": null,
     "jobStatus": "Ready",
-    "jobType": null
+    "jobType": null,
+    "maxRunTimeSeconds": null
   }
 ]
