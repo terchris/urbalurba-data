@@ -133,7 +133,7 @@
   },
   {
     "jobName": "mergejobs_strapi2github",
-    "statusTime": "2023-03-25T13:59:37.169Z",
+    "statusTime": "2023-03-26T10:43:41.153Z",
     "blockJobType": null,
     "step": 10020,
     "summary": "backup all mergeJobs to https://github.com/terchris/urbalurba-data",
@@ -397,13 +397,13 @@
   },
   {
     "jobName": "webpage_info2merge",
-    "statusTime": "2023-03-25T11:00:00.157Z",
+    "statusTime": "2023-03-26T10:40:03.402Z",
     "blockJobType": "crawlee",
     "step": 140,
     "summary": "Scrape webpages. for just one webpage_info2merge?idName=smartebyernorge.no  ",
     "jobStartURL": "/urbalurba/merge/webpage_info2merge",
     "jobServicename": null,
-    "jobStatus": "Ready",
+    "jobStatus": "Finished",
     "jobType": "webscrape",
     "maxRunTimeSeconds": 1200
   },
@@ -433,20 +433,20 @@
   },
   {
     "jobName": "geonorge2merge",
-    "statusTime": "2023-03-25T13:57:32.942Z",
+    "statusTime": "2023-03-26T10:33:00.169Z",
     "blockJobType": null,
     "step": 120,
     "summary": "API to geonorge for getting gps and address (municipality and postal)",
     "jobStartURL": "/merge/geonorge2merge",
     "jobServicename": null,
-    "jobStatus": "Finished",
+    "jobStatus": "Running",
     "jobType": "datalookup",
     "maxRunTimeSeconds": 600
   },
   {
     "jobName": "brreg_webscrape2merge",
     "statusTime": "2023-03-25T11:00:00.158Z",
-    "blockJobType": "crawlee",
+    "blockJobType": null,
     "step": 110,
     "summary": "Webscrape brreg.no with known organization number. For one ?idName=smartebyernorge.no",
     "jobStartURL": "/urbalurba/merge/brreg_webscrape2merge",
@@ -457,7 +457,7 @@
   },
   {
     "jobName": "shadowbrreg2merge",
-    "statusTime": "2023-03-25T13:57:06.612Z",
+    "statusTime": "2023-03-26T10:42:09.952Z",
     "blockJobType": null,
     "step": 100,
     "summary": "Import of shadowbrreg data. Import just one by: shadowbrreg2merge?orgnum=914963737",
@@ -469,13 +469,13 @@
   },
   {
     "jobName": "maestro",
-    "statusTime": "2023-03-25T13:54:00.035Z",
+    "statusTime": "2023-03-26T10:42:38.313Z",
     "blockJobType": null,
     "step": 50,
     "summary": "Move jobs from one queue to the next",
     "jobStartURL": "/urbalurba/merge/maestro",
     "jobServicename": null,
-    "jobStatus": "Running",
+    "jobStatus": "Finished",
     "jobType": "manage",
     "maxRunTimeSeconds": 300
   },
