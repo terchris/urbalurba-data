@@ -133,7 +133,7 @@
   },
   {
     "jobName": "mergejobs_strapi2github",
-    "statusTime": "2023-03-26T10:43:41.153Z",
+    "statusTime": "2023-03-27T05:15:39.439Z",
     "blockJobType": null,
     "step": 10020,
     "summary": "backup all mergeJobs to https://github.com/terchris/urbalurba-data",
@@ -397,13 +397,13 @@
   },
   {
     "jobName": "webpage_info2merge",
-    "statusTime": "2023-03-26T10:40:03.402Z",
+    "statusTime": "2023-03-26T11:00:00.173Z",
     "blockJobType": "crawlee",
     "step": 140,
     "summary": "Scrape webpages. for just one webpage_info2merge?idName=smartebyernorge.no  ",
     "jobStartURL": "/urbalurba/merge/webpage_info2merge",
     "jobServicename": null,
-    "jobStatus": "Finished",
+    "jobStatus": "Running",
     "jobType": "webscrape",
     "maxRunTimeSeconds": 1200
   },
@@ -433,7 +433,7 @@
   },
   {
     "jobName": "geonorge2merge",
-    "statusTime": "2023-03-26T10:33:00.169Z",
+    "statusTime": "2023-03-27T05:09:00.153Z",
     "blockJobType": null,
     "step": 120,
     "summary": "API to geonorge for getting gps and address (municipality and postal)",
@@ -451,13 +451,13 @@
     "summary": "Webscrape brreg.no with known organization number. For one ?idName=smartebyernorge.no",
     "jobStartURL": "/urbalurba/merge/brreg_webscrape2merge",
     "jobServicename": null,
-    "jobStatus": "Running",
+    "jobStatus": "Ready",
     "jobType": "datalookup",
     "maxRunTimeSeconds": 600
   },
   {
     "jobName": "shadowbrreg2merge",
-    "statusTime": "2023-03-26T10:42:09.952Z",
+    "statusTime": "2023-03-27T05:15:17.307Z",
     "blockJobType": null,
     "step": 100,
     "summary": "Import of shadowbrreg data. Import just one by: shadowbrreg2merge?orgnum=914963737",
@@ -469,7 +469,7 @@
   },
   {
     "jobName": "maestro",
-    "statusTime": "2023-03-26T10:42:38.313Z",
+    "statusTime": "2023-03-27T05:15:29.822Z",
     "blockJobType": null,
     "step": 50,
     "summary": "Move jobs from one queue to the next",
