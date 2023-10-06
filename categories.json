@@ -9836,6 +9836,1007 @@
           "square": "http://images.urbalurba.com/img/system/default/category/square.png",
           "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
         }
+      },
+      {
+        "idName": "58.120",
+        "displayName": "Utgivelse av kataloger og adresselister",
+        "summary": "Utgivelse av kataloger og adresselister",
+        "description": "Utgivelse av kataloger og adresselister",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "14.140",
+        "displayName": "Produksjon av undertøy og innertøy",
+        "summary": "Produksjon av undertøy og innertøy",
+        "description": "Produksjon av undertøy og innertøy",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "23.490",
+        "displayName": "Produksjon av andre keramiske produkter",
+        "summary": "Produksjon av andre keramiske produkter",
+        "description": "Produksjon av andre keramiske produkter",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "30.910",
+        "displayName": "Produksjon av motorsykler",
+        "summary": "Produksjon av motorsykler",
+        "description": "Produksjon av motorsykler",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "01.640",
+        "displayName": "Behandling av såfrø",
+        "summary": "Behandling av såfrø",
+        "description": "Behandling av såfrø",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "28.910",
+        "displayName": "Produksjon av maskiner og utstyr til metallurgisk industri",
+        "summary": "Produksjon av maskiner og utstyr til metallurgisk industri",
+        "description": "Produksjon av maskiner og utstyr til metallurgisk industri",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "16.220",
+        "displayName": "Produksjon av sammensatte parkettstaver",
+        "summary": "Produksjon av sammensatte parkettstaver",
+        "description": "Produksjon av sammensatte parkettstaver",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "24.540",
+        "displayName": "Støping av andre ikke-jernholdige metaller",
+        "summary": "Støping av andre ikke-jernholdige metaller",
+        "description": "Støping av andre ikke-jernholdige metaller",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "23.110",
+        "displayName": "Produksjon av planglass",
+        "summary": "Produksjon av planglass",
+        "description": "Produksjon av planglass",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "28.230",
+        "displayName": "Produksjon av kontormaskiner og utstyr (unntatt datamaskiner og tilleggsutstyr)",
+        "summary": "Produksjon av kontormaskiner og utstyr (unntatt datamaskiner og tilleggsutstyr)",
+        "description": "Produksjon av kontormaskiner og utstyr (unntatt datamaskiner og tilleggsutstyr)",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "47.890",
+        "displayName": "Torghandel med andre varer",
+        "summary": "Torghandel med andre varer",
+        "description": "Torghandel med andre varer",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "23.440",
+        "displayName": "Produksjon av andre keramiske produkter for teknisk bruk",
+        "summary": "Produksjon av andre keramiske produkter for teknisk bruk",
+        "description": "Produksjon av andre keramiske produkter for teknisk bruk",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "23.620",
+        "displayName": "Produksjon av gipsprodukter for bygge- og anleggsvirksomhet",
+        "summary": "Produksjon av gipsprodukter for bygge- og anleggsvirksomhet",
+        "description": "Produksjon av gipsprodukter for bygge- og anleggsvirksomhet",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "52.213",
+        "displayName": "Drift av bomstasjoner",
+        "summary": "Drift av bomstasjoner",
+        "description": "Drift av bomstasjoner",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "10.413",
+        "displayName": "Produksjon av raffinerte oljer og fett",
+        "summary": "Produksjon av raffinerte oljer og fett",
+        "description": "Produksjon av raffinerte oljer og fett",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "35.230",
+        "displayName": "Handel med gass gjennom ledningsnett",
+        "summary": "Handel med gass gjennom ledningsnett",
+        "description": "Handel med gass gjennom ledningsnett",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "28.240",
+        "displayName": "Produksjon av motordrevet håndverktøy",
+        "summary": "Produksjon av motordrevet håndverktøy",
+        "description": "Produksjon av motordrevet håndverktøy",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "23.520",
+        "displayName": "Produksjon av kalk og gips",
+        "summary": "Produksjon av kalk og gips",
+        "description": "Produksjon av kalk og gips",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "13.200",
+        "displayName": "Veving av tekstiler",
+        "summary": "Veving av tekstiler",
+        "description": "Veving av tekstiler",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "24.430",
+        "displayName": "Produksjon av bly, sink og tinn",
+        "summary": "Produksjon av bly, sink og tinn",
+        "description": "Produksjon av bly, sink og tinn",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "23.650",
+        "displayName": "Produksjon av fibersement",
+        "summary": "Produksjon av fibersement",
+        "description": "Produksjon av fibersement",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "14.200",
+        "displayName": "Produksjon av pelsvarer",
+        "summary": "Produksjon av pelsvarer",
+        "description": "Produksjon av pelsvarer",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "46.110",
+        "displayName": "Agenturhandel med jordbruksråvarer, levende dyr, tekstilråvarer og innsatsvarer",
+        "summary": "Agenturhandel med jordbruksråvarer, levende dyr, tekstilråvarer og innsatsvarer",
+        "description": "Agenturhandel med jordbruksråvarer, levende dyr, tekstilråvarer og innsatsvarer",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "27.520",
+        "displayName": "Produksjon av ikke-elektriske husholdningsmaskiner og -apparater",
+        "summary": "Produksjon av ikke-elektriske husholdningsmaskiner og -apparater",
+        "description": "Produksjon av ikke-elektriske husholdningsmaskiner og -apparater",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "35.114",
+        "displayName": "Produksjon av elektrisitet fra naturgass",
+        "summary": "Produksjon av elektrisitet fra naturgass",
+        "description": "Produksjon av elektrisitet fra naturgass",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "52.293",
+        "displayName": "Flymegling",
+        "summary": "Flymegling",
+        "description": "Flymegling",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "29.100",
+        "displayName": "Produksjon av motorvogner",
+        "summary": "Produksjon av motorvogner",
+        "description": "Produksjon av motorvogner",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "01.440",
+        "displayName": "Oppdrett av kameler og andre kameldyr",
+        "summary": "Oppdrett av kameler og andre kameldyr",
+        "description": "Oppdrett av kameler og andre kameldyr",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "05.100",
+        "displayName": "Bryting av steinkull",
+        "summary": "Bryting av steinkull",
+        "description": "Bryting av steinkull",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "30.200",
+        "displayName": "Produksjon av lokomotiver og annet rullende materiell til jernbane og sporvei",
+        "summary": "Produksjon av lokomotiver og annet rullende materiell til jernbane og sporvei",
+        "description": "Produksjon av lokomotiver og annet rullende materiell til jernbane og sporvei",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "35.120",
+        "displayName": "Overføring av elektrisitet",
+        "summary": "Overføring av elektrisitet",
+        "description": "Overføring av elektrisitet",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "25.940",
+        "displayName": "Produksjon av bolter og skruer",
+        "summary": "Produksjon av bolter og skruer",
+        "description": "Produksjon av bolter og skruer",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "86.103",
+        "displayName": "Andre somatiske spesialinstitusjoner",
+        "summary": "Andre somatiske spesialinstitusjoner",
+        "description": "Andre somatiske spesialinstitusjoner",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "32.910",
+        "displayName": "Produksjon av koster og børster",
+        "summary": "Produksjon av koster og børster",
+        "description": "Produksjon av koster og børster",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "28.960",
+        "displayName": "Produksjon av maskiner og utstyr til plast- og gummiindustri",
+        "summary": "Produksjon av maskiner og utstyr til plast- og gummiindustri",
+        "description": "Produksjon av maskiner og utstyr til plast- og gummiindustri",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "28.940",
+        "displayName": "Produksjon av maskiner og utstyr til tekstil-, konfeksjons- og lærvare industri",
+        "summary": "Produksjon av maskiner og utstyr til tekstil-, konfeksjons- og lærvare industri",
+        "description": "Produksjon av maskiner og utstyr til tekstil-, konfeksjons- og lærvare industri",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "20.200",
+        "displayName": "Produksjon av plantevern- og skadedyrmidler og andre landbrukskjemiske produkter",
+        "summary": "Produksjon av plantevern- og skadedyrmidler og andre landbrukskjemiske produkter",
+        "description": "Produksjon av plantevern- og skadedyrmidler og andre landbrukskjemiske produkter",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "17.230",
+        "displayName": "Produksjon av kontorartikler av papir",
+        "summary": "Produksjon av kontorartikler av papir",
+        "description": "Produksjon av kontorartikler av papir",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "87.305",
+        "displayName": "Barneboliger",
+        "summary": "Barneboliger",
+        "description": "Barneboliger",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "20.530",
+        "displayName": "Produksjon av eteriske oljer",
+        "summary": "Produksjon av eteriske oljer",
+        "description": "Produksjon av eteriske oljer",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "30.300",
+        "displayName": "Produksjon av luftfartøyer og romfartøyer og lignende utstyr",
+        "summary": "Produksjon av luftfartøyer og romfartøyer og lignende utstyr",
+        "description": "Produksjon av luftfartøyer og romfartøyer og lignende utstyr",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "30.990",
+        "displayName": "Produksjon av andre transportmidler ikke nevnt annet sted",
+        "summary": "Produksjon av andre transportmidler ikke nevnt annet sted",
+        "description": "Produksjon av andre transportmidler ikke nevnt annet sted",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "85.100",
+        "displayName": "Førskoleundervisning",
+        "summary": "Førskoleundervisning",
+        "description": "Førskoleundervisning",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "14.110",
+        "displayName": "Produksjon av klær av lær",
+        "summary": "Produksjon av klær av lær",
+        "description": "Produksjon av klær av lær",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "13.950",
+        "displayName": "Produksjon av ikke-vevde tekstiler og tekstilvarer, unntatt klær",
+        "summary": "Produksjon av ikke-vevde tekstiler og tekstilvarer, unntatt klær",
+        "description": "Produksjon av ikke-vevde tekstiler og tekstilvarer, unntatt klær",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "26.800",
+        "displayName": "Produksjon av magnetiske og optiske media",
+        "summary": "Produksjon av magnetiske og optiske media",
+        "description": "Produksjon av magnetiske og optiske media",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "87.303",
+        "displayName": "Bofellesskap for eldre og funksjonshemmede med fast tilknyttet personell deler av døgnet",
+        "summary": "Bofellesskap for eldre og funksjonshemmede med fast tilknyttet personell deler av døgnet",
+        "description": "Bofellesskap for eldre og funksjonshemmede med fast tilknyttet personell deler av døgnet",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "15.110",
+        "displayName": "Beredning av lær, og beredning og farging av pelsskinn",
+        "summary": "Beredning av lær, og beredning og farging av pelsskinn",
+        "description": "Beredning av lær, og beredning og farging av pelsskinn",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "50.400",
+        "displayName": "Godstransport på elver og innsjøer",
+        "summary": "Godstransport på elver og innsjøer",
+        "description": "Godstransport på elver og innsjøer",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "01.630",
+        "displayName": "Etterbehandling av vekster etter innhøsting",
+        "summary": "Etterbehandling av vekster etter innhøsting",
+        "description": "Etterbehandling av vekster etter innhøsting",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "20.120",
+        "displayName": "Produksjon av fargestoffer og pigmenter",
+        "summary": "Produksjon av fargestoffer og pigmenter",
+        "description": "Produksjon av fargestoffer og pigmenter",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "85.424",
+        "displayName": "Undervisning ved militære høgskoler",
+        "summary": "Undervisning ved militære høgskoler",
+        "description": "Undervisning ved militære høgskoler",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "23.320",
+        "displayName": "Produksjon av murstein, teglstein og andre byggevarer av brent leire",
+        "summary": "Produksjon av murstein, teglstein og andre byggevarer av brent leire",
+        "description": "Produksjon av murstein, teglstein og andre byggevarer av brent leire",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "19.100",
+        "displayName": "Produksjon av kullprodukter",
+        "summary": "Produksjon av kullprodukter",
+        "description": "Produksjon av kullprodukter",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "10.810",
+        "displayName": "Produksjon av sukker",
+        "summary": "Produksjon av sukker",
+        "description": "Produksjon av sukker",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "28.950",
+        "displayName": "Produksjon av maskiner og utstyr til papir- og pappvareindustri",
+        "summary": "Produksjon av maskiner og utstyr til papir- og pappvareindustri",
+        "description": "Produksjon av maskiner og utstyr til papir- og pappvareindustri",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "52.216",
+        "displayName": "Kondensering av gass med henblikk på transport",
+        "summary": "Kondensering av gass med henblikk på transport",
+        "description": "Kondensering av gass med henblikk på transport",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "47.820",
+        "displayName": "Torghandel med tekstiler, klær, skotøy og utstyrsvarer",
+        "summary": "Torghandel med tekstiler, klær, skotøy og utstyrsvarer",
+        "description": "Torghandel med tekstiler, klær, skotøy og utstyrsvarer",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "12.000",
+        "displayName": "Produksjon av tobakksvarer",
+        "summary": "Produksjon av tobakksvarer",
+        "description": "Produksjon av tobakksvarer",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "32.110",
+        "displayName": "Preging av mynter og medaljer",
+        "summary": "Preging av mynter og medaljer",
+        "description": "Preging av mynter og medaljer",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "24.440",
+        "displayName": "Produksjon av kobber",
+        "summary": "Produksjon av kobber",
+        "description": "Produksjon av kobber",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "10.412",
+        "displayName": "Produksjon av andre uraffinerte oljer og fett",
+        "summary": "Produksjon av andre uraffinerte oljer og fett",
+        "description": "Produksjon av andre uraffinerte oljer og fett",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "43.130",
+        "displayName": "Prøveboring",
+        "summary": "Prøveboring",
+        "description": "Prøveboring",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "08.930",
+        "displayName": "Utvinning av salt",
+        "summary": "Utvinning av salt",
+        "description": "Utvinning av salt",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "25.920",
+        "displayName": "Produksjon av emballasje av lettmetall",
+        "summary": "Produksjon av emballasje av lettmetall",
+        "description": "Produksjon av emballasje av lettmetall",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "17.240",
+        "displayName": "Produksjon av tapeter",
+        "summary": "Produksjon av tapeter",
+        "description": "Produksjon av tapeter",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "24.320",
+        "displayName": "Kaldvalsing av bånd",
+        "summary": "Kaldvalsing av bånd",
+        "description": "Kaldvalsing av bånd",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "17.220",
+        "displayName": "Produksjon av husholdnings-, sanitær- og toalettartikler av papir",
+        "summary": "Produksjon av husholdnings-, sanitær- og toalettartikler av papir",
+        "description": "Produksjon av husholdnings-, sanitær- og toalettartikler av papir",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "24.410",
+        "displayName": "Produksjon av edelmetaller",
+        "summary": "Produksjon av edelmetaller",
+        "description": "Produksjon av edelmetaller",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "53.100",
+        "displayName": "Landsdekkende posttjenester",
+        "summary": "Landsdekkende posttjenester",
+        "description": "Landsdekkende posttjenester",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "30.400",
+        "displayName": "Produksjon av militære stridskjøretøyer",
+        "summary": "Produksjon av militære stridskjøretøyer",
+        "description": "Produksjon av militære stridskjøretøyer",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "51.220",
+        "displayName": "Romfart",
+        "summary": "Romfart",
+        "description": "Romfart",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "01.150",
+        "displayName": "Dyrking av tobakk",
+        "summary": "Dyrking av tobakk",
+        "description": "Dyrking av tobakk",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "86.903",
+        "displayName": "Helsestasjon og skolehelsetjeneste",
+        "summary": "Helsestasjon og skolehelsetjeneste",
+        "description": "Helsestasjon og skolehelsetjeneste",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "01.140",
+        "displayName": "Dyrking av sukkerrør",
+        "summary": "Dyrking av sukkerrør",
+        "description": "Dyrking av sukkerrør",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "23.310",
+        "displayName": "Produksjon av keramiske vegg- og gulvfliser",
+        "summary": "Produksjon av keramiske vegg- og gulvfliser",
+        "description": "Produksjon av keramiske vegg- og gulvfliser",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "87.201",
+        "displayName": "Psykiatriske sykehjem",
+        "summary": "Psykiatriske sykehjem",
+        "description": "Psykiatriske sykehjem",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
       }
     ]
   },
@@ -10326,6 +11327,58 @@
         "displayName": "Tvangsregistrert for MVA",
         "summary": "Tvangsregistrert for MVA",
         "description": "Tvangsregistrert for MVA",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "bo",
+        "displayName": "Andre bo",
+        "summary": "Andre bo",
+        "description": "Andre bo",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "ados",
+        "displayName": "Administrativ enhet - offentlig sektor",
+        "summary": "Administrativ enhet - offentlig sektor",
+        "description": "Administrativ enhet - offentlig sektor",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "se",
+        "displayName": "Europeisk selskap",
+        "summary": "Europeisk selskap",
+        "description": "Europeisk selskap",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "ikjp",
+        "displayName": "Andre ikke-juridiske personer",
+        "summary": "Andre ikke-juridiske personer",
+        "description": "Andre ikke-juridiske personer",
         "sortOrder": 99,
         "image": {
           "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
@@ -16598,6 +17651,347 @@
       "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
     },
     "categoryitems": []
+  },
+  {
+    "idName": "institusjonellsektorkode",
+    "displayName": "institusjonellSektorkode",
+    "summary": "institusjonellSektorkode",
+    "description": "institusjonellSektorkode",
+    "categoryType": "single",
+    "sortOrder": null,
+    "image": {
+      "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+      "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+      "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+      "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+    },
+    "categoryitems": [
+      {
+        "idName": "7000",
+        "displayName": "Ideelle organisasjoner",
+        "summary": "Ideelle organisasjoner",
+        "description": "Ideelle organisasjoner",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "2100",
+        "displayName": "Private aksjeselskaper mv.",
+        "summary": "Private aksjeselskaper mv.",
+        "description": "Private aksjeselskaper mv.",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "4900",
+        "displayName": "Øvrige finansielle foretak unntatt forsikring",
+        "summary": "Øvrige finansielle foretak unntatt forsikring",
+        "description": "Øvrige finansielle foretak unntatt forsikring",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "2300",
+        "displayName": "Personlige foretak",
+        "summary": "Personlige foretak",
+        "description": "Personlige foretak",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "1520",
+        "displayName": "Kommunalt eide aksjeselskaper mv.",
+        "summary": "Kommunalt eide aksjeselskaper mv.",
+        "description": "Kommunalt eide aksjeselskaper mv.",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "8300",
+        "displayName": "Borettslag o.l.",
+        "summary": "Borettslag o.l.",
+        "description": "Borettslag o.l.",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "2500",
+        "displayName": "Private produsentorienterte organisasjoner uten profittformål",
+        "summary": "Private produsentorienterte organisasjoner uten profittformål",
+        "description": "Private produsentorienterte organisasjoner uten profittformål",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "1120",
+        "displayName": "Statlig eide aksjeselskaper mv.",
+        "summary": "Statlig eide aksjeselskaper mv.",
+        "description": "Statlig eide aksjeselskaper mv.",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "6500",
+        "displayName": "Kommuneforvaltningen",
+        "summary": "Kommuneforvaltningen",
+        "description": "Kommuneforvaltningen",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "6100",
+        "displayName": "Statsforvaltningen",
+        "summary": "Statsforvaltningen",
+        "description": "Statsforvaltningen",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "5500",
+        "displayName": "Livsforsikringsselskaper og pensjonskasser",
+        "summary": "Livsforsikringsselskaper og pensjonskasser",
+        "description": "Livsforsikringsselskaper og pensjonskasser",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "9000",
+        "displayName": "Utlandet",
+        "summary": "Utlandet",
+        "description": "Utlandet",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "4300",
+        "displayName": "Verdipapirfond",
+        "summary": "Verdipapirfond",
+        "description": "Verdipapirfond",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "8500",
+        "displayName": "Lønnstakere, pensjonister, trygdede, studenter o.a.",
+        "summary": "Lønnstakere, pensjonister, trygdede, studenter o.a.",
+        "description": "Lønnstakere, pensjonister, trygdede, studenter o.a.",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "3200",
+        "displayName": "Banker",
+        "summary": "Banker",
+        "description": "Banker",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "4500",
+        "displayName": "Alternative investeringsfond (AIF) unntatt verdipapirfond",
+        "summary": "Alternative investeringsfond (AIF) unntatt verdipapirfond",
+        "description": "Alternative investeringsfond (AIF) unntatt verdipapirfond",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "5700",
+        "displayName": "Skadeforsikringsselskaper",
+        "summary": "Skadeforsikringsselskaper",
+        "description": "Skadeforsikringsselskaper",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "3600",
+        "displayName": "Finansieringsforetak",
+        "summary": "Finansieringsforetak",
+        "description": "Finansieringsforetak",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "3500",
+        "displayName": "Kredittforetak",
+        "summary": "Kredittforetak",
+        "description": "Kredittforetak",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "1510",
+        "displayName": "Kommunale foretak med ubegrenset ansvar",
+        "summary": "Kommunale foretak med ubegrenset ansvar",
+        "description": "Kommunale foretak med ubegrenset ansvar",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "3900",
+        "displayName": "Statlige låneinstitutter mv.",
+        "summary": "Statlige låneinstitutter mv.",
+        "description": "Statlige låneinstitutter mv.",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "1110",
+        "displayName": "Statens forretningsdrift",
+        "summary": "Statens forretningsdrift",
+        "description": "Statens forretningsdrift",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "4100",
+        "displayName": "Holdingforetak i finanskonsern",
+        "summary": "Holdingforetak i finanskonsern",
+        "description": "Holdingforetak i finanskonsern",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "8200",
+        "displayName": "Personlig næringsdrivende",
+        "summary": "Personlig næringsdrivende",
+        "description": "Personlig næringsdrivende",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      },
+      {
+        "idName": "3100",
+        "displayName": "Norges Bank",
+        "summary": "Norges Bank",
+        "description": "Norges Bank",
+        "sortOrder": 99,
+        "image": {
+          "icon": "http://images.urbalurba.com/img/system/default/category/icon.png",
+          "profile": "http://images.urbalurba.com/img/system/default/category/profile.png",
+          "square": "http://images.urbalurba.com/img/system/default/category/square.png",
+          "cover": "http://images.urbalurba.com/img/system/default/category/cover.png"
+        }
+      }
+    ]
   },
   {
     "idName": "institusjonellSektorkode",
